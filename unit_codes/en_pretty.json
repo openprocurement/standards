@@ -1,0 +1,8366 @@
+{
+    "05": {
+        "name": "lift", 
+        "symbol": ""
+    }, 
+    "06": {
+        "name": "small spray", 
+        "symbol": ""
+    }, 
+    "08": {
+        "name": "heat lot", 
+        "symbol": ""
+    }, 
+    "10": {
+        "name": "group", 
+        "symbol": ""
+    }, 
+    "11": {
+        "name": "outfit", 
+        "symbol": ""
+    }, 
+    "13": {
+        "name": "ration", 
+        "symbol": ""
+    }, 
+    "14": {
+        "name": "shot", 
+        "symbol": ""
+    }, 
+    "15": {
+        "name": "stick, military", 
+        "symbol": ""
+    }, 
+    "16": {
+        "name": "hundred fifteen kg drum", 
+        "symbol": ""
+    }, 
+    "17": {
+        "name": "hundred lb drum", 
+        "symbol": ""
+    }, 
+    "18": {
+        "name": "fiftyfive gallon (US) drum", 
+        "symbol": ""
+    }, 
+    "19": {
+        "name": "tank truck", 
+        "symbol": ""
+    }, 
+    "1A": {
+        "name": "car mile", 
+        "symbol": ""
+    }, 
+    "1B": {
+        "name": "car count", 
+        "symbol": ""
+    }, 
+    "1C": {
+        "name": "locomotive count", 
+        "symbol": ""
+    }, 
+    "1D": {
+        "name": "caboose count", 
+        "symbol": ""
+    }, 
+    "1E": {
+        "name": "empty car", 
+        "symbol": ""
+    }, 
+    "1F": {
+        "name": "train mile", 
+        "symbol": ""
+    }, 
+    "1G": {
+        "name": "fuel usage gallon (US)", 
+        "symbol": ""
+    }, 
+    "1H": {
+        "name": "caboose mile", 
+        "symbol": ""
+    }, 
+    "1I": {
+        "name": "fixed rate", 
+        "symbol": ""
+    }, 
+    "1J": {
+        "name": "ton mile", 
+        "symbol": ""
+    }, 
+    "1K": {
+        "name": "locomotive mile", 
+        "symbol": ""
+    }, 
+    "1L": {
+        "name": "total car count", 
+        "symbol": ""
+    }, 
+    "1M": {
+        "name": "total car mile", 
+        "symbol": ""
+    }, 
+    "1X": {
+        "name": "quarter mile", 
+        "symbol": ""
+    }, 
+    "20": {
+        "name": "twenty foot container", 
+        "symbol": ""
+    }, 
+    "21": {
+        "name": "forty foot container", 
+        "symbol": ""
+    }, 
+    "22": {
+        "name": "decilitre per gram", 
+        "symbol": "dl/g"
+    }, 
+    "23": {
+        "name": "gram per cubic centimetre", 
+        "symbol": "g/cm\u00b3"
+    }, 
+    "24": {
+        "name": "theoretical pound", 
+        "symbol": ""
+    }, 
+    "25": {
+        "name": "gram per square centimetre", 
+        "symbol": "g/cm\u00b2"
+    }, 
+    "26": {
+        "name": "actual ton", 
+        "symbol": ""
+    }, 
+    "27": {
+        "name": "theoretical ton", 
+        "symbol": ""
+    }, 
+    "28": {
+        "name": "kilogram per square metre", 
+        "symbol": "kg/m\u00b2"
+    }, 
+    "29": {
+        "name": "pound per thousand square foot", 
+        "symbol": "lb/kft\u00b2"
+    }, 
+    "2A": {
+        "name": "radian per second", 
+        "symbol": "rad/s"
+    }, 
+    "2B": {
+        "name": "radian per second squared", 
+        "symbol": "rad/s\u00b2"
+    }, 
+    "2C": {
+        "name": "roentgen", 
+        "symbol": "R"
+    }, 
+    "2G": {
+        "name": "volt AC", 
+        "symbol": "V"
+    }, 
+    "2H": {
+        "name": "volt DC", 
+        "symbol": "V"
+    }, 
+    "2I": {
+        "name": "British thermal unit (international table) per hour", 
+        "symbol": "BtuIT/h"
+    }, 
+    "2J": {
+        "name": "cubic centimetre per second", 
+        "symbol": "cm\u00b3/s"
+    }, 
+    "2K": {
+        "name": "cubic foot per hour", 
+        "symbol": "ft\u00b3/h"
+    }, 
+    "2L": {
+        "name": "cubic foot per minute", 
+        "symbol": "ft\u00b3/min"
+    }, 
+    "2M": {
+        "name": "centimetre per second", 
+        "symbol": "cm/s"
+    }, 
+    "2N": {
+        "name": "decibel", 
+        "symbol": "dB"
+    }, 
+    "2P": {
+        "name": "kilobyte", 
+        "symbol": "kbyte"
+    }, 
+    "2Q": {
+        "name": "kilobecquerel", 
+        "symbol": "kBq"
+    }, 
+    "2R": {
+        "name": "kilocurie", 
+        "symbol": "kCi"
+    }, 
+    "2U": {
+        "name": "megagram", 
+        "symbol": "Mg"
+    }, 
+    "2V": {
+        "name": "megagram per hour", 
+        "symbol": "Mg/h"
+    }, 
+    "2W": {
+        "name": "bin", 
+        "symbol": ""
+    }, 
+    "2X": {
+        "name": "metre per minute", 
+        "symbol": "m/min"
+    }, 
+    "2Y": {
+        "name": "milliroentgen", 
+        "symbol": "mR"
+    }, 
+    "2Z": {
+        "name": "millivolt", 
+        "symbol": "mV"
+    }, 
+    "30": {
+        "name": "horse power day per air dry metric ton", 
+        "symbol": ""
+    }, 
+    "31": {
+        "name": "catch weight", 
+        "symbol": ""
+    }, 
+    "32": {
+        "name": "kilogram per air dry metric ton", 
+        "symbol": ""
+    }, 
+    "33": {
+        "name": "kilopascal square metre per gram", 
+        "symbol": "kPa\u00b7m\u00b2/g"
+    }, 
+    "34": {
+        "name": "kilopascal per millimetre", 
+        "symbol": "kPa/mm"
+    }, 
+    "35": {
+        "name": "millilitre per square centimetre second", 
+        "symbol": "ml/(cm\u00b2\u00b7s)"
+    }, 
+    "36": {
+        "name": "cubic foot per minute per square foot", 
+        "symbol": "ft\u00b3/(min/ft\u00b2)"
+    }, 
+    "37": {
+        "name": "ounce per square foot", 
+        "symbol": "oz/ft\u00b2"
+    }, 
+    "38": {
+        "name": "ounce per square foot per 0,01inch", 
+        "symbol": "oz/(ft\u00b2/cin)"
+    }, 
+    "3B": {
+        "name": "megajoule", 
+        "symbol": "MJ"
+    }, 
+    "3C": {
+        "name": "manmonth", 
+        "symbol": ""
+    }, 
+    "3E": {
+        "name": "pound per pound of product", 
+        "symbol": ""
+    }, 
+    "3G": {
+        "name": "pound per piece of product", 
+        "symbol": ""
+    }, 
+    "3H": {
+        "name": "kilogram per kilogram of product", 
+        "symbol": ""
+    }, 
+    "3I": {
+        "name": "kilogram per piece of product", 
+        "symbol": ""
+    }, 
+    "40": {
+        "name": "millilitre per second", 
+        "symbol": "ml/s"
+    }, 
+    "41": {
+        "name": "millilitre per minute", 
+        "symbol": "ml/min"
+    }, 
+    "43": {
+        "name": "super bulk bag", 
+        "symbol": ""
+    }, 
+    "44": {
+        "name": "fivehundred kg bulk bag", 
+        "symbol": ""
+    }, 
+    "45": {
+        "name": "threehundred kg bulk bag", 
+        "symbol": ""
+    }, 
+    "46": {
+        "name": "fifty lb bulk bag", 
+        "symbol": ""
+    }, 
+    "47": {
+        "name": "fifty lb bag", 
+        "symbol": ""
+    }, 
+    "48": {
+        "name": "bulk car load", 
+        "symbol": ""
+    }, 
+    "4A": {
+        "name": "bobbin", 
+        "symbol": ""
+    }, 
+    "4B": {
+        "name": "cap", 
+        "symbol": ""
+    }, 
+    "4C": {
+        "name": "centistokes", 
+        "symbol": "cSt"
+    }, 
+    "4E": {
+        "name": "twenty pack", 
+        "symbol": ""
+    }, 
+    "4G": {
+        "name": "microlitre", 
+        "symbol": "\u00b5l"
+    }, 
+    "4H": {
+        "name": "micrometre (micron)", 
+        "symbol": "\u00b5m"
+    }, 
+    "4K": {
+        "name": "milliampere", 
+        "symbol": "mA"
+    }, 
+    "4L": {
+        "name": "megabyte", 
+        "symbol": "Mbyte"
+    }, 
+    "4M": {
+        "name": "milligram per hour", 
+        "symbol": "mg/h"
+    }, 
+    "4N": {
+        "name": "megabecquerel", 
+        "symbol": "MBq"
+    }, 
+    "4O": {
+        "name": "microfarad", 
+        "symbol": "\u00b5F"
+    }, 
+    "4P": {
+        "name": "newton per metre", 
+        "symbol": "N/m"
+    }, 
+    "4Q": {
+        "name": "ounce inch", 
+        "symbol": "oz\u00b7in"
+    }, 
+    "4R": {
+        "name": "ounce foot", 
+        "symbol": "oz\u00b7ft"
+    }, 
+    "4T": {
+        "name": "picofarad", 
+        "symbol": "pF"
+    }, 
+    "4U": {
+        "name": "pound per hour", 
+        "symbol": "lb/h"
+    }, 
+    "4W": {
+        "name": "ton (US) per hour", 
+        "symbol": "ton (US) /h"
+    }, 
+    "4X": {
+        "name": "kilolitre per hour", 
+        "symbol": "kl/h"
+    }, 
+    "53": {
+        "name": "theoretical kilogram", 
+        "symbol": ""
+    }, 
+    "54": {
+        "name": "theoretical tonne", 
+        "symbol": ""
+    }, 
+    "56": {
+        "name": "sitas", 
+        "symbol": ""
+    }, 
+    "57": {
+        "name": "mesh", 
+        "symbol": ""
+    }, 
+    "58": {
+        "name": "net kilogram", 
+        "symbol": ""
+    }, 
+    "59": {
+        "name": "part per million", 
+        "symbol": "ppm"
+    }, 
+    "5A": {
+        "name": "barrel (US) per minute", 
+        "symbol": "barrel (US)/min"
+    }, 
+    "5B": {
+        "name": "batch", 
+        "symbol": ""
+    }, 
+    "5C": {
+        "name": "gallon(US) per thousand", 
+        "symbol": ""
+    }, 
+    "5E": {
+        "name": "MMSCF/day", 
+        "symbol": ""
+    }, 
+    "5F": {
+        "name": "pound per thousand", 
+        "symbol": ""
+    }, 
+    "5G": {
+        "name": "pump", 
+        "symbol": ""
+    }, 
+    "5H": {
+        "name": "stage", 
+        "symbol": ""
+    }, 
+    "5I": {
+        "name": "standard cubic foot", 
+        "symbol": "std"
+    }, 
+    "5J": {
+        "name": "hydraulic horse power", 
+        "symbol": ""
+    }, 
+    "5K": {
+        "name": "count per minute", 
+        "symbol": ""
+    }, 
+    "5P": {
+        "name": "seismic level", 
+        "symbol": ""
+    }, 
+    "5Q": {
+        "name": "seismic line", 
+        "symbol": ""
+    }, 
+    "60": {
+        "name": "percent weight", 
+        "symbol": ""
+    }, 
+    "61": {
+        "name": "part per billion (US)", 
+        "symbol": "ppb"
+    }, 
+    "62": {
+        "name": "percent per 1000 hour", 
+        "symbol": ""
+    }, 
+    "63": {
+        "name": "failure rate in time", 
+        "symbol": ""
+    }, 
+    "64": {
+        "name": "pound per square inch, gauge", 
+        "symbol": ""
+    }, 
+    "66": {
+        "name": "oersted", 
+        "symbol": "Oe"
+    }, 
+    "69": {
+        "name": "test specific scale", 
+        "symbol": ""
+    }, 
+    "71": {
+        "name": "volt ampere per pound", 
+        "symbol": ""
+    }, 
+    "72": {
+        "name": "watt per pound", 
+        "symbol": ""
+    }, 
+    "73": {
+        "name": "ampere tum per centimetre", 
+        "symbol": ""
+    }, 
+    "74": {
+        "name": "millipascal", 
+        "symbol": "mPa"
+    }, 
+    "76": {
+        "name": "gauss", 
+        "symbol": "Gs"
+    }, 
+    "77": {
+        "name": "milli-inch", 
+        "symbol": "mil"
+    }, 
+    "78": {
+        "name": "kilogauss", 
+        "symbol": "kGs"
+    }, 
+    "80": {
+        "name": "pound per square inch absolute", 
+        "symbol": "lb/in\u00b2"
+    }, 
+    "81": {
+        "name": "henry", 
+        "symbol": "H"
+    }, 
+    "84": {
+        "name": "kilopound-force per square inch", 
+        "symbol": "klbf/in\u00b2"
+    }, 
+    "85": {
+        "name": "foot pound-force", 
+        "symbol": "ft\u00b7lbf"
+    }, 
+    "87": {
+        "name": "pound per cubic foot", 
+        "symbol": "lb/ft\u00b3"
+    }, 
+    "89": {
+        "name": "poise", 
+        "symbol": "P"
+    }, 
+    "90": {
+        "name": "Saybold universal second", 
+        "symbol": ""
+    }, 
+    "91": {
+        "name": "stokes", 
+        "symbol": "St"
+    }, 
+    "92": {
+        "name": "calorie per cubic centimetre", 
+        "symbol": ""
+    }, 
+    "93": {
+        "name": "calorie per gram", 
+        "symbol": "cal/g"
+    }, 
+    "94": {
+        "name": "curl unit", 
+        "symbol": ""
+    }, 
+    "95": {
+        "name": "twenty thousand gallon (US) tankcar", 
+        "symbol": ""
+    }, 
+    "96": {
+        "name": "ten thousand gallon (US) tankcar", 
+        "symbol": ""
+    }, 
+    "97": {
+        "name": "ten kg drum", 
+        "symbol": ""
+    }, 
+    "98": {
+        "name": "fifteen kg drum", 
+        "symbol": ""
+    }, 
+    "A1": {
+        "name": "15 \u00b0C calorie", 
+        "symbol": "cal\u2081\u2085"
+    }, 
+    "A10": {
+        "name": "ampere square metre per joule second", 
+        "symbol": "A\u00b7m\u00b2/(J\u00b7s)"
+    }, 
+    "A11": {
+        "name": "angstrom", 
+        "symbol": "\u00c5"
+    }, 
+    "A12": {
+        "name": "astronomical unit", 
+        "symbol": "ua"
+    }, 
+    "A13": {
+        "name": "attojoule", 
+        "symbol": "aJ"
+    }, 
+    "A14": {
+        "name": "barn", 
+        "symbol": "b"
+    }, 
+    "A15": {
+        "name": "barn per electronvolt", 
+        "symbol": "b/eV"
+    }, 
+    "A16": {
+        "name": "barn per steradian electronvolt", 
+        "symbol": "b/(sr\u00b7eV)"
+    }, 
+    "A17": {
+        "name": "barn per steradian", 
+        "symbol": "b/sr"
+    }, 
+    "A18": {
+        "name": "becquerel per kilogram", 
+        "symbol": "Bq/kg"
+    }, 
+    "A19": {
+        "name": "becquerel per cubic metre", 
+        "symbol": "Bq/m\u00b3"
+    }, 
+    "A2": {
+        "name": "ampere per centimetre", 
+        "symbol": "A/cm"
+    }, 
+    "A20": {
+        "name": "British thermal unit (international table) per second square foot degree Rankine", 
+        "symbol": "BtuIT/(s\u00b7ft\u00b2\u00b7\u00b0R)"
+    }, 
+    "A21": {
+        "name": "British thermal unit (international table) per pound degree Rankine", 
+        "symbol": "BtuIT/(lb\u00b7\u00b0R)"
+    }, 
+    "A22": {
+        "name": "British thermal unit (international table) per second foot degree Rankine", 
+        "symbol": "BtuIT/(s\u00b7ft\u00b7\u00b0R)"
+    }, 
+    "A23": {
+        "name": "British thermal unit (international table) per hour square foot degree Rankine", 
+        "symbol": "BtuIT/(h\u00b7ft\u00b2\u00b7\u00b0R)"
+    }, 
+    "A24": {
+        "name": "candela per square metre", 
+        "symbol": "cd/m\u00b2"
+    }, 
+    "A25": {
+        "name": "cheval vapeur", 
+        "symbol": "CV"
+    }, 
+    "A26": {
+        "name": "coulomb metre", 
+        "symbol": "C\u00b7m"
+    }, 
+    "A27": {
+        "name": "coulomb metre squared per volt", 
+        "symbol": "C\u00b7m\u00b2/V"
+    }, 
+    "A28": {
+        "name": "coulomb per cubic centimetre", 
+        "symbol": "C/cm\u00b3"
+    }, 
+    "A29": {
+        "name": "coulomb per cubic metre", 
+        "symbol": "C/m\u00b3"
+    }, 
+    "A3": {
+        "name": "ampere per millimetre", 
+        "symbol": "A/mm"
+    }, 
+    "A30": {
+        "name": "coulomb per cubic millimetre", 
+        "symbol": "C/mm\u00b3"
+    }, 
+    "A31": {
+        "name": "coulomb per kilogram second", 
+        "symbol": "C/(kg\u00b7s)"
+    }, 
+    "A32": {
+        "name": "coulomb per mole", 
+        "symbol": "C/mol"
+    }, 
+    "A33": {
+        "name": "coulomb per square centimetre", 
+        "symbol": "C/cm\u00b2"
+    }, 
+    "A34": {
+        "name": "coulomb per square metre", 
+        "symbol": "C/m\u00b2"
+    }, 
+    "A35": {
+        "name": "coulomb per square millimetre", 
+        "symbol": "C/mm\u00b2"
+    }, 
+    "A36": {
+        "name": "cubic centimetre per mole", 
+        "symbol": "cm\u00b3/mol"
+    }, 
+    "A37": {
+        "name": "cubic decimetre per mole", 
+        "symbol": "dm\u00b3/mol"
+    }, 
+    "A38": {
+        "name": "cubic metre per coulomb", 
+        "symbol": "m\u00b3/C"
+    }, 
+    "A39": {
+        "name": "cubic metre per kilogram", 
+        "symbol": "m\u00b3/kg"
+    }, 
+    "A4": {
+        "name": "ampere per square centimetre", 
+        "symbol": "A/cm\u00b2"
+    }, 
+    "A40": {
+        "name": "cubic metre per mole", 
+        "symbol": "m\u00b3/mol"
+    }, 
+    "A41": {
+        "name": "ampere per square metre", 
+        "symbol": "A/m\u00b2"
+    }, 
+    "A42": {
+        "name": "curie per kilogram", 
+        "symbol": "Ci/kg"
+    }, 
+    "A43": {
+        "name": "deadweight tonnage", 
+        "symbol": "dwt"
+    }, 
+    "A44": {
+        "name": "decalitre", 
+        "symbol": "dal"
+    }, 
+    "A45": {
+        "name": "decametre", 
+        "symbol": "dam"
+    }, 
+    "A47": {
+        "name": "decitex", 
+        "symbol": "dtex (g/10km)"
+    }, 
+    "A48": {
+        "name": "degree Rankine", 
+        "symbol": "\u00b0R"
+    }, 
+    "A49": {
+        "name": "denier", 
+        "symbol": "den (g/9 km)"
+    }, 
+    "A5": {
+        "name": "ampere square metre", 
+        "symbol": "A\u00b7m\u00b2"
+    }, 
+    "A50": {
+        "name": "dyne second per cubic centimetre", 
+        "symbol": "dyn\u00b7s/cm\u00b3"
+    }, 
+    "A51": {
+        "name": "dyne second per centimetre", 
+        "symbol": "dyn\u00b7s/cm"
+    }, 
+    "A52": {
+        "name": "dyne second per centimetre to the fifth power", 
+        "symbol": "dyn\u00b7s/cm\u2075"
+    }, 
+    "A53": {
+        "name": "electronvolt", 
+        "symbol": "eV"
+    }, 
+    "A54": {
+        "name": "electronvolt per metre", 
+        "symbol": "eV/m"
+    }, 
+    "A55": {
+        "name": "electronvolt square metre", 
+        "symbol": "eV\u00b7m\u00b2"
+    }, 
+    "A56": {
+        "name": "electronvolt square metre per kilogram", 
+        "symbol": "eV\u00b7m\u00b2/kg"
+    }, 
+    "A57": {
+        "name": "erg", 
+        "symbol": "erg"
+    }, 
+    "A58": {
+        "name": "erg per centimetre", 
+        "symbol": "erg/cm"
+    }, 
+    "A59": {
+        "name": "8-part cloud cover", 
+        "symbol": ""
+    }, 
+    "A6": {
+        "name": "ampere per square metre kelvin squared", 
+        "symbol": "A/(m\u00b2\u00b7K\u00b2)"
+    }, 
+    "A60": {
+        "name": "erg per cubic centimetre", 
+        "symbol": "erg/cm\u00b3"
+    }, 
+    "A61": {
+        "name": "erg per gram", 
+        "symbol": "erg/g"
+    }, 
+    "A62": {
+        "name": "erg per gram second", 
+        "symbol": "erg/g\u00b7s"
+    }, 
+    "A63": {
+        "name": "erg per second", 
+        "symbol": "erg/s"
+    }, 
+    "A64": {
+        "name": "erg per second square centimetre", 
+        "symbol": "erg/(s\u00b7cm\u00b2)"
+    }, 
+    "A65": {
+        "name": "erg per square centimetre second", 
+        "symbol": "erg/(cm\u00b2\u00b7s)"
+    }, 
+    "A66": {
+        "name": "erg square centimetre", 
+        "symbol": "erg\u00b7cm\u00b2"
+    }, 
+    "A67": {
+        "name": "erg square centimetre per gram", 
+        "symbol": "erg\u00b7cm\u00b2/g"
+    }, 
+    "A68": {
+        "name": "exajoule", 
+        "symbol": "EJ"
+    }, 
+    "A69": {
+        "name": "farad per metre", 
+        "symbol": "F/m"
+    }, 
+    "A7": {
+        "name": "ampere per square millimetre", 
+        "symbol": "A/mm\u00b2"
+    }, 
+    "A70": {
+        "name": "femtojoule", 
+        "symbol": "fJ"
+    }, 
+    "A71": {
+        "name": "femtometre", 
+        "symbol": "fm"
+    }, 
+    "A73": {
+        "name": "foot per second squared", 
+        "symbol": "ft/s\u00b2"
+    }, 
+    "A74": {
+        "name": "foot pound-force per second", 
+        "symbol": "ft\u00b7lbf/s"
+    }, 
+    "A75": {
+        "name": "freight ton", 
+        "symbol": ""
+    }, 
+    "A76": {
+        "name": "gal", 
+        "symbol": "Gal"
+    }, 
+    "A77": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of displacement", 
+        "symbol": ""
+    }, 
+    "A78": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of electric current", 
+        "symbol": ""
+    }, 
+    "A79": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of electric charge", 
+        "symbol": ""
+    }, 
+    "A8": {
+        "name": "ampere second", 
+        "symbol": "A\u00b7s"
+    }, 
+    "A80": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of electric field strength", 
+        "symbol": ""
+    }, 
+    "A81": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of electric polarization", 
+        "symbol": ""
+    }, 
+    "A82": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of electric potential", 
+        "symbol": ""
+    }, 
+    "A83": {
+        "name": "Gaussian CGS (Centimetre-Gram-Second system) unit of magnetization", 
+        "symbol": ""
+    }, 
+    "A84": {
+        "name": "gigacoulomb per cubic metre", 
+        "symbol": "GC/m\u00b3"
+    }, 
+    "A85": {
+        "name": "gigaelectronvolt", 
+        "symbol": "GeV"
+    }, 
+    "A86": {
+        "name": "gigahertz", 
+        "symbol": "GHz"
+    }, 
+    "A87": {
+        "name": "gigaohm", 
+        "symbol": "G\u2126"
+    }, 
+    "A88": {
+        "name": "gigaohm metre", 
+        "symbol": "G\u2126\u00b7m"
+    }, 
+    "A89": {
+        "name": "gigapascal", 
+        "symbol": "GPa"
+    }, 
+    "A9": {
+        "name": "rate", 
+        "symbol": ""
+    }, 
+    "A90": {
+        "name": "gigawatt", 
+        "symbol": "GW"
+    }, 
+    "A91": {
+        "name": "gon", 
+        "symbol": "gon"
+    }, 
+    "A93": {
+        "name": "gram per cubic metre", 
+        "symbol": "g/m\u00b3"
+    }, 
+    "A94": {
+        "name": "gram per mole", 
+        "symbol": "g/mol"
+    }, 
+    "A95": {
+        "name": "gray", 
+        "symbol": "Gy"
+    }, 
+    "A96": {
+        "name": "gray per second", 
+        "symbol": "Gy/s"
+    }, 
+    "A97": {
+        "name": "hectopascal", 
+        "symbol": "hPa"
+    }, 
+    "A98": {
+        "name": "henry per metre", 
+        "symbol": "H/m"
+    }, 
+    "A99": {
+        "name": "bit", 
+        "symbol": "bit"
+    }, 
+    "AA": {
+        "name": "ball", 
+        "symbol": ""
+    }, 
+    "AB": {
+        "name": "bulk pack", 
+        "symbol": "pk"
+    }, 
+    "ACR": {
+        "name": "acre", 
+        "symbol": "acre"
+    }, 
+    "ACT": {
+        "name": "activity", 
+        "symbol": ""
+    }, 
+    "AD": {
+        "name": "byte", 
+        "symbol": "byte"
+    }, 
+    "AE": {
+        "name": "ampere per metre", 
+        "symbol": "A/m"
+    }, 
+    "AH": {
+        "name": "additional minute", 
+        "symbol": ""
+    }, 
+    "AI": {
+        "name": "average minute per call", 
+        "symbol": ""
+    }, 
+    "AJ": {
+        "name": "cop", 
+        "symbol": ""
+    }, 
+    "AK": {
+        "name": "fathom", 
+        "symbol": "fth"
+    }, 
+    "AL": {
+        "name": "access line", 
+        "symbol": ""
+    }, 
+    "AM": {
+        "name": "ampoule", 
+        "symbol": ""
+    }, 
+    "AMH": {
+        "name": "ampere hour", 
+        "symbol": "A\u00b7h"
+    }, 
+    "AMP": {
+        "name": "ampere", 
+        "symbol": "A"
+    }, 
+    "ANN": {
+        "name": "year", 
+        "symbol": "y"
+    }, 
+    "AP": {
+        "name": "aluminium pound only", 
+        "symbol": ""
+    }, 
+    "APZ": {
+        "name": "troy ounce or apothecary ounce", 
+        "symbol": "tr oz"
+    }, 
+    "AQ": {
+        "name": "anti-hemophilic factor (AHF) unit", 
+        "symbol": ""
+    }, 
+    "AR": {
+        "name": "suppository", 
+        "symbol": ""
+    }, 
+    "ARE": {
+        "name": "are", 
+        "symbol": "a"
+    }, 
+    "AS": {
+        "name": "assortment", 
+        "symbol": ""
+    }, 
+    "ASM": {
+        "name": "alcoholic strength by mass", 
+        "symbol": ""
+    }, 
+    "ASU": {
+        "name": "alcoholic strength by volume", 
+        "symbol": ""
+    }, 
+    "ATM": {
+        "name": "standard atmosphere", 
+        "symbol": "atm"
+    }, 
+    "ATT": {
+        "name": "technical atmosphere", 
+        "symbol": "at"
+    }, 
+    "AV": {
+        "name": "capsule", 
+        "symbol": ""
+    }, 
+    "AW": {
+        "name": "powder filled vial", 
+        "symbol": ""
+    }, 
+    "AY": {
+        "name": "assembly", 
+        "symbol": ""
+    }, 
+    "AZ": {
+        "name": "British thermal unit (international table) per pound", 
+        "symbol": "BtuIT/lb"
+    }, 
+    "B0": {
+        "name": "Btu per cubic foot", 
+        "symbol": "BTU/ft\u00b3"
+    }, 
+    "B1": {
+        "name": "barrel (US) per day", 
+        "symbol": "barrel\u00a0(US)/d"
+    }, 
+    "B10": {
+        "name": "bit per second", 
+        "symbol": "bit/s"
+    }, 
+    "B11": {
+        "name": "joule per kilogram kelvin", 
+        "symbol": "J/(kg\u00b7K)"
+    }, 
+    "B12": {
+        "name": "joule per metre", 
+        "symbol": "J/m"
+    }, 
+    "B13": {
+        "name": "joule per square metre", 
+        "symbol": "J/m\u00b2"
+    }, 
+    "B14": {
+        "name": "joule per metre to the fourth power", 
+        "symbol": "J/m\u2074"
+    }, 
+    "B15": {
+        "name": "joule per mole", 
+        "symbol": "J/mol"
+    }, 
+    "B16": {
+        "name": "joule per mole kelvin", 
+        "symbol": "J/(mol\u00b7K)"
+    }, 
+    "B17": {
+        "name": "credit", 
+        "symbol": ""
+    }, 
+    "B18": {
+        "name": "joule second", 
+        "symbol": "J\u00b7s"
+    }, 
+    "B19": {
+        "name": "digit", 
+        "symbol": ""
+    }, 
+    "B2": {
+        "name": "bunk", 
+        "symbol": ""
+    }, 
+    "B20": {
+        "name": "joule square metre per kilogram", 
+        "symbol": "J\u00b7m\u00b2/kg"
+    }, 
+    "B21": {
+        "name": "kelvin per watt", 
+        "symbol": "K/W"
+    }, 
+    "B22": {
+        "name": "kiloampere", 
+        "symbol": "kA"
+    }, 
+    "B23": {
+        "name": "kiloampere per square metre", 
+        "symbol": "kA/m\u00b2"
+    }, 
+    "B24": {
+        "name": "kiloampere per metre", 
+        "symbol": "kA/m"
+    }, 
+    "B25": {
+        "name": "kilobecquerel per kilogram", 
+        "symbol": "kBq/kg"
+    }, 
+    "B26": {
+        "name": "kilocoulomb", 
+        "symbol": "kC"
+    }, 
+    "B27": {
+        "name": "kilocoulomb per cubic metre", 
+        "symbol": "kC/m\u00b3"
+    }, 
+    "B28": {
+        "name": "kilocoulomb per square metre", 
+        "symbol": "kC/m\u00b2"
+    }, 
+    "B29": {
+        "name": "kiloelectronvolt", 
+        "symbol": "keV"
+    }, 
+    "B3": {
+        "name": "batting pound", 
+        "symbol": ""
+    }, 
+    "B30": {
+        "name": "gibibit", 
+        "symbol": "Gibit"
+    }, 
+    "B31": {
+        "name": "kilogram metre per second", 
+        "symbol": "kg\u00b7m/s"
+    }, 
+    "B32": {
+        "name": "kilogram metre squared", 
+        "symbol": "kg\u00b7m\u00b2"
+    }, 
+    "B33": {
+        "name": "kilogram metre squared per second", 
+        "symbol": "kg\u00b7m\u00b2/s"
+    }, 
+    "B34": {
+        "name": "kilogram per cubic decimetre", 
+        "symbol": "kg/dm\u00b3"
+    }, 
+    "B35": {
+        "name": "kilogram per litre", 
+        "symbol": "kg/l or kg/L"
+    }, 
+    "B36": {
+        "name": "calorie (thermochemical) per gram", 
+        "symbol": "calth/g"
+    }, 
+    "B37": {
+        "name": "kilogram-force", 
+        "symbol": "kgf"
+    }, 
+    "B38": {
+        "name": "kilogram-force metre", 
+        "symbol": "kgf\u00b7m"
+    }, 
+    "B39": {
+        "name": "kilogram-force metre per second", 
+        "symbol": "kgf\u00b7m/s"
+    }, 
+    "B4": {
+        "name": "barrel, imperial", 
+        "symbol": ""
+    }, 
+    "B40": {
+        "name": "kilogram-force per square metre", 
+        "symbol": "kgf/m\u00b2"
+    }, 
+    "B41": {
+        "name": "kilojoule per kelvin", 
+        "symbol": "kJ/K"
+    }, 
+    "B42": {
+        "name": "kilojoule per kilogram", 
+        "symbol": "kJ/kg"
+    }, 
+    "B43": {
+        "name": "kilojoule per kilogram kelvin", 
+        "symbol": "kJ/(kg\u00b7K)"
+    }, 
+    "B44": {
+        "name": "kilojoule per mole", 
+        "symbol": "kJ/mol"
+    }, 
+    "B45": {
+        "name": "kilomole", 
+        "symbol": "kmol"
+    }, 
+    "B46": {
+        "name": "kilomole per cubic metre", 
+        "symbol": "kmol/m\u00b3"
+    }, 
+    "B47": {
+        "name": "kilonewton", 
+        "symbol": "kN"
+    }, 
+    "B48": {
+        "name": "kilonewton metre", 
+        "symbol": "kN\u00b7m"
+    }, 
+    "B49": {
+        "name": "kiloohm", 
+        "symbol": "k\u2126"
+    }, 
+    "B5": {
+        "name": "billet", 
+        "symbol": ""
+    }, 
+    "B50": {
+        "name": "kiloohm metre", 
+        "symbol": "k\u2126\u00b7m"
+    }, 
+    "B51": {
+        "name": "kilopond", 
+        "symbol": "kp"
+    }, 
+    "B52": {
+        "name": "kilosecond", 
+        "symbol": "ks"
+    }, 
+    "B53": {
+        "name": "kilosiemens", 
+        "symbol": "kS"
+    }, 
+    "B54": {
+        "name": "kilosiemens per metre", 
+        "symbol": "kS/m"
+    }, 
+    "B55": {
+        "name": "kilovolt per metre", 
+        "symbol": "kV/m"
+    }, 
+    "B56": {
+        "name": "kiloweber per metre", 
+        "symbol": "kWb/m"
+    }, 
+    "B57": {
+        "name": "light year", 
+        "symbol": "ly"
+    }, 
+    "B58": {
+        "name": "litre per mole", 
+        "symbol": "l/mol"
+    }, 
+    "B59": {
+        "name": "lumen hour", 
+        "symbol": "lm\u00b7h"
+    }, 
+    "B6": {
+        "name": "bun", 
+        "symbol": ""
+    }, 
+    "B60": {
+        "name": "lumen per square metre", 
+        "symbol": "lm/m\u00b2"
+    }, 
+    "B61": {
+        "name": "lumen per watt", 
+        "symbol": "lm/W"
+    }, 
+    "B62": {
+        "name": "lumen second", 
+        "symbol": "lm\u00b7s"
+    }, 
+    "B63": {
+        "name": "lux hour", 
+        "symbol": "lx\u00b7h"
+    }, 
+    "B64": {
+        "name": "lux second", 
+        "symbol": "lx\u00b7s"
+    }, 
+    "B65": {
+        "name": "maxwell", 
+        "symbol": "Mx"
+    }, 
+    "B66": {
+        "name": "megaampere per square metre", 
+        "symbol": "MA/m\u00b2"
+    }, 
+    "B67": {
+        "name": "megabecquerel per kilogram", 
+        "symbol": "MBq/kg"
+    }, 
+    "B68": {
+        "name": "gigabit", 
+        "symbol": "Gbit"
+    }, 
+    "B69": {
+        "name": "megacoulomb per cubic metre", 
+        "symbol": "MC/m\u00b3"
+    }, 
+    "B7": {
+        "name": "cycle", 
+        "symbol": ""
+    }, 
+    "B70": {
+        "name": "megacoulomb per square metre", 
+        "symbol": "MC/m\u00b2"
+    }, 
+    "B71": {
+        "name": "megaelectronvolt", 
+        "symbol": "MeV"
+    }, 
+    "B72": {
+        "name": "megagram per cubic metre", 
+        "symbol": "Mg/m\u00b3"
+    }, 
+    "B73": {
+        "name": "meganewton", 
+        "symbol": "MN"
+    }, 
+    "B74": {
+        "name": "meganewton metre", 
+        "symbol": "MN\u00b7m"
+    }, 
+    "B75": {
+        "name": "megaohm", 
+        "symbol": "M\u2126"
+    }, 
+    "B76": {
+        "name": "megaohm metre", 
+        "symbol": "M\u2126\u00b7m"
+    }, 
+    "B77": {
+        "name": "megasiemens per metre", 
+        "symbol": "MS/m"
+    }, 
+    "B78": {
+        "name": "megavolt", 
+        "symbol": "MV"
+    }, 
+    "B79": {
+        "name": "megavolt per metre", 
+        "symbol": "MV/m"
+    }, 
+    "B8": {
+        "name": "joule per cubic metre", 
+        "symbol": "J/m\u00b3"
+    }, 
+    "B80": {
+        "name": "gigabit per second", 
+        "symbol": "Gbit/s"
+    }, 
+    "B81": {
+        "name": "reciprocal metre squared reciprocal second", 
+        "symbol": "m\u207b\u00b2/s"
+    }, 
+    "B82": {
+        "name": "inch per linear foot", 
+        "symbol": ""
+    }, 
+    "B83": {
+        "name": "metre to the fourth power", 
+        "symbol": "m\u2074"
+    }, 
+    "B84": {
+        "name": "microampere", 
+        "symbol": "\u00b5A"
+    }, 
+    "B85": {
+        "name": "microbar", 
+        "symbol": "\u00b5bar"
+    }, 
+    "B86": {
+        "name": "microcoulomb", 
+        "symbol": "\u00b5C"
+    }, 
+    "B87": {
+        "name": "microcoulomb per cubic metre", 
+        "symbol": "\u00b5C/m\u00b3"
+    }, 
+    "B88": {
+        "name": "microcoulomb per square metre", 
+        "symbol": "\u00b5C/m\u00b2"
+    }, 
+    "B89": {
+        "name": "microfarad per metre", 
+        "symbol": "\u00b5F/m"
+    }, 
+    "B9": {
+        "name": "batt", 
+        "symbol": ""
+    }, 
+    "B90": {
+        "name": "microhenry", 
+        "symbol": "\u00b5H"
+    }, 
+    "B91": {
+        "name": "microhenry per metre", 
+        "symbol": "\u00b5H/m"
+    }, 
+    "B92": {
+        "name": "micronewton", 
+        "symbol": "\u00b5N"
+    }, 
+    "B93": {
+        "name": "micronewton metre", 
+        "symbol": "\u00b5N\u00b7m"
+    }, 
+    "B94": {
+        "name": "microohm", 
+        "symbol": "\u00b5\u2126"
+    }, 
+    "B95": {
+        "name": "microohm metre", 
+        "symbol": "\u00b5\u2126\u00b7m"
+    }, 
+    "B96": {
+        "name": "micropascal", 
+        "symbol": "\u00b5Pa"
+    }, 
+    "B97": {
+        "name": "microradian", 
+        "symbol": "\u00b5rad"
+    }, 
+    "B98": {
+        "name": "microsecond", 
+        "symbol": "\u00b5s"
+    }, 
+    "B99": {
+        "name": "microsiemens", 
+        "symbol": "\u00b5S"
+    }, 
+    "BAR": {
+        "name": "bar [unit of pressure]", 
+        "symbol": "bar"
+    }, 
+    "BB": {
+        "name": "base box", 
+        "symbol": ""
+    }, 
+    "BD": {
+        "name": "board", 
+        "symbol": ""
+    }, 
+    "BE": {
+        "name": "bundle", 
+        "symbol": ""
+    }, 
+    "BFT": {
+        "name": "board foot", 
+        "symbol": "fbm"
+    }, 
+    "BG": {
+        "name": "bag", 
+        "symbol": ""
+    }, 
+    "BH": {
+        "name": "brush", 
+        "symbol": ""
+    }, 
+    "BHP": {
+        "name": "brake horse power", 
+        "symbol": "BHP"
+    }, 
+    "BIL": {
+        "name": "billion (EUR)", 
+        "symbol": ""
+    }, 
+    "BJ": {
+        "name": "bucket", 
+        "symbol": ""
+    }, 
+    "BK": {
+        "name": "basket", 
+        "symbol": ""
+    }, 
+    "BL": {
+        "name": "bale", 
+        "symbol": ""
+    }, 
+    "BLD": {
+        "name": "dry barrel (US)", 
+        "symbol": "bbl (US)"
+    }, 
+    "BLL": {
+        "name": "barrel (US)", 
+        "symbol": "barrel (US)"
+    }, 
+    "BO": {
+        "name": "bottle", 
+        "symbol": ""
+    }, 
+    "BP": {
+        "name": "hundred board foot", 
+        "symbol": ""
+    }, 
+    "BQL": {
+        "name": "becquerel", 
+        "symbol": "Bq"
+    }, 
+    "BR": {
+        "name": "bar [unit of packaging]", 
+        "symbol": ""
+    }, 
+    "BT": {
+        "name": "bolt", 
+        "symbol": ""
+    }, 
+    "BTU": {
+        "name": "British thermal unit (international table)", 
+        "symbol": "BtuIT"
+    }, 
+    "BUA": {
+        "name": "bushel (US)", 
+        "symbol": "bu (US)"
+    }, 
+    "BUI": {
+        "name": "bushel (UK)", 
+        "symbol": "bushel (UK)"
+    }, 
+    "BW": {
+        "name": "base weight", 
+        "symbol": ""
+    }, 
+    "BX": {
+        "name": "box", 
+        "symbol": ""
+    }, 
+    "BZ": {
+        "name": "million BTUs", 
+        "symbol": ""
+    }, 
+    "C0": {
+        "name": "call", 
+        "symbol": ""
+    }, 
+    "C1": {
+        "name": "composite product pound (total weight)", 
+        "symbol": ""
+    }, 
+    "C10": {
+        "name": "millifarad", 
+        "symbol": "mF"
+    }, 
+    "C11": {
+        "name": "milligal", 
+        "symbol": "mGal"
+    }, 
+    "C12": {
+        "name": "milligram per metre", 
+        "symbol": "mg/m"
+    }, 
+    "C13": {
+        "name": "milligray", 
+        "symbol": "mGy"
+    }, 
+    "C14": {
+        "name": "millihenry", 
+        "symbol": "mH"
+    }, 
+    "C15": {
+        "name": "millijoule", 
+        "symbol": "mJ"
+    }, 
+    "C16": {
+        "name": "millimetre per second", 
+        "symbol": "mm/s"
+    }, 
+    "C17": {
+        "name": "millimetre squared per second", 
+        "symbol": "mm\u00b2/s"
+    }, 
+    "C18": {
+        "name": "millimole", 
+        "symbol": "mmol"
+    }, 
+    "C19": {
+        "name": "mole per kilogram", 
+        "symbol": "mol/kg"
+    }, 
+    "C2": {
+        "name": "carset", 
+        "symbol": ""
+    }, 
+    "C20": {
+        "name": "millinewton", 
+        "symbol": "mN"
+    }, 
+    "C21": {
+        "name": "kibibit", 
+        "symbol": "Kibit"
+    }, 
+    "C22": {
+        "name": "millinewton per metre", 
+        "symbol": "mN/m"
+    }, 
+    "C23": {
+        "name": "milliohm metre", 
+        "symbol": "m\u2126\u00b7m"
+    }, 
+    "C24": {
+        "name": "millipascal second", 
+        "symbol": "mPa\u00b7s"
+    }, 
+    "C25": {
+        "name": "milliradian", 
+        "symbol": "mrad"
+    }, 
+    "C26": {
+        "name": "millisecond", 
+        "symbol": "ms"
+    }, 
+    "C27": {
+        "name": "millisiemens", 
+        "symbol": "mS"
+    }, 
+    "C28": {
+        "name": "millisievert", 
+        "symbol": "mSv"
+    }, 
+    "C29": {
+        "name": "millitesla", 
+        "symbol": "mT"
+    }, 
+    "C3": {
+        "name": "microvolt per metre", 
+        "symbol": "\u00b5V/m"
+    }, 
+    "C30": {
+        "name": "millivolt per metre", 
+        "symbol": "mV/m"
+    }, 
+    "C31": {
+        "name": "milliwatt", 
+        "symbol": "mW"
+    }, 
+    "C32": {
+        "name": "milliwatt per square metre", 
+        "symbol": "mW/m\u00b2"
+    }, 
+    "C33": {
+        "name": "milliweber", 
+        "symbol": "mWb"
+    }, 
+    "C34": {
+        "name": "mole", 
+        "symbol": "mol"
+    }, 
+    "C35": {
+        "name": "mole per cubic decimetre", 
+        "symbol": "mol/dm\u00b3"
+    }, 
+    "C36": {
+        "name": "mole per cubic metre", 
+        "symbol": "mol/m\u00b3"
+    }, 
+    "C37": {
+        "name": "kilobit", 
+        "symbol": "kbit"
+    }, 
+    "C38": {
+        "name": "mole per litre", 
+        "symbol": "mol/l"
+    }, 
+    "C39": {
+        "name": "nanoampere", 
+        "symbol": "nA"
+    }, 
+    "C4": {
+        "name": "carload", 
+        "symbol": ""
+    }, 
+    "C40": {
+        "name": "nanocoulomb", 
+        "symbol": "nC"
+    }, 
+    "C41": {
+        "name": "nanofarad", 
+        "symbol": "nF"
+    }, 
+    "C42": {
+        "name": "nanofarad per metre", 
+        "symbol": "nF/m"
+    }, 
+    "C43": {
+        "name": "nanohenry", 
+        "symbol": "nH"
+    }, 
+    "C44": {
+        "name": "nanohenry per metre", 
+        "symbol": "nH/m"
+    }, 
+    "C45": {
+        "name": "nanometre", 
+        "symbol": "nm"
+    }, 
+    "C46": {
+        "name": "nanoohm metre", 
+        "symbol": "n\u2126\u00b7m"
+    }, 
+    "C47": {
+        "name": "nanosecond", 
+        "symbol": "ns"
+    }, 
+    "C48": {
+        "name": "nanotesla", 
+        "symbol": "nT"
+    }, 
+    "C49": {
+        "name": "nanowatt", 
+        "symbol": "nW"
+    }, 
+    "C5": {
+        "name": "cost", 
+        "symbol": ""
+    }, 
+    "C50": {
+        "name": "neper", 
+        "symbol": "Np"
+    }, 
+    "C51": {
+        "name": "neper per second", 
+        "symbol": "Np/s"
+    }, 
+    "C52": {
+        "name": "picometre", 
+        "symbol": "pm"
+    }, 
+    "C53": {
+        "name": "newton metre second", 
+        "symbol": "N\u00b7m\u00b7s"
+    }, 
+    "C54": {
+        "name": "newton metre squared per kilogram squared", 
+        "symbol": "N\u00b7m\u00b2/kg\u00b2"
+    }, 
+    "C55": {
+        "name": "newton per square metre", 
+        "symbol": "N/m\u00b2"
+    }, 
+    "C56": {
+        "name": "newton per square millimetre", 
+        "symbol": "N/mm\u00b2"
+    }, 
+    "C57": {
+        "name": "newton second", 
+        "symbol": "N\u00b7s"
+    }, 
+    "C58": {
+        "name": "newton second per metre", 
+        "symbol": "N\u00b7s/m"
+    }, 
+    "C59": {
+        "name": "octave", 
+        "symbol": ""
+    }, 
+    "C6": {
+        "name": "cell", 
+        "symbol": ""
+    }, 
+    "C60": {
+        "name": "ohm centimetre", 
+        "symbol": "\u2126\u00b7cm"
+    }, 
+    "C61": {
+        "name": "ohm metre", 
+        "symbol": "\u2126\u00b7m"
+    }, 
+    "C62": {
+        "name": "one", 
+        "symbol": "1"
+    }, 
+    "C63": {
+        "name": "parsec", 
+        "symbol": "pc"
+    }, 
+    "C64": {
+        "name": "pascal per kelvin", 
+        "symbol": "Pa/K"
+    }, 
+    "C65": {
+        "name": "pascal second", 
+        "symbol": "Pa\u00b7s"
+    }, 
+    "C66": {
+        "name": "pascal second per cubic metre", 
+        "symbol": "Pa\u00b7s/m\u00b3"
+    }, 
+    "C67": {
+        "name": "pascal second per metre", 
+        "symbol": "Pa\u00b7 s/m"
+    }, 
+    "C68": {
+        "name": "petajoule", 
+        "symbol": "PJ"
+    }, 
+    "C69": {
+        "name": "phon", 
+        "symbol": ""
+    }, 
+    "C7": {
+        "name": "centipoise", 
+        "symbol": "cP"
+    }, 
+    "C70": {
+        "name": "picoampere", 
+        "symbol": "pA"
+    }, 
+    "C71": {
+        "name": "picocoulomb", 
+        "symbol": "pC"
+    }, 
+    "C72": {
+        "name": "picofarad per metre", 
+        "symbol": "pF/m"
+    }, 
+    "C73": {
+        "name": "picohenry", 
+        "symbol": "pH"
+    }, 
+    "C74": {
+        "name": "kilobit per second", 
+        "symbol": "kbit/s"
+    }, 
+    "C75": {
+        "name": "picowatt", 
+        "symbol": "pW"
+    }, 
+    "C76": {
+        "name": "picowatt per square metre", 
+        "symbol": "pW/m\u00b2"
+    }, 
+    "C77": {
+        "name": "pound gage", 
+        "symbol": ""
+    }, 
+    "C78": {
+        "name": "pound-force", 
+        "symbol": "lbf"
+    }, 
+    "C79": {
+        "name": "kilovolt ampere hour", 
+        "symbol": "kVAh"
+    }, 
+    "C8": {
+        "name": "millicoulomb per kilogram", 
+        "symbol": "mC/kg"
+    }, 
+    "C80": {
+        "name": "rad", 
+        "symbol": "rad"
+    }, 
+    "C81": {
+        "name": "radian", 
+        "symbol": "rad"
+    }, 
+    "C82": {
+        "name": "radian square metre per mole", 
+        "symbol": "rad\u00b7m\u00b2/mol"
+    }, 
+    "C83": {
+        "name": "radian square metre per kilogram", 
+        "symbol": "rad\u00b7m\u00b2/kg"
+    }, 
+    "C84": {
+        "name": "radian per metre", 
+        "symbol": "rad/m"
+    }, 
+    "C85": {
+        "name": "reciprocal angstrom", 
+        "symbol": "\u00c5\u207b\u00b9"
+    }, 
+    "C86": {
+        "name": "reciprocal cubic metre", 
+        "symbol": "m\u207b\u00b3"
+    }, 
+    "C87": {
+        "name": "reciprocal cubic metre per second", 
+        "symbol": "m\u207b\u00b3/s"
+    }, 
+    "C88": {
+        "name": "reciprocal electron volt per cubic metre", 
+        "symbol": "eV\u207b\u00b9/m\u00b3"
+    }, 
+    "C89": {
+        "name": "reciprocal henry", 
+        "symbol": "H\u207b\u00b9"
+    }, 
+    "C9": {
+        "name": "coil group", 
+        "symbol": ""
+    }, 
+    "C90": {
+        "name": "reciprocal joule per cubic metre", 
+        "symbol": "J\u207b\u00b9/m\u00b3"
+    }, 
+    "C91": {
+        "name": "reciprocal kelvin or kelvin to the power minus one", 
+        "symbol": "K\u207b\u00b9"
+    }, 
+    "C92": {
+        "name": "reciprocal metre", 
+        "symbol": "m\u207b\u00b9"
+    }, 
+    "C93": {
+        "name": "reciprocal square metre", 
+        "symbol": "m\u207b\u00b2"
+    }, 
+    "C94": {
+        "name": "reciprocal minute", 
+        "symbol": "min\u207b\u00b9"
+    }, 
+    "C95": {
+        "name": "reciprocal mole", 
+        "symbol": "mol\u207b\u00b9"
+    }, 
+    "C96": {
+        "name": "reciprocal pascal or pascal to the power minus one", 
+        "symbol": "Pa\u207b\u00b9"
+    }, 
+    "C97": {
+        "name": "reciprocal second", 
+        "symbol": "s\u207b\u00b9"
+    }, 
+    "C98": {
+        "name": "reciprocal second per cubic metre", 
+        "symbol": "s\u207b\u00b9/m\u00b3"
+    }, 
+    "C99": {
+        "name": "reciprocal second per metre squared", 
+        "symbol": "s\u207b\u00b9/m\u00b2"
+    }, 
+    "CA": {
+        "name": "can", 
+        "symbol": ""
+    }, 
+    "CCT": {
+        "name": "carrying capacity in metric ton", 
+        "symbol": ""
+    }, 
+    "CDL": {
+        "name": "candela", 
+        "symbol": "cd"
+    }, 
+    "CEL": {
+        "name": "degree Celsius", 
+        "symbol": "\u00b0C"
+    }, 
+    "CEN": {
+        "name": "hundred", 
+        "symbol": ""
+    }, 
+    "CG": {
+        "name": "card", 
+        "symbol": ""
+    }, 
+    "CGM": {
+        "name": "centigram", 
+        "symbol": "cg"
+    }, 
+    "CH": {
+        "name": "container", 
+        "symbol": ""
+    }, 
+    "CJ": {
+        "name": "cone", 
+        "symbol": ""
+    }, 
+    "CK": {
+        "name": "connector", 
+        "symbol": ""
+    }, 
+    "CKG": {
+        "name": "coulomb per kilogram", 
+        "symbol": "C/kg"
+    }, 
+    "CL": {
+        "name": "coil", 
+        "symbol": ""
+    }, 
+    "CLF": {
+        "name": "hundred leave", 
+        "symbol": ""
+    }, 
+    "CLT": {
+        "name": "centilitre", 
+        "symbol": "cl"
+    }, 
+    "CMK": {
+        "name": "square centimetre", 
+        "symbol": "cm\u00b2"
+    }, 
+    "CMQ": {
+        "name": "cubic centimetre", 
+        "symbol": "cm\u00b3"
+    }, 
+    "CMT": {
+        "name": "centimetre", 
+        "symbol": "cm"
+    }, 
+    "CNP": {
+        "name": "hundred pack", 
+        "symbol": ""
+    }, 
+    "CNT": {
+        "name": "cental (UK)", 
+        "symbol": ""
+    }, 
+    "CO": {
+        "name": "carboy", 
+        "symbol": ""
+    }, 
+    "COU": {
+        "name": "coulomb", 
+        "symbol": "C"
+    }, 
+    "CQ": {
+        "name": "cartridge", 
+        "symbol": ""
+    }, 
+    "CR": {
+        "name": "crate", 
+        "symbol": ""
+    }, 
+    "CS": {
+        "name": "case", 
+        "symbol": ""
+    }, 
+    "CT": {
+        "name": "carton", 
+        "symbol": ""
+    }, 
+    "CTG": {
+        "name": "content gram", 
+        "symbol": ""
+    }, 
+    "CTM": {
+        "name": "metric carat", 
+        "symbol": ""
+    }, 
+    "CTN": {
+        "name": "content ton (metric)", 
+        "symbol": ""
+    }, 
+    "CU": {
+        "name": "cup", 
+        "symbol": ""
+    }, 
+    "CUR": {
+        "name": "curie", 
+        "symbol": "Ci"
+    }, 
+    "CV": {
+        "name": "cover", 
+        "symbol": ""
+    }, 
+    "CWA": {
+        "name": "hundred pound (cwt) / hundred weight (US)", 
+        "symbol": "cwt (US)"
+    }, 
+    "CWI": {
+        "name": "hundred weight (UK)", 
+        "symbol": "cwt (UK)"
+    }, 
+    "CY": {
+        "name": "cylinder", 
+        "symbol": ""
+    }, 
+    "CZ": {
+        "name": "combo", 
+        "symbol": ""
+    }, 
+    "D03": {
+        "name": "kilowatt hour per hour", 
+        "symbol": "kW\u00b7h/h"
+    }, 
+    "D04": {
+        "name": "lot  [unit of weight]", 
+        "symbol": ""
+    }, 
+    "D1": {
+        "name": "reciprocal second per steradian", 
+        "symbol": "s\u207b\u00b9/sr"
+    }, 
+    "D10": {
+        "name": "siemens per metre", 
+        "symbol": "S/m"
+    }, 
+    "D11": {
+        "name": "mebibit", 
+        "symbol": "Mibit"
+    }, 
+    "D12": {
+        "name": "siemens square metre per mole", 
+        "symbol": "S\u00b7m\u00b2/mol"
+    }, 
+    "D13": {
+        "name": "sievert", 
+        "symbol": "Sv"
+    }, 
+    "D14": {
+        "name": "thousand linear yard", 
+        "symbol": ""
+    }, 
+    "D15": {
+        "name": "sone", 
+        "symbol": ""
+    }, 
+    "D16": {
+        "name": "square centimetre per erg", 
+        "symbol": "cm\u00b2/erg"
+    }, 
+    "D17": {
+        "name": "square centimetre per steradian erg", 
+        "symbol": "cm\u00b2/(sr\u00b7erg)"
+    }, 
+    "D18": {
+        "name": "metre kelvin", 
+        "symbol": "m\u00b7K"
+    }, 
+    "D19": {
+        "name": "square metre kelvin per watt", 
+        "symbol": "m\u00b2\u00b7K/W"
+    }, 
+    "D2": {
+        "name": "reciprocal second per steradian metre squared", 
+        "symbol": "s\u207b\u00b9/(sr\u00b7m\u00b2)"
+    }, 
+    "D20": {
+        "name": "square metre per joule", 
+        "symbol": "m\u00b2/J"
+    }, 
+    "D21": {
+        "name": "square metre per kilogram", 
+        "symbol": "m\u00b2/kg"
+    }, 
+    "D22": {
+        "name": "square metre per mole", 
+        "symbol": "m\u00b2/mol"
+    }, 
+    "D23": {
+        "name": "pen gram (protein)", 
+        "symbol": ""
+    }, 
+    "D24": {
+        "name": "square metre per steradian", 
+        "symbol": "m\u00b2/sr"
+    }, 
+    "D25": {
+        "name": "square metre per steradian joule", 
+        "symbol": "m\u00b2/(sr\u00b7J)"
+    }, 
+    "D26": {
+        "name": "square metre per volt second", 
+        "symbol": "m\u00b2/(V\u00b7s)"
+    }, 
+    "D27": {
+        "name": "steradian", 
+        "symbol": "sr"
+    }, 
+    "D28": {
+        "name": "syphon", 
+        "symbol": ""
+    }, 
+    "D29": {
+        "name": "terahertz", 
+        "symbol": "THz"
+    }, 
+    "D30": {
+        "name": "terajoule", 
+        "symbol": "TJ"
+    }, 
+    "D31": {
+        "name": "terawatt", 
+        "symbol": "TW"
+    }, 
+    "D32": {
+        "name": "terawatt hour", 
+        "symbol": "TW\u00b7h"
+    }, 
+    "D33": {
+        "name": "tesla", 
+        "symbol": "T"
+    }, 
+    "D34": {
+        "name": "tex", 
+        "symbol": "tex (g/km)"
+    }, 
+    "D35": {
+        "name": "calorie (thermochemical)", 
+        "symbol": "calth"
+    }, 
+    "D36": {
+        "name": "megabit", 
+        "symbol": "Mbit"
+    }, 
+    "D37": {
+        "name": "calorie (thermochemical) per gram kelvin", 
+        "symbol": "calth/(g\u00b7K)"
+    }, 
+    "D38": {
+        "name": "calorie (thermochemical) per second centimetre kelvin", 
+        "symbol": "calth/(s\u00b7cm\u00b7K)"
+    }, 
+    "D39": {
+        "name": "calorie (thermochemical) per second square centimetre kelvin", 
+        "symbol": "calth/(s\u00b7cm\u00b2\u00b7K)"
+    }, 
+    "D40": {
+        "name": "thousand litre", 
+        "symbol": ""
+    }, 
+    "D41": {
+        "name": "tonne per cubic metre", 
+        "symbol": "t/m\u00b3"
+    }, 
+    "D42": {
+        "name": "tropical year", 
+        "symbol": "y (tropical)"
+    }, 
+    "D43": {
+        "name": "unified atomic mass unit", 
+        "symbol": "u"
+    }, 
+    "D44": {
+        "name": "var", 
+        "symbol": "var"
+    }, 
+    "D45": {
+        "name": "volt squared per kelvin squared", 
+        "symbol": "V\u00b2/K\u00b2"
+    }, 
+    "D46": {
+        "name": "volt - ampere", 
+        "symbol": "V\u00b7A"
+    }, 
+    "D47": {
+        "name": "volt per centimetre", 
+        "symbol": "V/cm"
+    }, 
+    "D48": {
+        "name": "volt per kelvin", 
+        "symbol": "V/K"
+    }, 
+    "D49": {
+        "name": "millivolt per kelvin", 
+        "symbol": "mV/K"
+    }, 
+    "D5": {
+        "name": "kilogram per square centimetre", 
+        "symbol": "kg/cm\u00b2"
+    }, 
+    "D50": {
+        "name": "volt per metre", 
+        "symbol": "V/m"
+    }, 
+    "D51": {
+        "name": "volt per millimetre", 
+        "symbol": "V/mm"
+    }, 
+    "D52": {
+        "name": "watt per kelvin", 
+        "symbol": "W/K"
+    }, 
+    "D53": {
+        "name": "watt per metre kelvin", 
+        "symbol": "W/(m\u00b7K)"
+    }, 
+    "D54": {
+        "name": "watt per square metre", 
+        "symbol": "W/m\u00b2"
+    }, 
+    "D55": {
+        "name": "watt per square metre kelvin", 
+        "symbol": "W/(m\u00b2\u00b7K)"
+    }, 
+    "D56": {
+        "name": "watt per square metre kelvin to the fourth power", 
+        "symbol": "W/(m\u00b2\u00b7K\u2074)"
+    }, 
+    "D57": {
+        "name": "watt per steradian", 
+        "symbol": "W/sr"
+    }, 
+    "D58": {
+        "name": "watt per steradian square metre", 
+        "symbol": "W/(sr\u00b7m\u00b2)"
+    }, 
+    "D59": {
+        "name": "weber per metre", 
+        "symbol": "Wb/m"
+    }, 
+    "D6": {
+        "name": "roentgen per second", 
+        "symbol": "R/s"
+    }, 
+    "D60": {
+        "name": "weber per millimetre", 
+        "symbol": "Wb/mm"
+    }, 
+    "D61": {
+        "name": "minute [unit of angle]", 
+        "symbol": "'"
+    }, 
+    "D62": {
+        "name": "second [unit of angle]", 
+        "symbol": "\""
+    }, 
+    "D63": {
+        "name": "book", 
+        "symbol": ""
+    }, 
+    "D64": {
+        "name": "block", 
+        "symbol": ""
+    }, 
+    "D65": {
+        "name": "round", 
+        "symbol": ""
+    }, 
+    "D66": {
+        "name": "cassette", 
+        "symbol": ""
+    }, 
+    "D67": {
+        "name": "dollar per hour", 
+        "symbol": ""
+    }, 
+    "D68": {
+        "name": "number of words", 
+        "symbol": ""
+    }, 
+    "D69": {
+        "name": "inch to the fourth power", 
+        "symbol": "in\u2074"
+    }, 
+    "D7": {
+        "name": "sandwich", 
+        "symbol": ""
+    }, 
+    "D70": {
+        "name": "calorie (international table) ", 
+        "symbol": "calIT"
+    }, 
+    "D71": {
+        "name": "calorie (international table) per second centimetre kelvin", 
+        "symbol": "calIT/(s\u00b7cm\u00b7K)"
+    }, 
+    "D72": {
+        "name": "calorie (international table) per second square centimetre kelvin", 
+        "symbol": "calIT/(s\u00b7cm\u00b2\u00b7K)"
+    }, 
+    "D73": {
+        "name": "joule square metre", 
+        "symbol": "J\u00b7m\u00b2"
+    }, 
+    "D74": {
+        "name": "kilogram per mole", 
+        "symbol": "kg/mol"
+    }, 
+    "D75": {
+        "name": "calorie (international table) per gram", 
+        "symbol": "calIT/g"
+    }, 
+    "D76": {
+        "name": "calorie (international table) per gram kelvin", 
+        "symbol": "calIT/(g\u00b7K)"
+    }, 
+    "D77": {
+        "name": "megacoulomb", 
+        "symbol": "MC"
+    }, 
+    "D78": {
+        "name": "megajoule per second", 
+        "symbol": "MJ/s"
+    }, 
+    "D79": {
+        "name": "beam", 
+        "symbol": ""
+    }, 
+    "D8": {
+        "name": "draize score", 
+        "symbol": ""
+    }, 
+    "D80": {
+        "name": "microwatt", 
+        "symbol": "\u00b5W"
+    }, 
+    "D81": {
+        "name": "microtesla", 
+        "symbol": "\u00b5T"
+    }, 
+    "D82": {
+        "name": "microvolt", 
+        "symbol": "\u00b5V"
+    }, 
+    "D83": {
+        "name": "millinewton metre", 
+        "symbol": "mN\u00b7m"
+    }, 
+    "D85": {
+        "name": "microwatt per square metre", 
+        "symbol": "\u00b5W/m\u00b2"
+    }, 
+    "D86": {
+        "name": "millicoulomb", 
+        "symbol": "mC"
+    }, 
+    "D87": {
+        "name": "millimole per kilogram", 
+        "symbol": "mmol/kg"
+    }, 
+    "D88": {
+        "name": "millicoulomb per cubic metre", 
+        "symbol": "mC/m\u00b3"
+    }, 
+    "D89": {
+        "name": "millicoulomb per square metre", 
+        "symbol": "mC/m\u00b2"
+    }, 
+    "D9": {
+        "name": "dyne per square centimetre", 
+        "symbol": "dyn/cm\u00b2"
+    }, 
+    "D90": {
+        "name": "cubic metre (net)", 
+        "symbol": ""
+    }, 
+    "D91": {
+        "name": "rem", 
+        "symbol": "rem"
+    }, 
+    "D92": {
+        "name": "band", 
+        "symbol": ""
+    }, 
+    "D93": {
+        "name": "second per cubic metre", 
+        "symbol": "s/m\u00b3"
+    }, 
+    "D94": {
+        "name": "second per cubic metre radian", 
+        "symbol": "s/(rad\u00b7m\u00b3)"
+    }, 
+    "D95": {
+        "name": "joule per gram", 
+        "symbol": "J/g"
+    }, 
+    "D96": {
+        "name": "pound gross", 
+        "symbol": ""
+    }, 
+    "D97": {
+        "name": "pallet/unit load", 
+        "symbol": ""
+    }, 
+    "D98": {
+        "name": "mass pound", 
+        "symbol": ""
+    }, 
+    "D99": {
+        "name": "sleeve", 
+        "symbol": ""
+    }, 
+    "DAA": {
+        "name": "decare", 
+        "symbol": "daa"
+    }, 
+    "DAD": {
+        "name": "ten day", 
+        "symbol": ""
+    }, 
+    "DAY": {
+        "name": "day", 
+        "symbol": "d"
+    }, 
+    "DB": {
+        "name": "dry pound", 
+        "symbol": ""
+    }, 
+    "DC": {
+        "name": "disk (disc)", 
+        "symbol": ""
+    }, 
+    "DD": {
+        "name": "degree [unit of angle]", 
+        "symbol": "\u00b0"
+    }, 
+    "DE": {
+        "name": "deal", 
+        "symbol": ""
+    }, 
+    "DEC": {
+        "name": "decade", 
+        "symbol": ""
+    }, 
+    "DG": {
+        "name": "decigram", 
+        "symbol": "dg"
+    }, 
+    "DI": {
+        "name": "dispenser", 
+        "symbol": ""
+    }, 
+    "DJ": {
+        "name": "decagram", 
+        "symbol": "dag"
+    }, 
+    "DLT": {
+        "name": "decilitre", 
+        "symbol": "dl"
+    }, 
+    "DMA": {
+        "name": "cubic decametre", 
+        "symbol": "dam\u00b3"
+    }, 
+    "DMK": {
+        "name": "square decimetre", 
+        "symbol": "dm\u00b2"
+    }, 
+    "DMO": {
+        "name": "standard kilolitre", 
+        "symbol": ""
+    }, 
+    "DMQ": {
+        "name": "cubic decimetre", 
+        "symbol": "dm\u00b3"
+    }, 
+    "DMT": {
+        "name": "decimetre", 
+        "symbol": "dm"
+    }, 
+    "DN": {
+        "name": "decinewton metre", 
+        "symbol": "dN\u00b7m"
+    }, 
+    "DPC": {
+        "name": "dozen piece", 
+        "symbol": ""
+    }, 
+    "DPR": {
+        "name": "dozen pair", 
+        "symbol": ""
+    }, 
+    "DPT": {
+        "name": "displacement tonnage", 
+        "symbol": ""
+    }, 
+    "DQ": {
+        "name": "data record", 
+        "symbol": ""
+    }, 
+    "DR": {
+        "name": "drum", 
+        "symbol": ""
+    }, 
+    "DRA": {
+        "name": "dram (US)", 
+        "symbol": ""
+    }, 
+    "DRI": {
+        "name": "dram (UK)", 
+        "symbol": ""
+    }, 
+    "DRL": {
+        "name": "dozen roll", 
+        "symbol": ""
+    }, 
+    "DRM": {
+        "name": "drachm (UK)", 
+        "symbol": ""
+    }, 
+    "DS": {
+        "name": "display", 
+        "symbol": ""
+    }, 
+    "DT": {
+        "name": "dry ton", 
+        "symbol": ""
+    }, 
+    "DTN": {
+        "name": "decitonne", 
+        "symbol": "dt or dtn"
+    }, 
+    "DU": {
+        "name": "dyne", 
+        "symbol": "dyn"
+    }, 
+    "DWT": {
+        "name": "pennyweight", 
+        "symbol": ""
+    }, 
+    "DX": {
+        "name": "dyne per centimetre", 
+        "symbol": "dyn/cm"
+    }, 
+    "DY": {
+        "name": "directory book", 
+        "symbol": ""
+    }, 
+    "DZN": {
+        "name": "dozen", 
+        "symbol": "DOZ"
+    }, 
+    "DZP": {
+        "name": "dozen pack", 
+        "symbol": ""
+    }, 
+    "E01": {
+        "name": "newton per square centimetre", 
+        "symbol": "N/cm\u00b2"
+    }, 
+    "E07": {
+        "name": "megawatt hour per hour", 
+        "symbol": "MW\u00b7h/h"
+    }, 
+    "E08": {
+        "name": "megawatt per hertz", 
+        "symbol": "MW/Hz"
+    }, 
+    "E09": {
+        "name": "milliampere hour", 
+        "symbol": "mA\u00b7h"
+    }, 
+    "E10": {
+        "name": "degree day", 
+        "symbol": "deg da"
+    }, 
+    "E11": {
+        "name": "gigacalorie", 
+        "symbol": ""
+    }, 
+    "E12": {
+        "name": "mille", 
+        "symbol": ""
+    }, 
+    "E14": {
+        "name": "kilocalorie (international table)", 
+        "symbol": "kcalIT"
+    }, 
+    "E15": {
+        "name": "kilocalorie (thermochemical) per hour", 
+        "symbol": "kcalth/h"
+    }, 
+    "E16": {
+        "name": "million Btu(IT) per hour", 
+        "symbol": "BtuIT/h"
+    }, 
+    "E17": {
+        "name": "cubic foot per second", 
+        "symbol": "ft\u00b3/s"
+    }, 
+    "E18": {
+        "name": "tonne per hour", 
+        "symbol": "t/h"
+    }, 
+    "E19": {
+        "name": "ping", 
+        "symbol": ""
+    }, 
+    "E2": {
+        "name": "belt", 
+        "symbol": ""
+    }, 
+    "E20": {
+        "name": "megabit per second", 
+        "symbol": "Mbit/s"
+    }, 
+    "E21": {
+        "name": "shares", 
+        "symbol": ""
+    }, 
+    "E22": {
+        "name": "TEU", 
+        "symbol": ""
+    }, 
+    "E23": {
+        "name": "tyre", 
+        "symbol": ""
+    }, 
+    "E25": {
+        "name": "active unit", 
+        "symbol": ""
+    }, 
+    "E27": {
+        "name": "dose", 
+        "symbol": ""
+    }, 
+    "E28": {
+        "name": "air dry ton", 
+        "symbol": ""
+    }, 
+    "E3": {
+        "name": "trailer", 
+        "symbol": ""
+    }, 
+    "E30": {
+        "name": "strand", 
+        "symbol": ""
+    }, 
+    "E31": {
+        "name": "square metre per litre", 
+        "symbol": "m\u00b2/l"
+    }, 
+    "E32": {
+        "name": "litre per hour", 
+        "symbol": "l/h"
+    }, 
+    "E33": {
+        "name": "foot per thousand", 
+        "symbol": ""
+    }, 
+    "E34": {
+        "name": "gigabyte", 
+        "symbol": "Gbyte"
+    }, 
+    "E35": {
+        "name": "terabyte", 
+        "symbol": "Tbyte"
+    }, 
+    "E36": {
+        "name": "petabyte", 
+        "symbol": "Pbyte"
+    }, 
+    "E37": {
+        "name": "pixel", 
+        "symbol": ""
+    }, 
+    "E38": {
+        "name": "megapixel", 
+        "symbol": ""
+    }, 
+    "E39": {
+        "name": "dots per inch", 
+        "symbol": "dpi"
+    }, 
+    "E4": {
+        "name": "gross kilogram", 
+        "symbol": ""
+    }, 
+    "E40": {
+        "name": "part per hundred thousand", 
+        "symbol": "ppht"
+    }, 
+    "E41": {
+        "name": "kilogram-force per square millimetre", 
+        "symbol": "kgf/mm\u00b2"
+    }, 
+    "E42": {
+        "name": "kilogram-force per square centimetre", 
+        "symbol": "kgf/cm\u00b2"
+    }, 
+    "E43": {
+        "name": "joule per square centimetre", 
+        "symbol": "J/cm\u00b2"
+    }, 
+    "E44": {
+        "name": "kilogram-force metre per square centimetre", 
+        "symbol": "kgf\u00b7m/cm\u00b2"
+    }, 
+    "E45": {
+        "name": "milliohm", 
+        "symbol": "m\u2126"
+    }, 
+    "E46": {
+        "name": "kilowatt hour per cubic metre", 
+        "symbol": "kW\u00b7h/m\u00b3"
+    }, 
+    "E47": {
+        "name": "kilowatt hour per kelvin", 
+        "symbol": "kW\u00b7h/K"
+    }, 
+    "E48": {
+        "name": "service unit", 
+        "symbol": ""
+    }, 
+    "E49": {
+        "name": "working day", 
+        "symbol": ""
+    }, 
+    "E5": {
+        "name": "metric long ton", 
+        "symbol": ""
+    }, 
+    "E50": {
+        "name": "accounting unit", 
+        "symbol": ""
+    }, 
+    "E51": {
+        "name": "job", 
+        "symbol": ""
+    }, 
+    "E52": {
+        "name": "run foot", 
+        "symbol": ""
+    }, 
+    "E53": {
+        "name": "test", 
+        "symbol": ""
+    }, 
+    "E54": {
+        "name": "trip", 
+        "symbol": ""
+    }, 
+    "E55": {
+        "name": "use", 
+        "symbol": ""
+    }, 
+    "E56": {
+        "name": "well", 
+        "symbol": ""
+    }, 
+    "E57": {
+        "name": "zone", 
+        "symbol": ""
+    }, 
+    "E58": {
+        "name": "exabit per second", 
+        "symbol": "Ebit/s"
+    }, 
+    "E59": {
+        "name": "exbibyte", 
+        "symbol": "Eibyte"
+    }, 
+    "E60": {
+        "name": "pebibyte", 
+        "symbol": "Pibyte"
+    }, 
+    "E61": {
+        "name": "tebibyte", 
+        "symbol": "Tibyte"
+    }, 
+    "E62": {
+        "name": "gibibyte", 
+        "symbol": "Gibyte"
+    }, 
+    "E63": {
+        "name": "mebibyte", 
+        "symbol": "Mibyte"
+    }, 
+    "E64": {
+        "name": "kibibyte", 
+        "symbol": "Kibyte"
+    }, 
+    "E65": {
+        "name": "exbibit per metre", 
+        "symbol": "Eibit/m"
+    }, 
+    "E66": {
+        "name": "exbibit per square metre", 
+        "symbol": "Eibit/m\u00b2"
+    }, 
+    "E67": {
+        "name": "exbibit per cubic metre", 
+        "symbol": "Eibit/m\u00b3"
+    }, 
+    "E68": {
+        "name": "gigabyte per second", 
+        "symbol": "Gbyte/s"
+    }, 
+    "E69": {
+        "name": "gibibit per metre", 
+        "symbol": "Gibit/m"
+    }, 
+    "E70": {
+        "name": "gibibit per square metre", 
+        "symbol": "Gibit/m\u00b2"
+    }, 
+    "E71": {
+        "name": "gibibit per cubic metre", 
+        "symbol": "Gibit/m\u00b3"
+    }, 
+    "E72": {
+        "name": "kibibit per metre", 
+        "symbol": "Kibit/m"
+    }, 
+    "E73": {
+        "name": "kibibit per square metre", 
+        "symbol": "Kibit/m\u00b2"
+    }, 
+    "E74": {
+        "name": "kibibit per cubic metre", 
+        "symbol": "Kibit/m\u00b3"
+    }, 
+    "E75": {
+        "name": "mebibit per metre", 
+        "symbol": "Mibit/m"
+    }, 
+    "E76": {
+        "name": "mebibit per square metre", 
+        "symbol": "Mibit/m\u00b2"
+    }, 
+    "E77": {
+        "name": "mebibit per cubic metre", 
+        "symbol": "Mibit/m\u00b3"
+    }, 
+    "E78": {
+        "name": "petabit", 
+        "symbol": "Pbit"
+    }, 
+    "E79": {
+        "name": "petabit per second", 
+        "symbol": "Pbit/s"
+    }, 
+    "E80": {
+        "name": "pebibit per metre", 
+        "symbol": "Pibit/m"
+    }, 
+    "E81": {
+        "name": "pebibit per square metre", 
+        "symbol": "Pibit/m\u00b2"
+    }, 
+    "E82": {
+        "name": "pebibit per cubic metre", 
+        "symbol": "Pibit/m\u00b3"
+    }, 
+    "E83": {
+        "name": "terabit", 
+        "symbol": "Tbit"
+    }, 
+    "E84": {
+        "name": "terabit per second", 
+        "symbol": "Tbit/s"
+    }, 
+    "E85": {
+        "name": "tebibit per metre", 
+        "symbol": "Tibit/m"
+    }, 
+    "E86": {
+        "name": "tebibit per cubic metre", 
+        "symbol": "Tibit/m\u00b3"
+    }, 
+    "E87": {
+        "name": "tebibit per square metre", 
+        "symbol": "Tibit/m\u00b2"
+    }, 
+    "E88": {
+        "name": "bit per metre", 
+        "symbol": "bit/m"
+    }, 
+    "E89": {
+        "name": "bit per square metre", 
+        "symbol": "bit/m\u00b2"
+    }, 
+    "E90": {
+        "name": "reciprocal centimetre", 
+        "symbol": "cm\u207b\u00b9"
+    }, 
+    "E91": {
+        "name": "reciprocal day", 
+        "symbol": "d\u207b\u00b9"
+    }, 
+    "E92": {
+        "name": "cubic decimetre per hour", 
+        "symbol": "dm\u00b3/h"
+    }, 
+    "E93": {
+        "name": "kilogram per hour", 
+        "symbol": "kg/h"
+    }, 
+    "E94": {
+        "name": "kilomole per second", 
+        "symbol": "kmol/s"
+    }, 
+    "E95": {
+        "name": "mole per second", 
+        "symbol": "mol/s"
+    }, 
+    "E96": {
+        "name": "degree per second", 
+        "symbol": "\u00b0/s"
+    }, 
+    "E97": {
+        "name": "millimetre per degree Celcius metre", 
+        "symbol": "mm/(\u00b0C\u00b7m)"
+    }, 
+    "E98": {
+        "name": "degree Celsius per kelvin", 
+        "symbol": "\u00b0C/K"
+    }, 
+    "E99": {
+        "name": "hectopascal per bar", 
+        "symbol": "hPa/bar"
+    }, 
+    "EA": {
+        "name": "each", 
+        "symbol": ""
+    }, 
+    "EB": {
+        "name": "electronic mail box", 
+        "symbol": ""
+    }, 
+    "EC": {
+        "name": "each per month", 
+        "symbol": ""
+    }, 
+    "EP": {
+        "name": "eleven pack", 
+        "symbol": ""
+    }, 
+    "EQ": {
+        "name": "equivalent gallon", 
+        "symbol": ""
+    }, 
+    "EV": {
+        "name": "envelope", 
+        "symbol": ""
+    }, 
+    "F01": {
+        "name": "bit per cubic metre", 
+        "symbol": "bit/m\u00b3"
+    }, 
+    "F02": {
+        "name": "kelvin per kelvin", 
+        "symbol": "K/K"
+    }, 
+    "F03": {
+        "name": "kilopascal per bar", 
+        "symbol": "kPa/bar"
+    }, 
+    "F04": {
+        "name": "millibar per bar", 
+        "symbol": "mbar/bar"
+    }, 
+    "F05": {
+        "name": "megapascal per bar", 
+        "symbol": "MPa/bar"
+    }, 
+    "F06": {
+        "name": "poise per bar", 
+        "symbol": "P/bar"
+    }, 
+    "F07": {
+        "name": "pascal per bar", 
+        "symbol": "Pa/bar"
+    }, 
+    "F08": {
+        "name": "milliampere per inch", 
+        "symbol": "mA/in"
+    }, 
+    "F1": {
+        "name": "thousand cubic foot per day", 
+        "symbol": ""
+    }, 
+    "F10": {
+        "name": "kelvin per hour", 
+        "symbol": "K/h"
+    }, 
+    "F11": {
+        "name": "kelvin per minute", 
+        "symbol": "K/min"
+    }, 
+    "F12": {
+        "name": "kelvin per second", 
+        "symbol": "K/s"
+    }, 
+    "F13": {
+        "name": "slug", 
+        "symbol": "slug"
+    }, 
+    "F14": {
+        "name": "gram per kelvin", 
+        "symbol": "g/K"
+    }, 
+    "F15": {
+        "name": "kilogram per kelvin", 
+        "symbol": "kg/K"
+    }, 
+    "F16": {
+        "name": "milligram per kelvin", 
+        "symbol": "mg/K"
+    }, 
+    "F17": {
+        "name": "pound-force per foot", 
+        "symbol": "lbf/ft"
+    }, 
+    "F18": {
+        "name": "kilogram square centimetre", 
+        "symbol": "kg\u00b7cm\u00b2"
+    }, 
+    "F19": {
+        "name": "kilogram square millimetre", 
+        "symbol": "kg\u00b7mm\u00b2"
+    }, 
+    "F20": {
+        "name": "pound inch squared", 
+        "symbol": "lb\u00b7in\u00b2"
+    }, 
+    "F21": {
+        "name": "pound-force inch", 
+        "symbol": "lbf\u00b7in"
+    }, 
+    "F22": {
+        "name": "pound-force foot per ampere", 
+        "symbol": "lbf\u00b7ft/A"
+    }, 
+    "F23": {
+        "name": "gram per cubic decimetre", 
+        "symbol": "g/dm\u00b3"
+    }, 
+    "F24": {
+        "name": "kilogram per kilomol", 
+        "symbol": "kg/kmol"
+    }, 
+    "F25": {
+        "name": "gram per hertz", 
+        "symbol": "g/Hz"
+    }, 
+    "F26": {
+        "name": "gram per day", 
+        "symbol": "g/d"
+    }, 
+    "F27": {
+        "name": "gram per hour", 
+        "symbol": "g/h"
+    }, 
+    "F28": {
+        "name": "gram per minute", 
+        "symbol": "g/min"
+    }, 
+    "F29": {
+        "name": "gram per second", 
+        "symbol": "g/s"
+    }, 
+    "F30": {
+        "name": "kilogram per day", 
+        "symbol": "kg/d"
+    }, 
+    "F31": {
+        "name": "kilogram per minute", 
+        "symbol": "kg/min"
+    }, 
+    "F32": {
+        "name": "milligram per day", 
+        "symbol": "mg/d"
+    }, 
+    "F33": {
+        "name": "milligram per minute", 
+        "symbol": "mg/min"
+    }, 
+    "F34": {
+        "name": "milligram per second", 
+        "symbol": "mg/s"
+    }, 
+    "F35": {
+        "name": "gram per day kelvin", 
+        "symbol": "g/(d\u00b7K)"
+    }, 
+    "F36": {
+        "name": "gram per hour kelvin", 
+        "symbol": "g/(h\u00b7K)"
+    }, 
+    "F37": {
+        "name": "gram per minute kelvin", 
+        "symbol": "g/(min\u00b7K)"
+    }, 
+    "F38": {
+        "name": "gram per second kelvin", 
+        "symbol": "g/(s\u00b7K)"
+    }, 
+    "F39": {
+        "name": "kilogram per day kelvin", 
+        "symbol": "kg/(d\u00b7K)"
+    }, 
+    "F40": {
+        "name": "kilogram per hour kelvin", 
+        "symbol": "kg/(h\u00b7K)"
+    }, 
+    "F41": {
+        "name": "kilogram per minute kelvin", 
+        "symbol": "kg/(min\u00b7K)"
+    }, 
+    "F42": {
+        "name": "kilogram per second kelvin", 
+        "symbol": "kg/(s\u00b7K)"
+    }, 
+    "F43": {
+        "name": "milligram per day kelvin", 
+        "symbol": "mg/(d\u00b7K)"
+    }, 
+    "F44": {
+        "name": "milligram per hour kelvin", 
+        "symbol": "mg/(h\u00b7K)"
+    }, 
+    "F45": {
+        "name": "milligram per minute kelvin", 
+        "symbol": "mg/(min\u00b7K)"
+    }, 
+    "F46": {
+        "name": "milligram per second kelvin", 
+        "symbol": "mg/(s\u00b7K)"
+    }, 
+    "F47": {
+        "name": "newton per millimetre", 
+        "symbol": "N/mm"
+    }, 
+    "F48": {
+        "name": "pound-force per inch", 
+        "symbol": "lbf/in"
+    }, 
+    "F49": {
+        "name": "rod [unit of distance]", 
+        "symbol": "rd (US)"
+    }, 
+    "F50": {
+        "name": "micrometre per kelvin", 
+        "symbol": "\u00b5m/K"
+    }, 
+    "F51": {
+        "name": "centimetre per kelvin", 
+        "symbol": "cm/K"
+    }, 
+    "F52": {
+        "name": "metre per kelvin", 
+        "symbol": "m/K"
+    }, 
+    "F53": {
+        "name": "millimetre per kelvin", 
+        "symbol": "mm/K"
+    }, 
+    "F54": {
+        "name": "milliohm per metre", 
+        "symbol": "m\u2126/m"
+    }, 
+    "F55": {
+        "name": "ohm per mile (statute mile)", 
+        "symbol": "\u2126/mi"
+    }, 
+    "F56": {
+        "name": "ohm per kilometre", 
+        "symbol": "\u2126/km"
+    }, 
+    "F57": {
+        "name": "milliampere per pound-force per square inch", 
+        "symbol": "mA/(lbf/in\u00b2)"
+    }, 
+    "F58": {
+        "name": "reciprocal bar", 
+        "symbol": "1/bar"
+    }, 
+    "F59": {
+        "name": "milliampere per bar", 
+        "symbol": "mA/bar"
+    }, 
+    "F60": {
+        "name": "degree Celsius per bar", 
+        "symbol": "\u00b0C/bar"
+    }, 
+    "F61": {
+        "name": "kelvin per bar", 
+        "symbol": "K/bar"
+    }, 
+    "F62": {
+        "name": "gram per day bar", 
+        "symbol": "g/(d\u00b7bar)"
+    }, 
+    "F63": {
+        "name": "gram per hour bar", 
+        "symbol": "g/(h\u00b7bar)"
+    }, 
+    "F64": {
+        "name": "gram per minute bar", 
+        "symbol": "g/(min\u00b7bar)"
+    }, 
+    "F65": {
+        "name": "gram per second bar", 
+        "symbol": "g/(s\u00b7bar)"
+    }, 
+    "F66": {
+        "name": "kilogram per day bar", 
+        "symbol": "kg/(d\u00b7bar)"
+    }, 
+    "F67": {
+        "name": "kilogram per hour bar", 
+        "symbol": "kg/(h\u00b7bar)"
+    }, 
+    "F68": {
+        "name": "kilogram per minute bar", 
+        "symbol": "kg/(min\u00b7bar)"
+    }, 
+    "F69": {
+        "name": "kilogram per second bar", 
+        "symbol": "kg/(s\u00b7bar)"
+    }, 
+    "F70": {
+        "name": "milligram per day bar", 
+        "symbol": "mg/(d\u00b7bar)"
+    }, 
+    "F71": {
+        "name": "milligram per hour bar", 
+        "symbol": "mg/(h\u00b7bar)"
+    }, 
+    "F72": {
+        "name": "milligram per minute bar", 
+        "symbol": "mg/(min\u00b7bar)"
+    }, 
+    "F73": {
+        "name": "milligram per second bar", 
+        "symbol": "mg/(s\u00b7bar)"
+    }, 
+    "F74": {
+        "name": "gram per bar", 
+        "symbol": "g/bar"
+    }, 
+    "F75": {
+        "name": "milligram per bar", 
+        "symbol": "mg/bar"
+    }, 
+    "F76": {
+        "name": "milliampere per millimetre", 
+        "symbol": "mA/mm"
+    }, 
+    "F77": {
+        "name": "pascal second per kelvin", 
+        "symbol": "Pa.s/K"
+    }, 
+    "F78": {
+        "name": "inch of water", 
+        "symbol": "inH\u2082O"
+    }, 
+    "F79": {
+        "name": "inch of mercury", 
+        "symbol": "inHg"
+    }, 
+    "F80": {
+        "name": "water horse power", 
+        "symbol": ""
+    }, 
+    "F81": {
+        "name": "bar per kelvin", 
+        "symbol": "bar/K"
+    }, 
+    "F82": {
+        "name": "hectopascal per kelvin", 
+        "symbol": "hPa/K"
+    }, 
+    "F83": {
+        "name": "kilopascal per kelvin", 
+        "symbol": "kPa/K"
+    }, 
+    "F84": {
+        "name": "millibar per kelvin", 
+        "symbol": "mbar/K"
+    }, 
+    "F85": {
+        "name": "megapascal per kelvin", 
+        "symbol": "MPa/K"
+    }, 
+    "F86": {
+        "name": "poise per kelvin", 
+        "symbol": "P/K"
+    }, 
+    "F87": {
+        "name": "volt per litre minute", 
+        "symbol": "V/(l\u00b7min)"
+    }, 
+    "F88": {
+        "name": "newton centimetre", 
+        "symbol": "N\u00b7cm"
+    }, 
+    "F89": {
+        "name": "newton metre per degree", 
+        "symbol": "Nm/\u00b0"
+    }, 
+    "F9": {
+        "name": "fibre per cubic centimetre of air", 
+        "symbol": ""
+    }, 
+    "F90": {
+        "name": "newton metre per ampere", 
+        "symbol": "N\u00b7m/A"
+    }, 
+    "F91": {
+        "name": "bar litre per second", 
+        "symbol": "bar\u00b7l/s"
+    }, 
+    "F92": {
+        "name": "bar cubic metre per second", 
+        "symbol": "bar\u00b7m\u00b3/s"
+    }, 
+    "F93": {
+        "name": "hectopascal litre per second", 
+        "symbol": "hPa\u00b7l/s"
+    }, 
+    "F94": {
+        "name": "hectopascal cubic metre per second", 
+        "symbol": "hPa\u00b7m\u00b3/s"
+    }, 
+    "F95": {
+        "name": "millibar litre per second", 
+        "symbol": "mbar\u00b7l/s"
+    }, 
+    "F96": {
+        "name": "millibar cubic metre per second", 
+        "symbol": "mbar\u00b7m\u00b3/s"
+    }, 
+    "F97": {
+        "name": "megapascal litre per second", 
+        "symbol": "MPa\u00b7l/s"
+    }, 
+    "F98": {
+        "name": "megapascal cubic metre per second", 
+        "symbol": "MPa\u00b7m\u00b3/s"
+    }, 
+    "F99": {
+        "name": "pascal litre per second", 
+        "symbol": "Pa\u00b7l/s"
+    }, 
+    "FAH": {
+        "name": "degree Fahrenheit", 
+        "symbol": "\u00b0F"
+    }, 
+    "FAR": {
+        "name": "farad", 
+        "symbol": "F"
+    }, 
+    "FB": {
+        "name": "field", 
+        "symbol": ""
+    }, 
+    "FBM": {
+        "name": "fibre metre", 
+        "symbol": ""
+    }, 
+    "FC": {
+        "name": "thousand cubic foot", 
+        "symbol": "kft\u00b3"
+    }, 
+    "FD": {
+        "name": "million particle per cubic foot", 
+        "symbol": ""
+    }, 
+    "FE": {
+        "name": "track foot", 
+        "symbol": ""
+    }, 
+    "FF": {
+        "name": "hundred cubic metre", 
+        "symbol": ""
+    }, 
+    "FG": {
+        "name": "transdermal patch", 
+        "symbol": ""
+    }, 
+    "FH": {
+        "name": "micromole", 
+        "symbol": "\u00b5mol"
+    }, 
+    "FIT": {
+        "name": "failures in time", 
+        "symbol": "FIT"
+    }, 
+    "FL": {
+        "name": "flake ton", 
+        "symbol": ""
+    }, 
+    "FM": {
+        "name": "million cubic foot", 
+        "symbol": "Mft\u00b3"
+    }, 
+    "FOT": {
+        "name": "foot", 
+        "symbol": "ft"
+    }, 
+    "FP": {
+        "name": "pound per square foot", 
+        "symbol": "lb/ft\u00b2"
+    }, 
+    "FR": {
+        "name": "foot per minute", 
+        "symbol": "ft/min"
+    }, 
+    "FS": {
+        "name": "foot per second", 
+        "symbol": "ft/s"
+    }, 
+    "FTK": {
+        "name": "square foot", 
+        "symbol": "ft\u00b2"
+    }, 
+    "FTQ": {
+        "name": "cubic foot", 
+        "symbol": "ft\u00b3"
+    }, 
+    "G01": {
+        "name": "pascal cubic metre per second", 
+        "symbol": "Pa\u00b7m\u00b3/s"
+    }, 
+    "G04": {
+        "name": "centimetre per bar", 
+        "symbol": "cm/bar"
+    }, 
+    "G05": {
+        "name": "metre per bar", 
+        "symbol": "m/bar"
+    }, 
+    "G06": {
+        "name": "millimetre per bar", 
+        "symbol": "mm/bar"
+    }, 
+    "G08": {
+        "name": "square inch per second", 
+        "symbol": "in\u00b2/s"
+    }, 
+    "G09": {
+        "name": "square metre per second kelvin", 
+        "symbol": "m\u00b2/(s\u00b7K)"
+    }, 
+    "G10": {
+        "name": "stokes per kelvin", 
+        "symbol": "St/K"
+    }, 
+    "G11": {
+        "name": "gram per cubic centimetre bar", 
+        "symbol": "g/(cm\u00b3\u00b7bar)"
+    }, 
+    "G12": {
+        "name": "gram per cubic decimetre bar", 
+        "symbol": "g/(dm\u00b3\u00b7bar)"
+    }, 
+    "G13": {
+        "name": "gram per litre bar", 
+        "symbol": "g/(l\u00b7bar)"
+    }, 
+    "G14": {
+        "name": "gram per cubic metre bar", 
+        "symbol": "g/(m\u00b3\u00b7bar)"
+    }, 
+    "G15": {
+        "name": "gram per millilitre bar", 
+        "symbol": "g/(ml\u00b7bar)"
+    }, 
+    "G16": {
+        "name": "kilogram per cubic centimetre bar", 
+        "symbol": "kg/(cm\u00b3\u00b7bar)"
+    }, 
+    "G17": {
+        "name": "kilogram per litre bar", 
+        "symbol": "kg/(l\u00b7bar)"
+    }, 
+    "G18": {
+        "name": "kilogram per cubic metre bar", 
+        "symbol": "kg/(m\u00b3\u00b7bar)"
+    }, 
+    "G19": {
+        "name": "newton metre per kilogram", 
+        "symbol": "N\u00b7m/kg"
+    }, 
+    "G2": {
+        "name": "US gallon per minute", 
+        "symbol": "gal (US) /min"
+    }, 
+    "G20": {
+        "name": "pound-force foot per pound", 
+        "symbol": "lbf\u00b7ft/lb"
+    }, 
+    "G21": {
+        "name": "cup [unit of volume]", 
+        "symbol": "cup (US)"
+    }, 
+    "G23": {
+        "name": "peck", 
+        "symbol": "pk (US)"
+    }, 
+    "G24": {
+        "name": "tablespoon (US)", 
+        "symbol": "tablespoon (US)"
+    }, 
+    "G25": {
+        "name": "teaspoon (US)", 
+        "symbol": "teaspoon (US)"
+    }, 
+    "G26": {
+        "name": "stere", 
+        "symbol": "st"
+    }, 
+    "G27": {
+        "name": "cubic centimetre per kelvin", 
+        "symbol": "cm\u00b3/K"
+    }, 
+    "G28": {
+        "name": "litre per kelvin", 
+        "symbol": "l/K"
+    }, 
+    "G29": {
+        "name": "cubic metre per kelvin", 
+        "symbol": "m\u00b3/K"
+    }, 
+    "G3": {
+        "name": "Imperial gallon per minute", 
+        "symbol": "gal (UK) /min"
+    }, 
+    "G30": {
+        "name": "millilitre per kelvin", 
+        "symbol": "ml/K"
+    }, 
+    "G31": {
+        "name": "kilogram per cubic centimetre", 
+        "symbol": "kg/cm\u00b3"
+    }, 
+    "G32": {
+        "name": "ounce (avoirdupois) per cubic yard", 
+        "symbol": "oz/yd\u00b3"
+    }, 
+    "G33": {
+        "name": "gram per cubic centimetre kelvin", 
+        "symbol": "g/(cm\u00b3\u00b7K)"
+    }, 
+    "G34": {
+        "name": "gram per cubic decimetre kelvin", 
+        "symbol": "g/(dm\u00b3\u00b7K)"
+    }, 
+    "G35": {
+        "name": "gram per litre kelvin", 
+        "symbol": "g/(l\u00b7K)"
+    }, 
+    "G36": {
+        "name": "gram per cubic metre kelvin", 
+        "symbol": "g/(m\u00b3\u00b7K)"
+    }, 
+    "G37": {
+        "name": "gram per millilitre kelvin", 
+        "symbol": "g/(ml\u00b7K)"
+    }, 
+    "G38": {
+        "name": "kilogram per cubic centimetre kelvin", 
+        "symbol": "kg/(cm\u00b3\u00b7K)"
+    }, 
+    "G39": {
+        "name": "kilogram per litre kelvin", 
+        "symbol": "kg/(l\u00b7K)"
+    }, 
+    "G40": {
+        "name": "kilogram per cubic metre kelvin", 
+        "symbol": "kg/(m\u00b3\u00b7K)"
+    }, 
+    "G41": {
+        "name": "square metre per second bar", 
+        "symbol": "m\u00b2/(s\u00b7bar)"
+    }, 
+    "G42": {
+        "name": "microsiemens per centimetre", 
+        "symbol": "\u00b5S/cm"
+    }, 
+    "G43": {
+        "name": "microsiemens per metre", 
+        "symbol": "\u00b5S/m"
+    }, 
+    "G44": {
+        "name": "nanosiemens per centimetre", 
+        "symbol": "nS/cm"
+    }, 
+    "G45": {
+        "name": "nanosiemens per metre", 
+        "symbol": "nS/m"
+    }, 
+    "G46": {
+        "name": "stokes per bar", 
+        "symbol": "St/bar"
+    }, 
+    "G47": {
+        "name": "cubic centimetre per day", 
+        "symbol": "cm\u00b3/d"
+    }, 
+    "G48": {
+        "name": "cubic centimetre per hour", 
+        "symbol": "cm\u00b3/h"
+    }, 
+    "G49": {
+        "name": "cubic centimetre per minute", 
+        "symbol": "cm\u00b3/min"
+    }, 
+    "G50": {
+        "name": "gallon (US) per hour", 
+        "symbol": "gal/h"
+    }, 
+    "G51": {
+        "name": "litre per second", 
+        "symbol": "l/s"
+    }, 
+    "G52": {
+        "name": "cubic metre per day", 
+        "symbol": "m\u00b3/d"
+    }, 
+    "G53": {
+        "name": "cubic metre per minute", 
+        "symbol": "m\u00b3/min"
+    }, 
+    "G54": {
+        "name": "millilitre per day", 
+        "symbol": "ml/d"
+    }, 
+    "G55": {
+        "name": "millilitre per hour", 
+        "symbol": "ml/h"
+    }, 
+    "G56": {
+        "name": "cubic inch per hour", 
+        "symbol": "in\u00b3/h"
+    }, 
+    "G57": {
+        "name": "cubic inch per minute", 
+        "symbol": "in\u00b3/min"
+    }, 
+    "G58": {
+        "name": "cubic inch per second", 
+        "symbol": "in\u00b3/s"
+    }, 
+    "G59": {
+        "name": "milliampere per litre minute", 
+        "symbol": "mA/(l\u00b7min)"
+    }, 
+    "G60": {
+        "name": "volt per bar", 
+        "symbol": "V/bar"
+    }, 
+    "G61": {
+        "name": "cubic centimetre per day kelvin", 
+        "symbol": "cm\u00b3/(d\u00b7K)"
+    }, 
+    "G62": {
+        "name": "cubic centimetre per hour kelvin", 
+        "symbol": "cm\u00b3/(h\u00b7K)"
+    }, 
+    "G63": {
+        "name": "cubic centimetre per minute kelvin", 
+        "symbol": "cm\u00b3/(min\u00b7K)"
+    }, 
+    "G64": {
+        "name": "cubic centimetre per second kelvin", 
+        "symbol": "cm\u00b3/(s\u00b7K)"
+    }, 
+    "G65": {
+        "name": "litre per day kelvin", 
+        "symbol": "l/(d\u00b7K)"
+    }, 
+    "G66": {
+        "name": "litre per hour kelvin", 
+        "symbol": "l/(h\u00b7K)"
+    }, 
+    "G67": {
+        "name": "litre per minute kelvin", 
+        "symbol": "l/(min\u00b7K)"
+    }, 
+    "G68": {
+        "name": "litre per second kelvin", 
+        "symbol": "l/(s\u00b7K)"
+    }, 
+    "G69": {
+        "name": "cubic metre per day kelvin", 
+        "symbol": "m\u00b3/(d\u00b7K)"
+    }, 
+    "G7": {
+        "name": "microfiche sheet", 
+        "symbol": ""
+    }, 
+    "G70": {
+        "name": "cubic metre per hour kelvin", 
+        "symbol": "m\u00b3/(h\u00b7K)"
+    }, 
+    "G71": {
+        "name": "cubic metre per minute kelvin", 
+        "symbol": "m\u00b3/(min\u00b7K)"
+    }, 
+    "G72": {
+        "name": "cubic metre per second kelvin", 
+        "symbol": "m\u00b3/(s\u00b7K)"
+    }, 
+    "G73": {
+        "name": "millilitre per day kelvin", 
+        "symbol": "ml/(d\u00b7K)"
+    }, 
+    "G74": {
+        "name": "millilitre per hour kelvin", 
+        "symbol": "ml/(h\u00b7K)"
+    }, 
+    "G75": {
+        "name": "millilitre per minute kelvin", 
+        "symbol": "ml/(min\u00b7K)"
+    }, 
+    "G76": {
+        "name": "millilitre per second kelvin", 
+        "symbol": "ml/(s\u00b7K)"
+    }, 
+    "G77": {
+        "name": "millimetre to the fourth power", 
+        "symbol": "mm\u2074"
+    }, 
+    "G78": {
+        "name": "cubic centimetre per day bar", 
+        "symbol": "cm\u00b3/(d\u00b7bar)"
+    }, 
+    "G79": {
+        "name": "cubic centimetre per hour bar", 
+        "symbol": "cm\u00b3/(h\u00b7bar)"
+    }, 
+    "G80": {
+        "name": "cubic centimetre per minute bar", 
+        "symbol": "cm\u00b3/(min\u00b7bar)"
+    }, 
+    "G81": {
+        "name": "cubic centimetre per second bar", 
+        "symbol": "cm\u00b3/(s\u00b7bar)"
+    }, 
+    "G82": {
+        "name": "litre per day bar", 
+        "symbol": "l/(d\u00b7bar)"
+    }, 
+    "G83": {
+        "name": "litre per hour bar", 
+        "symbol": "l/(h\u00b7bar)"
+    }, 
+    "G84": {
+        "name": "litre per minute bar", 
+        "symbol": "l/(min\u00b7bar)"
+    }, 
+    "G85": {
+        "name": "litre per second bar", 
+        "symbol": "l/(s\u00b7bar)"
+    }, 
+    "G86": {
+        "name": "cubic metre per day bar", 
+        "symbol": "m\u00b3/(d\u00b7bar)"
+    }, 
+    "G87": {
+        "name": "cubic metre per hour bar", 
+        "symbol": "m\u00b3/(h\u00b7bar)"
+    }, 
+    "G88": {
+        "name": "cubic metre per minute bar", 
+        "symbol": "m\u00b3/(min\u00b7bar)"
+    }, 
+    "G89": {
+        "name": "cubic metre per second bar", 
+        "symbol": "m\u00b3/(s\u00b7bar)"
+    }, 
+    "G90": {
+        "name": "millilitre per day bar", 
+        "symbol": "ml/(d\u00b7bar)"
+    }, 
+    "G91": {
+        "name": "millilitre per hour bar", 
+        "symbol": "ml/(h\u00b7bar)"
+    }, 
+    "G92": {
+        "name": "millilitre per minute bar", 
+        "symbol": "ml/(min\u00b7bar)"
+    }, 
+    "G93": {
+        "name": "millilitre per second bar", 
+        "symbol": "ml/(s\u00b7bar)"
+    }, 
+    "G94": {
+        "name": "cubic centimetre per bar", 
+        "symbol": "cm\u00b3/bar"
+    }, 
+    "G95": {
+        "name": "litre per bar", 
+        "symbol": "l/bar"
+    }, 
+    "G96": {
+        "name": "cubic metre per bar", 
+        "symbol": "m\u00b3/bar"
+    }, 
+    "G97": {
+        "name": "millilitre per bar", 
+        "symbol": "ml/bar"
+    }, 
+    "G98": {
+        "name": "microhenry per kiloohm", 
+        "symbol": "\u00b5H/k\u2126"
+    }, 
+    "G99": {
+        "name": "microhenry per ohm", 
+        "symbol": "\u00b5H/\u2126"
+    }, 
+    "GB": {
+        "name": "gallon (US) per day", 
+        "symbol": "gal (US)/d"
+    }, 
+    "GBQ": {
+        "name": "gigabecquerel", 
+        "symbol": "GBq"
+    }, 
+    "GC": {
+        "name": "gram per 100 gram", 
+        "symbol": ""
+    }, 
+    "GD": {
+        "name": "gross barrel", 
+        "symbol": ""
+    }, 
+    "GDW": {
+        "name": "gram, dry weight", 
+        "symbol": ""
+    }, 
+    "GE": {
+        "name": "pound per gallon (US)", 
+        "symbol": "lb/gal (US)"
+    }, 
+    "GF": {
+        "name": "gram per metre (gram per 100 centimetres)", 
+        "symbol": "g/m"
+    }, 
+    "GFI": {
+        "name": "gram of fissile isotope", 
+        "symbol": "gi F/S"
+    }, 
+    "GGR": {
+        "name": "great gross", 
+        "symbol": ""
+    }, 
+    "GH": {
+        "name": "half gallon (US)", 
+        "symbol": ""
+    }, 
+    "GIA": {
+        "name": "gill (US)", 
+        "symbol": "gi (US)"
+    }, 
+    "GIC": {
+        "name": "gram, including container", 
+        "symbol": ""
+    }, 
+    "GII": {
+        "name": "gill (UK)", 
+        "symbol": "gi (UK)"
+    }, 
+    "GIP": {
+        "name": "gram, including inner packaging", 
+        "symbol": ""
+    }, 
+    "GJ": {
+        "name": "gram per millilitre", 
+        "symbol": "g/ml"
+    }, 
+    "GK": {
+        "name": "gram per kilogram", 
+        "symbol": ""
+    }, 
+    "GL": {
+        "name": "gram per litre", 
+        "symbol": "g/l"
+    }, 
+    "GLD": {
+        "name": "dry gallon (US)", 
+        "symbol": "dry gal (US)"
+    }, 
+    "GLI": {
+        "name": "gallon (UK)", 
+        "symbol": "gal (UK)"
+    }, 
+    "GLL": {
+        "name": "gallon (US)", 
+        "symbol": "gal (US)"
+    }, 
+    "GM": {
+        "name": "gram per square metre", 
+        "symbol": "g/m\u00b2"
+    }, 
+    "GN": {
+        "name": "gross gallon", 
+        "symbol": ""
+    }, 
+    "GO": {
+        "name": "milligram per square metre", 
+        "symbol": "mg/m\u00b2"
+    }, 
+    "GP": {
+        "name": "milligram per cubic metre", 
+        "symbol": "mg/m\u00b3"
+    }, 
+    "GQ": {
+        "name": "microgram per cubic metre", 
+        "symbol": "\u00b5g/m\u00b3"
+    }, 
+    "GRM": {
+        "name": "gram", 
+        "symbol": "g"
+    }, 
+    "GRN": {
+        "name": "grain", 
+        "symbol": "gr"
+    }, 
+    "GRO": {
+        "name": "gross", 
+        "symbol": "gr"
+    }, 
+    "GRT": {
+        "name": "gross register ton", 
+        "symbol": ""
+    }, 
+    "GT": {
+        "name": "gross ton", 
+        "symbol": ""
+    }, 
+    "GV": {
+        "name": "gigajoule", 
+        "symbol": "GJ"
+    }, 
+    "GW": {
+        "name": "gallon per thousand cubic foot", 
+        "symbol": ""
+    }, 
+    "GWH": {
+        "name": "gigawatt hour", 
+        "symbol": "GW\u00b7h"
+    }, 
+    "GY": {
+        "name": "gross yard", 
+        "symbol": ""
+    }, 
+    "GZ": {
+        "name": "gage system", 
+        "symbol": ""
+    }, 
+    "H03": {
+        "name": "henry per kiloohm", 
+        "symbol": "H/k\u2126"
+    }, 
+    "H04": {
+        "name": "henry per ohm", 
+        "symbol": "H/\u2126"
+    }, 
+    "H05": {
+        "name": "millihenry per kiloohm", 
+        "symbol": "mH/k\u2126"
+    }, 
+    "H06": {
+        "name": "millihenry per ohm", 
+        "symbol": "mH/\u2126"
+    }, 
+    "H07": {
+        "name": "pascal second per bar", 
+        "symbol": "Pa\u00b7s/bar"
+    }, 
+    "H08": {
+        "name": "microbecquerel", 
+        "symbol": "\u00b5Bq"
+    }, 
+    "H09": {
+        "name": "reciprocal year", 
+        "symbol": "1/y"
+    }, 
+    "H1": {
+        "name": "half page \u2013 electronic", 
+        "symbol": ""
+    }, 
+    "H10": {
+        "name": "reciprocal hour", 
+        "symbol": "1/h"
+    }, 
+    "H11": {
+        "name": "reciprocal month", 
+        "symbol": "1/mo"
+    }, 
+    "H12": {
+        "name": "degree Celsius per hour", 
+        "symbol": "\u00b0C/h"
+    }, 
+    "H13": {
+        "name": "degree Celsius per minute", 
+        "symbol": "\u00b0C/min"
+    }, 
+    "H14": {
+        "name": "degree Celsius per second", 
+        "symbol": "\u00b0C/s"
+    }, 
+    "H15": {
+        "name": "square centimetre per gram", 
+        "symbol": "cm\u00b2/g"
+    }, 
+    "H16": {
+        "name": "square decametre", 
+        "symbol": "dam\u00b2"
+    }, 
+    "H18": {
+        "name": "square hectometre", 
+        "symbol": "hm\u00b2"
+    }, 
+    "H19": {
+        "name": "cubic hectometre", 
+        "symbol": "hm\u00b3"
+    }, 
+    "H2": {
+        "name": "half litre", 
+        "symbol": ""
+    }, 
+    "H20": {
+        "name": "cubic kilometre", 
+        "symbol": "km\u00b3"
+    }, 
+    "H21": {
+        "name": "blank", 
+        "symbol": ""
+    }, 
+    "H22": {
+        "name": "volt square inch per pound-force", 
+        "symbol": "V/(lbf/in\u00b2)"
+    }, 
+    "H23": {
+        "name": "volt per inch", 
+        "symbol": "V/in"
+    }, 
+    "H24": {
+        "name": "volt per microsecond", 
+        "symbol": "V/\u00b5s"
+    }, 
+    "H25": {
+        "name": "percent per kelvin", 
+        "symbol": "%/K"
+    }, 
+    "H26": {
+        "name": "ohm per metre", 
+        "symbol": "\u2126/m"
+    }, 
+    "H27": {
+        "name": "degree per metre", 
+        "symbol": "\u00b0/m"
+    }, 
+    "H28": {
+        "name": "microfarad per kilometre", 
+        "symbol": "\u00b5F/km"
+    }, 
+    "H29": {
+        "name": "microgram per litre", 
+        "symbol": "\u00b5g/l"
+    }, 
+    "H30": {
+        "name": "square micrometre (square micron)", 
+        "symbol": "\u00b5m\u00b2"
+    }, 
+    "H31": {
+        "name": "ampere per kilogram", 
+        "symbol": "A/kg"
+    }, 
+    "H32": {
+        "name": "ampere squared second", 
+        "symbol": "A\u00b2\u00b7s"
+    }, 
+    "H33": {
+        "name": "farad per kilometre", 
+        "symbol": "F/km"
+    }, 
+    "H34": {
+        "name": "hertz metre", 
+        "symbol": "Hz\u00b7m"
+    }, 
+    "H35": {
+        "name": "kelvin metre per watt", 
+        "symbol": "K\u00b7m/W"
+    }, 
+    "H36": {
+        "name": "megaohm per kilometre", 
+        "symbol": "M\u2126/km"
+    }, 
+    "H37": {
+        "name": "megaohm per metre", 
+        "symbol": "M\u2126/m"
+    }, 
+    "H38": {
+        "name": "megaampere", 
+        "symbol": "MA"
+    }, 
+    "H39": {
+        "name": "megahertz kilometre", 
+        "symbol": "MHz\u00b7km"
+    }, 
+    "H40": {
+        "name": "newton per ampere", 
+        "symbol": "N/A"
+    }, 
+    "H41": {
+        "name": "newton metre watt to the power minus 0,5", 
+        "symbol": "N\u00b7m\u00b7W\u207b\u2070\u2027\u2075"
+    }, 
+    "H42": {
+        "name": "pascal per metre", 
+        "symbol": "Pa/m"
+    }, 
+    "H43": {
+        "name": "siemens per centimetre", 
+        "symbol": "S/cm"
+    }, 
+    "H44": {
+        "name": "teraohm", 
+        "symbol": "T\u2126"
+    }, 
+    "H45": {
+        "name": "volt second per metre", 
+        "symbol": "V\u00b7s/m"
+    }, 
+    "H46": {
+        "name": "volt per second", 
+        "symbol": "V/s"
+    }, 
+    "H47": {
+        "name": "watt per cubic metre", 
+        "symbol": "W/m\u00b3"
+    }, 
+    "H48": {
+        "name": "attofarad", 
+        "symbol": "aF"
+    }, 
+    "H49": {
+        "name": "centimetre per hour", 
+        "symbol": "cm/h"
+    }, 
+    "H50": {
+        "name": "reciprocal cubic centimetre", 
+        "symbol": "cm\u207b\u00b3"
+    }, 
+    "H51": {
+        "name": "decibel per kilometre", 
+        "symbol": "dB/km"
+    }, 
+    "H52": {
+        "name": "decibel per metre", 
+        "symbol": "dB/m"
+    }, 
+    "H53": {
+        "name": "kilogram per bar", 
+        "symbol": "kg/bar"
+    }, 
+    "H54": {
+        "name": "kilogram per cubic decimetre kelvin", 
+        "symbol": "(kg/dm\u00b3)/K"
+    }, 
+    "H55": {
+        "name": "kilogram per cubic decimetre bar", 
+        "symbol": "(kg/dm\u00b3)/bar"
+    }, 
+    "H56": {
+        "name": "kilogram per square metre second", 
+        "symbol": "kg/(m\u00b2\u00b7s)"
+    }, 
+    "H57": {
+        "name": "inch per two pi radiant", 
+        "symbol": "in/revolution"
+    }, 
+    "H58": {
+        "name": "metre per volt second", 
+        "symbol": "m/(V\u00b7s)"
+    }, 
+    "H59": {
+        "name": "square metre per newton", 
+        "symbol": "m\u00b2/N"
+    }, 
+    "H60": {
+        "name": "cubic metre per cubic metre", 
+        "symbol": "m\u00b3/m\u00b3"
+    }, 
+    "H61": {
+        "name": "millisiemens per centimetre", 
+        "symbol": "mS/cm"
+    }, 
+    "H62": {
+        "name": "millivolt per minute", 
+        "symbol": "mV/min"
+    }, 
+    "H63": {
+        "name": "milligram per square centimetre", 
+        "symbol": "mg/cm\u00b2"
+    }, 
+    "H64": {
+        "name": "milligram per gram", 
+        "symbol": "mg/g"
+    }, 
+    "H65": {
+        "name": "millilitre per cubic metre", 
+        "symbol": "ml/m\u00b3"
+    }, 
+    "H66": {
+        "name": "millimetre per year", 
+        "symbol": "mm/y"
+    }, 
+    "H67": {
+        "name": "millimetre per hour", 
+        "symbol": "mm/h"
+    }, 
+    "H68": {
+        "name": "millimole per gram", 
+        "symbol": "mmol/g"
+    }, 
+    "H69": {
+        "name": "picopascal per kilometre", 
+        "symbol": "pPa/km"
+    }, 
+    "H70": {
+        "name": "picosecond", 
+        "symbol": "ps"
+    }, 
+    "H71": {
+        "name": "percent per month", 
+        "symbol": "%/mo"
+    }, 
+    "H72": {
+        "name": "percent per hectobar", 
+        "symbol": "%/hbar"
+    }, 
+    "H73": {
+        "name": "percent per decakelvin", 
+        "symbol": "%/daK"
+    }, 
+    "H74": {
+        "name": "watt per metre", 
+        "symbol": "W/m"
+    }, 
+    "H75": {
+        "name": "decapascal", 
+        "symbol": "daPa"
+    }, 
+    "H76": {
+        "name": "gram per millimetre", 
+        "symbol": "g/mm"
+    }, 
+    "H77": {
+        "name": "module width", 
+        "symbol": "MW"
+    }, 
+    "H78": {
+        "name": "conventional centimetre of water", 
+        "symbol": "cm H\u2082O"
+    }, 
+    "H79": {
+        "name": "French gauge", 
+        "symbol": "Fg"
+    }, 
+    "H80": {
+        "name": "rack unit", 
+        "symbol": "U or RU"
+    }, 
+    "H81": {
+        "name": "millimetre per minute", 
+        "symbol": "mm/min"
+    }, 
+    "H82": {
+        "name": "big point", 
+        "symbol": "bp"
+    }, 
+    "H83": {
+        "name": "litre per kilogram", 
+        "symbol": "l/kg"
+    }, 
+    "H84": {
+        "name": "gram millimetre", 
+        "symbol": "g\u00b7mm"
+    }, 
+    "H85": {
+        "name": "reciprocal week", 
+        "symbol": "1/wk"
+    }, 
+    "H87": {
+        "name": "piece", 
+        "symbol": ""
+    }, 
+    "H88": {
+        "name": "megaohm kilometre", 
+        "symbol": "M\u2126\u00b7km"
+    }, 
+    "H89": {
+        "name": "percent per ohm", 
+        "symbol": "%/\u2126"
+    }, 
+    "H90": {
+        "name": "percent per degree", 
+        "symbol": "%/\u00b0"
+    }, 
+    "H91": {
+        "name": "percent per ten thousand", 
+        "symbol": "%/10000"
+    }, 
+    "H92": {
+        "name": "percent per one hundred thousand", 
+        "symbol": "%/100000"
+    }, 
+    "H93": {
+        "name": "percent per hundred", 
+        "symbol": "%/100"
+    }, 
+    "H94": {
+        "name": "percent per thousand", 
+        "symbol": "%/1000"
+    }, 
+    "H95": {
+        "name": "percent per volt", 
+        "symbol": "%/V"
+    }, 
+    "H96": {
+        "name": "percent per bar", 
+        "symbol": "%/bar"
+    }, 
+    "H98": {
+        "name": "percent per inch", 
+        "symbol": "%/in"
+    }, 
+    "H99": {
+        "name": "percent per metre", 
+        "symbol": "%/m"
+    }, 
+    "HA": {
+        "name": "hank", 
+        "symbol": ""
+    }, 
+    "HAR": {
+        "name": "hectare", 
+        "symbol": "ha"
+    }, 
+    "HBA": {
+        "name": "hectobar", 
+        "symbol": "hbar"
+    }, 
+    "HBX": {
+        "name": "hundred boxes", 
+        "symbol": ""
+    }, 
+    "HC": {
+        "name": "hundred count", 
+        "symbol": ""
+    }, 
+    "HD": {
+        "name": "half dozen", 
+        "symbol": ""
+    }, 
+    "HDW": {
+        "name": "hundred kilogram, dry weight", 
+        "symbol": ""
+    }, 
+    "HE": {
+        "name": "hundredth of a carat", 
+        "symbol": ""
+    }, 
+    "HEA": {
+        "name": "head", 
+        "symbol": ""
+    }, 
+    "HF": {
+        "name": "hundred foot", 
+        "symbol": ""
+    }, 
+    "HGM": {
+        "name": "hectogram", 
+        "symbol": "hg"
+    }, 
+    "HH": {
+        "name": "hundred cubic foot", 
+        "symbol": ""
+    }, 
+    "HI": {
+        "name": "hundred sheet", 
+        "symbol": ""
+    }, 
+    "HIU": {
+        "name": "hundred international unit", 
+        "symbol": ""
+    }, 
+    "HJ": {
+        "name": "metric horse power", 
+        "symbol": "metric hp"
+    }, 
+    "HK": {
+        "name": "hundred kilogram", 
+        "symbol": ""
+    }, 
+    "HKM": {
+        "name": "hundred kilogram, net mass", 
+        "symbol": ""
+    }, 
+    "HL": {
+        "name": "hundred foot (linear)", 
+        "symbol": ""
+    }, 
+    "HLT": {
+        "name": "hectolitre", 
+        "symbol": "hl"
+    }, 
+    "HM": {
+        "name": "mile per hour (statute mile)", 
+        "symbol": "mile/h"
+    }, 
+    "HMQ": {
+        "name": "million cubic metre", 
+        "symbol": "Mm\u00b3"
+    }, 
+    "HMT": {
+        "name": "hectometre", 
+        "symbol": "hm"
+    }, 
+    "HN": {
+        "name": "conventional millimetre of mercury", 
+        "symbol": "mm Hg"
+    }, 
+    "HO": {
+        "name": "hundred troy ounce", 
+        "symbol": ""
+    }, 
+    "HP": {
+        "name": "conventional millimetre of water", 
+        "symbol": "mm H\u2082O"
+    }, 
+    "HPA": {
+        "name": "hectolitre of pure alcohol", 
+        "symbol": ""
+    }, 
+    "HS": {
+        "name": "hundred square foot", 
+        "symbol": ""
+    }, 
+    "HT": {
+        "name": "half hour", 
+        "symbol": ""
+    }, 
+    "HTZ": {
+        "name": "hertz", 
+        "symbol": "Hz"
+    }, 
+    "HUR": {
+        "name": "hour", 
+        "symbol": "h"
+    }, 
+    "HY": {
+        "name": "hundred yard", 
+        "symbol": ""
+    }, 
+    "IA": {
+        "name": "inch pound (pound inch)", 
+        "symbol": "in\u00b7lb"
+    }, 
+    "IC": {
+        "name": "count per inch", 
+        "symbol": ""
+    }, 
+    "IE": {
+        "name": "person", 
+        "symbol": ""
+    }, 
+    "IF": {
+        "name": "inches of water", 
+        "symbol": ""
+    }, 
+    "II": {
+        "name": "column inch", 
+        "symbol": ""
+    }, 
+    "IL": {
+        "name": "inch per minute", 
+        "symbol": ""
+    }, 
+    "IM": {
+        "name": "impression", 
+        "symbol": ""
+    }, 
+    "INH": {
+        "name": "inch", 
+        "symbol": "in"
+    }, 
+    "INK": {
+        "name": "square inch", 
+        "symbol": "in\u00b2"
+    }, 
+    "INQ": {
+        "name": "cubic inch", 
+        "symbol": "in\u00b3"
+    }, 
+    "IP": {
+        "name": "insurance policy", 
+        "symbol": ""
+    }, 
+    "ISD": {
+        "name": "international sugar degree", 
+        "symbol": ""
+    }, 
+    "IT": {
+        "name": "count per centimetre", 
+        "symbol": ""
+    }, 
+    "IU": {
+        "name": "inch per second", 
+        "symbol": "in/s"
+    }, 
+    "IV": {
+        "name": "inch per second squared", 
+        "symbol": "in/s\u00b2"
+    }, 
+    "J10": {
+        "name": "percent per millimetre", 
+        "symbol": "%/mm"
+    }, 
+    "J12": {
+        "name": "per mille per psi", 
+        "symbol": "\u2030/psi"
+    }, 
+    "J13": {
+        "name": "degree API", 
+        "symbol": "\u00b0API"
+    }, 
+    "J14": {
+        "name": "degree Baume (origin scale)", 
+        "symbol": "\u00b0B\u00e9"
+    }, 
+    "J15": {
+        "name": "degree Baume (US heavy)", 
+        "symbol": "\u00b0B\u00e9 (US heavy)"
+    }, 
+    "J16": {
+        "name": "degree Baume (US light)", 
+        "symbol": "\u00b0B\u00e9 (US light)"
+    }, 
+    "J17": {
+        "name": "degree Balling", 
+        "symbol": "\u00b0Balling"
+    }, 
+    "J18": {
+        "name": "degree Brix", 
+        "symbol": "\u00b0Bx"
+    }, 
+    "J19": {
+        "name": "degree Fahrenheit hour square foot per British thermal unit (thermochemical)", 
+        "symbol": "\u00b0F\u00b7h\u00b7ft\u00b2/Btuth"
+    }, 
+    "J2": {
+        "name": "joule per kilogram", 
+        "symbol": "J/kg"
+    }, 
+    "J20": {
+        "name": "degree Fahrenheit per kelvin", 
+        "symbol": "\u00b0F/K"
+    }, 
+    "J21": {
+        "name": "degree Fahrenheit per bar", 
+        "symbol": "\u00b0F/bar"
+    }, 
+    "J22": {
+        "name": "degree Fahrenheit hour square foot per British thermal unit (international table)", 
+        "symbol": "\u00b0F\u00b7h\u00b7ft\u00b2/BtuIT"
+    }, 
+    "J23": {
+        "name": "degree Fahrenheit per hour", 
+        "symbol": "\u00b0F/h"
+    }, 
+    "J24": {
+        "name": "degree Fahrenheit per minute", 
+        "symbol": "\u00b0F/min"
+    }, 
+    "J25": {
+        "name": "degree Fahrenheit per second", 
+        "symbol": "\u00b0F/s"
+    }, 
+    "J26": {
+        "name": "reciprocal degree Fahrenheit", 
+        "symbol": "1/\u00b0F"
+    }, 
+    "J27": {
+        "name": "degree Oechsle", 
+        "symbol": "\u00b0Oechsle"
+    }, 
+    "J28": {
+        "name": "degree Rankine per hour", 
+        "symbol": "\u00b0R/h"
+    }, 
+    "J29": {
+        "name": "degree Rankine per minute", 
+        "symbol": "\u00b0R/min"
+    }, 
+    "J30": {
+        "name": "degree Rankine per second", 
+        "symbol": "\u00b0R/s"
+    }, 
+    "J31": {
+        "name": "degree Twaddell", 
+        "symbol": "\u00b0Tw"
+    }, 
+    "J32": {
+        "name": "micropoise", 
+        "symbol": "\u00b5P"
+    }, 
+    "J33": {
+        "name": "microgram per kilogram", 
+        "symbol": "\u00b5g/kg"
+    }, 
+    "J34": {
+        "name": "microgram per cubic metre kelvin", 
+        "symbol": "(\u00b5g/m\u00b3)/K"
+    }, 
+    "J35": {
+        "name": "microgram per cubic metre bar", 
+        "symbol": "(\u00b5g/m\u00b3)/bar"
+    }, 
+    "J36": {
+        "name": "microlitre per litre", 
+        "symbol": "\u00b5l/l"
+    }, 
+    "J38": {
+        "name": "baud", 
+        "symbol": "Bd"
+    }, 
+    "J39": {
+        "name": "British thermal unit (mean)", 
+        "symbol": "Btu"
+    }, 
+    "J40": {
+        "name": "British thermal unit (international table) foot per hour\u00a0square foot degree Fahrenheit", 
+        "symbol": "BtuIT\u00b7ft/(h\u00b7ft\u00b2\u00b7\u00b0F)"
+    }, 
+    "J41": {
+        "name": "British thermal unit (international table) inch per hour square\u00a0foot degree Fahrenheit", 
+        "symbol": "BtuIT\u00b7in/(h\u00b7ft\u00b2\u00b7\u00b0F)"
+    }, 
+    "J42": {
+        "name": "British thermal unit (international table) inch per second square\u00a0foot degree Fahrenheit", 
+        "symbol": "BtuIT\u00b7in/(s\u00b7ft\u00b2\u00b7\u00b0F)"
+    }, 
+    "J43": {
+        "name": "British thermal unit (international table) per pound degree Fahrenheit", 
+        "symbol": "BtuIT/(lb\u00b7\u00b0F)"
+    }, 
+    "J44": {
+        "name": "British thermal unit (international table) per minute", 
+        "symbol": "BtuIT/min"
+    }, 
+    "J45": {
+        "name": "British thermal unit (international table) per second", 
+        "symbol": "BtuIT/s"
+    }, 
+    "J46": {
+        "name": "British thermal unit (thermochemical) foot per hour square\u00a0foot degree Fahrenheit", 
+        "symbol": "Btuth\u00b7ft/(h\u00b7ft\u00b2\u00b7\u00b0F)"
+    }, 
+    "J47": {
+        "name": "British thermal unit (thermochemical) per hour", 
+        "symbol": "Btuth/h"
+    }, 
+    "J48": {
+        "name": "British thermal unit (thermochemical) inch per hour square\u00a0foot degree Fahrenheit", 
+        "symbol": "Btuth\u00b7in/(h\u00b7ft\u00b2\u00b7\u00b0F)"
+    }, 
+    "J49": {
+        "name": "British thermal unit (thermochemical) inch per second\u00a0square foot degree Fahrenheit", 
+        "symbol": "Btuth\u00b7in/(s\u00b7ft\u00b2\u00b7\u00b0F)"
+    }, 
+    "J50": {
+        "name": "British thermal unit (thermochemical) per pound degree Fahrenheit", 
+        "symbol": "Btuth/(lb\u00b7\u00b0F)"
+    }, 
+    "J51": {
+        "name": "British thermal unit (thermochemical) per minute", 
+        "symbol": "Btuth/min"
+    }, 
+    "J52": {
+        "name": "British thermal unit (thermochemical) per second", 
+        "symbol": "Btuth/s"
+    }, 
+    "J53": {
+        "name": "coulomb square metre per kilogram", 
+        "symbol": "C\u00b7m\u00b2/kg"
+    }, 
+    "J54": {
+        "name": "megabaud", 
+        "symbol": "MBd"
+    }, 
+    "J55": {
+        "name": "watt second", 
+        "symbol": "W\u00b7s"
+    }, 
+    "J56": {
+        "name": "bar per bar", 
+        "symbol": "bar/bar"
+    }, 
+    "J57": {
+        "name": "barrel (UK petroleum)", 
+        "symbol": "bbl (UK liq.)"
+    }, 
+    "J58": {
+        "name": "barrel (UK petroleum) per minute", 
+        "symbol": "bbl (UK liq.)/min"
+    }, 
+    "J59": {
+        "name": "barrel (UK petroleum) per day", 
+        "symbol": "bbl (UK liq.)/d"
+    }, 
+    "J60": {
+        "name": "barrel (UK petroleum) per hour", 
+        "symbol": "bbl (UK liq.)/h"
+    }, 
+    "J61": {
+        "name": "barrel (UK petroleum) per second", 
+        "symbol": "bbl (UK liq.)/s"
+    }, 
+    "J62": {
+        "name": "barrel (US petroleum) per hour", 
+        "symbol": "bbl (US)/h"
+    }, 
+    "J63": {
+        "name": "barrel (US petroleum) per second", 
+        "symbol": "bbl (US)/s"
+    }, 
+    "J64": {
+        "name": "bushel (UK) per day", 
+        "symbol": "bu (UK)/d"
+    }, 
+    "J65": {
+        "name": "bushel (UK) per hour", 
+        "symbol": "bu (UK)/h"
+    }, 
+    "J66": {
+        "name": "bushel (UK) per minute", 
+        "symbol": "bu (UK)/min"
+    }, 
+    "J67": {
+        "name": "bushel (UK) per second", 
+        "symbol": "bu (UK)/s"
+    }, 
+    "J68": {
+        "name": "bushel (US dry) per day", 
+        "symbol": "bu (US dry)/d"
+    }, 
+    "J69": {
+        "name": "bushel (US dry) per hour", 
+        "symbol": "bu (US dry)/h"
+    }, 
+    "J70": {
+        "name": "bushel (US dry) per minute", 
+        "symbol": "bu (US dry)/min"
+    }, 
+    "J71": {
+        "name": "bushel (US dry) per second", 
+        "symbol": "bu (US dry)/s"
+    }, 
+    "J72": {
+        "name": "centinewton metre", 
+        "symbol": "cN\u00b7m"
+    }, 
+    "J73": {
+        "name": "centipoise per kelvin", 
+        "symbol": "cP/K"
+    }, 
+    "J74": {
+        "name": "centipoise per bar", 
+        "symbol": "cP/bar"
+    }, 
+    "J75": {
+        "name": "calorie (mean)", 
+        "symbol": "cal"
+    }, 
+    "J76": {
+        "name": "calorie (international table) per gram degree Celsius", 
+        "symbol": "calIT/(g\u00b7\u00b0C)"
+    }, 
+    "J78": {
+        "name": "calorie (thermochemical) per centimetre second degree Celsius", 
+        "symbol": "calth/(cm\u00b7s\u00b7\u00b0C)"
+    }, 
+    "J79": {
+        "name": "calorie (thermochemical) per gram degree Celsius", 
+        "symbol": "calth/(g\u00b7\u00b0C)"
+    }, 
+    "J81": {
+        "name": "calorie (thermochemical) per minute", 
+        "symbol": "calth/min"
+    }, 
+    "J82": {
+        "name": "calorie (thermochemical) per second", 
+        "symbol": "calth/s"
+    }, 
+    "J83": {
+        "name": "clo", 
+        "symbol": "clo"
+    }, 
+    "J84": {
+        "name": "centimetre per second kelvin", 
+        "symbol": "(cm/s)/K"
+    }, 
+    "J85": {
+        "name": "centimetre per second bar", 
+        "symbol": "(cm/s)/bar"
+    }, 
+    "J87": {
+        "name": "cubic centimetre per cubic metre", 
+        "symbol": "cm\u00b3/m\u00b3"
+    }, 
+    "J89": {
+        "name": "centimetre of mercury", 
+        "symbol": "cm Hg"
+    }, 
+    "J90": {
+        "name": "cubic decimetre per day", 
+        "symbol": "dm\u00b3/d"
+    }, 
+    "J91": {
+        "name": "cubic decimetre per cubic metre", 
+        "symbol": "dm\u00b3/m\u00b3"
+    }, 
+    "J92": {
+        "name": "cubic decimetre per minute", 
+        "symbol": "dm\u00b3/min"
+    }, 
+    "J93": {
+        "name": "cubic decimetre per second", 
+        "symbol": "dm\u00b3/s"
+    }, 
+    "J94": {
+        "name": "dyne centimetre", 
+        "symbol": "dyn\u00b7cm"
+    }, 
+    "J95": {
+        "name": "ounce (UK fluid) per day", 
+        "symbol": "fl oz (UK)/d"
+    }, 
+    "J96": {
+        "name": "ounce (UK fluid) per hour", 
+        "symbol": "fl oz (UK)/h"
+    }, 
+    "J97": {
+        "name": "ounce (UK fluid) per minute", 
+        "symbol": "fl oz (UK)/min"
+    }, 
+    "J98": {
+        "name": "ounce (UK fluid) per second", 
+        "symbol": "fl oz (UK)/s"
+    }, 
+    "J99": {
+        "name": "ounce (US fluid) per day", 
+        "symbol": "fl oz (US)/d"
+    }, 
+    "JB": {
+        "name": "jumbo", 
+        "symbol": ""
+    }, 
+    "JE": {
+        "name": "joule per kelvin", 
+        "symbol": "J/K"
+    }, 
+    "JG": {
+        "name": "jug", 
+        "symbol": ""
+    }, 
+    "JK": {
+        "name": "megajoule per kilogram", 
+        "symbol": "MJ/kg"
+    }, 
+    "JM": {
+        "name": "megajoule per cubic metre", 
+        "symbol": "MJ/m\u00b3"
+    }, 
+    "JNT": {
+        "name": "pipeline joint", 
+        "symbol": ""
+    }, 
+    "JO": {
+        "name": "joint", 
+        "symbol": ""
+    }, 
+    "JOU": {
+        "name": "joule", 
+        "symbol": "J"
+    }, 
+    "JPS": {
+        "name": "hundred metre", 
+        "symbol": ""
+    }, 
+    "JR": {
+        "name": "jar", 
+        "symbol": ""
+    }, 
+    "JWL": {
+        "name": "number of jewels", 
+        "symbol": ""
+    }, 
+    "K1": {
+        "name": "kilowatt demand", 
+        "symbol": ""
+    }, 
+    "K10": {
+        "name": "ounce (US fluid) per hour", 
+        "symbol": "fl oz (US)/h"
+    }, 
+    "K11": {
+        "name": "ounce (US fluid) per minute", 
+        "symbol": "fl oz (US)/min"
+    }, 
+    "K12": {
+        "name": "ounce (US fluid) per second", 
+        "symbol": "fl oz (US)/s"
+    }, 
+    "K13": {
+        "name": "foot per degree Fahrenheit", 
+        "symbol": "ft/\u00b0F"
+    }, 
+    "K14": {
+        "name": "foot per hour", 
+        "symbol": "ft/h"
+    }, 
+    "K15": {
+        "name": "foot pound-force per hour", 
+        "symbol": "ft\u00b7lbf/h"
+    }, 
+    "K16": {
+        "name": "foot pound-force per minute", 
+        "symbol": "ft\u00b7lbf/min"
+    }, 
+    "K17": {
+        "name": "foot per psi", 
+        "symbol": "ft/psi"
+    }, 
+    "K18": {
+        "name": "foot per second degree Fahrenheit", 
+        "symbol": "(ft/s)/\u00b0F"
+    }, 
+    "K19": {
+        "name": "foot per second psi", 
+        "symbol": "(ft/s)/psi"
+    }, 
+    "K2": {
+        "name": "kilovolt ampere reactive demand", 
+        "symbol": ""
+    }, 
+    "K20": {
+        "name": "reciprocal cubic foot", 
+        "symbol": "1/ft\u00b3"
+    }, 
+    "K21": {
+        "name": "cubic foot per degree Fahrenheit", 
+        "symbol": "ft\u00b3/\u00b0F"
+    }, 
+    "K22": {
+        "name": "cubic foot per day", 
+        "symbol": "ft\u00b3/d"
+    }, 
+    "K23": {
+        "name": "cubic foot per psi", 
+        "symbol": "ft\u00b3/psi"
+    }, 
+    "K24": {
+        "name": "foot of water", 
+        "symbol": "ft H\u2082O"
+    }, 
+    "K25": {
+        "name": "foot of mercury", 
+        "symbol": "ft Hg"
+    }, 
+    "K26": {
+        "name": "gallon (UK) per day", 
+        "symbol": "gal (UK)/d"
+    }, 
+    "K27": {
+        "name": "gallon (UK) per hour", 
+        "symbol": "gal (UK)/h"
+    }, 
+    "K28": {
+        "name": "gallon (UK) per second", 
+        "symbol": "gal (UK)/s"
+    }, 
+    "K3": {
+        "name": "kilovolt ampere reactive hour", 
+        "symbol": "kvar\u00b7h"
+    }, 
+    "K30": {
+        "name": "gallon (US liquid) per second", 
+        "symbol": "gal (US liq.)/s"
+    }, 
+    "K31": {
+        "name": "gram-force per square centimetre", 
+        "symbol": "gf/cm\u00b2"
+    }, 
+    "K32": {
+        "name": "gill (UK) per day", 
+        "symbol": "gi (UK)/d"
+    }, 
+    "K33": {
+        "name": "gill (UK) per hour", 
+        "symbol": "gi (UK)/h"
+    }, 
+    "K34": {
+        "name": "gill (UK) per minute", 
+        "symbol": "gi (UK)/min"
+    }, 
+    "K35": {
+        "name": "gill (UK) per second", 
+        "symbol": "gi (UK)/s"
+    }, 
+    "K36": {
+        "name": "gill (US) per day", 
+        "symbol": "gi (US)/d"
+    }, 
+    "K37": {
+        "name": "gill (US) per hour", 
+        "symbol": "gi (US)/h"
+    }, 
+    "K38": {
+        "name": "gill (US) per minute", 
+        "symbol": "gi (US)/min"
+    }, 
+    "K39": {
+        "name": "gill (US) per second", 
+        "symbol": "gi (US)/s"
+    }, 
+    "K40": {
+        "name": "standard acceleration of free fall", 
+        "symbol": "gn"
+    }, 
+    "K41": {
+        "name": "grain per gallon (US)", 
+        "symbol": "gr/gal (US)"
+    }, 
+    "K42": {
+        "name": "horsepower (boiler)", 
+        "symbol": "boiler hp"
+    }, 
+    "K43": {
+        "name": "horsepower (electric)", 
+        "symbol": "electric hp"
+    }, 
+    "K45": {
+        "name": "inch per degree Fahrenheit", 
+        "symbol": "in/\u00b0F"
+    }, 
+    "K46": {
+        "name": "inch per psi", 
+        "symbol": "in/psi"
+    }, 
+    "K47": {
+        "name": "inch per second degree Fahrenheit", 
+        "symbol": "(in/s)/\u00b0F"
+    }, 
+    "K48": {
+        "name": "inch per second psi", 
+        "symbol": "(in/s)/psi"
+    }, 
+    "K49": {
+        "name": "reciprocal cubic inch", 
+        "symbol": "1/in\u00b3"
+    }, 
+    "K5": {
+        "name": "kilovolt ampere (reactive)", 
+        "symbol": "kvar"
+    }, 
+    "K50": {
+        "name": "kilobaud", 
+        "symbol": "kBd"
+    }, 
+    "K51": {
+        "name": "kilocalorie (mean)", 
+        "symbol": "kcal"
+    }, 
+    "K52": {
+        "name": "kilocalorie (international table) per hour metre degree Celsius", 
+        "symbol": "kcal/(m\u00b7h\u00b7\u00b0C)"
+    }, 
+    "K53": {
+        "name": "kilocalorie (thermochemical)", 
+        "symbol": "kcalth"
+    }, 
+    "K54": {
+        "name": "kilocalorie (thermochemical) per minute", 
+        "symbol": "kcalth/min"
+    }, 
+    "K55": {
+        "name": "kilocalorie (thermochemical) per second", 
+        "symbol": "kcalth/s"
+    }, 
+    "K58": {
+        "name": "kilomole per hour", 
+        "symbol": "kmol/h"
+    }, 
+    "K59": {
+        "name": "kilomole per cubic metre kelvin", 
+        "symbol": "(kmol/m\u00b3)/K"
+    }, 
+    "K6": {
+        "name": "kilolitre", 
+        "symbol": "kl"
+    }, 
+    "K60": {
+        "name": "kilomole per cubic metre bar", 
+        "symbol": "(kmol/m\u00b3)/bar"
+    }, 
+    "K61": {
+        "name": "kilomole per minute", 
+        "symbol": "kmol/min"
+    }, 
+    "K62": {
+        "name": "litre per litre", 
+        "symbol": "l/l"
+    }, 
+    "K63": {
+        "name": "reciprocal litre", 
+        "symbol": "1/l"
+    }, 
+    "K64": {
+        "name": "pound (avoirdupois) per degree Fahrenheit", 
+        "symbol": "lb/\u00b0F"
+    }, 
+    "K65": {
+        "name": "pound (avoirdupois) square foot", 
+        "symbol": "lb\u00b7ft\u00b2"
+    }, 
+    "K66": {
+        "name": "pound (avoirdupois) per day", 
+        "symbol": "lb/d"
+    }, 
+    "K67": {
+        "name": "pound per foot hour", 
+        "symbol": "lb/(ft\u00b7h)"
+    }, 
+    "K68": {
+        "name": "pound per foot second", 
+        "symbol": "lb/(ft\u00b7s)"
+    }, 
+    "K69": {
+        "name": "pound (avoirdupois) per cubic foot degree Fahrenheit", 
+        "symbol": "(lb/ft\u00b3)/\u00b0F"
+    }, 
+    "K70": {
+        "name": "pound (avoirdupois) per cubic foot psi", 
+        "symbol": "(lb/ft\u00b3)/psi"
+    }, 
+    "K71": {
+        "name": "pound (avoirdupois) per gallon (UK)", 
+        "symbol": "lb/gal (UK)"
+    }, 
+    "K73": {
+        "name": "pound (avoirdupois) per hour degree Fahrenheit", 
+        "symbol": "(lb/h)/\u00b0F"
+    }, 
+    "K74": {
+        "name": "pound (avoirdupois) per hour psi", 
+        "symbol": "(lb/h)/psi"
+    }, 
+    "K75": {
+        "name": "pound (avoirdupois) per cubic inch degree Fahrenheit", 
+        "symbol": "(lb/in\u00b3)/\u00b0F"
+    }, 
+    "K76": {
+        "name": "pound (avoirdupois) per cubic inch psi", 
+        "symbol": "(lb/in\u00b3)/psi"
+    }, 
+    "K77": {
+        "name": "pound (avoirdupois) per psi", 
+        "symbol": "lb/psi"
+    }, 
+    "K78": {
+        "name": "pound (avoirdupois) per minute", 
+        "symbol": "lb/min"
+    }, 
+    "K79": {
+        "name": "pound (avoirdupois) per minute degree Fahrenheit", 
+        "symbol": "lb/(min\u00b7\u00b0F)"
+    }, 
+    "K80": {
+        "name": "pound (avoirdupois) per minute psi", 
+        "symbol": "(lb/min)/psi"
+    }, 
+    "K81": {
+        "name": "pound (avoirdupois) per second", 
+        "symbol": "lb/s"
+    }, 
+    "K82": {
+        "name": "pound (avoirdupois) per second degree Fahrenheit", 
+        "symbol": "(lb/s)/\u00b0F"
+    }, 
+    "K83": {
+        "name": "pound (avoirdupois) per second psi", 
+        "symbol": "(lb/s)/psi"
+    }, 
+    "K84": {
+        "name": "pound per cubic yard", 
+        "symbol": "lb/yd\u00b3"
+    }, 
+    "K85": {
+        "name": "pound-force per square foot", 
+        "symbol": "lbf/ft\u00b2"
+    }, 
+    "K86": {
+        "name": "pound-force per square inch degree Fahrenheit", 
+        "symbol": "psi/\u00b0F"
+    }, 
+    "K87": {
+        "name": "psi cubic inch per second", 
+        "symbol": "psi\u00b7in\u00b3/s"
+    }, 
+    "K88": {
+        "name": "psi litre per second", 
+        "symbol": "psi\u00b7l/s"
+    }, 
+    "K89": {
+        "name": "psi cubic metre per second", 
+        "symbol": "psi\u00b7m\u00b3/s"
+    }, 
+    "K90": {
+        "name": "psi cubic yard per second", 
+        "symbol": "psi\u00b7yd\u00b3/s"
+    }, 
+    "K91": {
+        "name": "pound-force second per square foot", 
+        "symbol": "lbf\u00b7s/ft\u00b2"
+    }, 
+    "K92": {
+        "name": "pound-force second per square inch", 
+        "symbol": "lbf\u00b7s/in\u00b2"
+    }, 
+    "K93": {
+        "name": "reciprocal psi", 
+        "symbol": "1/psi"
+    }, 
+    "K94": {
+        "name": "quart (UK liquid) per day", 
+        "symbol": "qt (UK liq.)/d"
+    }, 
+    "K95": {
+        "name": "quart (UK liquid) per hour", 
+        "symbol": "qt (UK liq.)/h"
+    }, 
+    "K96": {
+        "name": "quart (UK liquid) per minute", 
+        "symbol": "qt (UK liq.)/min"
+    }, 
+    "K97": {
+        "name": "quart (UK liquid) per second", 
+        "symbol": "qt (UK liq.)/s"
+    }, 
+    "K98": {
+        "name": "quart (US liquid) per day", 
+        "symbol": "qt (US liq.)/d"
+    }, 
+    "K99": {
+        "name": "quart (US liquid) per hour", 
+        "symbol": "qt (US liq.)/h"
+    }, 
+    "KA": {
+        "name": "cake", 
+        "symbol": ""
+    }, 
+    "KAT": {
+        "name": "katal", 
+        "symbol": "kat"
+    }, 
+    "KB": {
+        "name": "kilocharacter", 
+        "symbol": ""
+    }, 
+    "KBA": {
+        "name": "kilobar", 
+        "symbol": "kbar"
+    }, 
+    "KCC": {
+        "name": "kilogram of choline chloride", 
+        "symbol": "kg C\u2085 H\u2081\u2084ClNO"
+    }, 
+    "KD": {
+        "name": "kilogram decimal", 
+        "symbol": ""
+    }, 
+    "KDW": {
+        "name": "kilogram drained net weight", 
+        "symbol": "kg/net eda"
+    }, 
+    "KEL": {
+        "name": "kelvin", 
+        "symbol": "K"
+    }, 
+    "KF": {
+        "name": "kilopacket", 
+        "symbol": ""
+    }, 
+    "KG": {
+        "name": "keg", 
+        "symbol": ""
+    }, 
+    "KGM": {
+        "name": "kilogram", 
+        "symbol": "kg"
+    }, 
+    "KGS": {
+        "name": "kilogram per second", 
+        "symbol": "kg/s"
+    }, 
+    "KHY": {
+        "name": "kilogram of hydrogen peroxide", 
+        "symbol": "kg H\u2082O\u2082"
+    }, 
+    "KHZ": {
+        "name": "kilohertz", 
+        "symbol": "kHz"
+    }, 
+    "KI": {
+        "name": "kilogram per millimetre width", 
+        "symbol": ""
+    }, 
+    "KIC": {
+        "name": "kilogram, including container", 
+        "symbol": ""
+    }, 
+    "KIP": {
+        "name": "kilogram, including inner packaging", 
+        "symbol": ""
+    }, 
+    "KJ": {
+        "name": "kilosegment", 
+        "symbol": ""
+    }, 
+    "KJO": {
+        "name": "kilojoule", 
+        "symbol": "kJ"
+    }, 
+    "KL": {
+        "name": "kilogram per metre", 
+        "symbol": "kg/m"
+    }, 
+    "KLK": {
+        "name": "lactic dry material percentage", 
+        "symbol": ""
+    }, 
+    "KLX": {
+        "name": "kilolux", 
+        "symbol": "klx"
+    }, 
+    "KMA": {
+        "name": "kilogram of methylamine", 
+        "symbol": "kg met.am."
+    }, 
+    "KMH": {
+        "name": "kilometre per hour", 
+        "symbol": "km/h"
+    }, 
+    "KMK": {
+        "name": "square kilometre", 
+        "symbol": "km\u00b2"
+    }, 
+    "KMQ": {
+        "name": "kilogram per cubic metre", 
+        "symbol": "kg/m\u00b3"
+    }, 
+    "KMT": {
+        "name": "kilometre", 
+        "symbol": "km"
+    }, 
+    "KNI": {
+        "name": "kilogram of nitrogen", 
+        "symbol": "kg N"
+    }, 
+    "KNS": {
+        "name": "kilogram named substance", 
+        "symbol": ""
+    }, 
+    "KNT": {
+        "name": "knot", 
+        "symbol": "kn"
+    }, 
+    "KO": {
+        "name": "milliequivalence caustic potash per gram of product", 
+        "symbol": ""
+    }, 
+    "KPA": {
+        "name": "kilopascal", 
+        "symbol": "kPa"
+    }, 
+    "KPH": {
+        "name": "kilogram of potassium hydroxide (caustic potash)", 
+        "symbol": "kg KOH"
+    }, 
+    "KPO": {
+        "name": "kilogram of potassium oxide", 
+        "symbol": "kg K\u2082O"
+    }, 
+    "KPP": {
+        "name": "kilogram of phosphorus pentoxide (phosphoric anhydride)", 
+        "symbol": ""
+    }, 
+    "KR": {
+        "name": "kiloroentgen", 
+        "symbol": "kR"
+    }, 
+    "KS": {
+        "name": "thousand pound per square inch", 
+        "symbol": ""
+    }, 
+    "KSD": {
+        "name": "kilogram of substance 90 % dry", 
+        "symbol": "kg 90 % sdt"
+    }, 
+    "KSH": {
+        "name": "kilogram of sodium hydroxide (caustic soda)", 
+        "symbol": "kg NaOH"
+    }, 
+    "KT": {
+        "name": "kit", 
+        "symbol": ""
+    }, 
+    "KTM": {
+        "name": "kilometre", 
+        "symbol": "km"
+    }, 
+    "KTN": {
+        "name": "kilotonne", 
+        "symbol": "kt"
+    }, 
+    "KUR": {
+        "name": "kilogram of uranium", 
+        "symbol": "kg U"
+    }, 
+    "KVA": {
+        "name": "kilovolt - ampere", 
+        "symbol": "kV\u00b7A"
+    }, 
+    "KVR": {
+        "name": "kilovar", 
+        "symbol": "kvar"
+    }, 
+    "KVT": {
+        "name": "kilovolt", 
+        "symbol": "kV"
+    }, 
+    "KW": {
+        "name": "kilogram per millimetre", 
+        "symbol": "kg/mm"
+    }, 
+    "KWH": {
+        "name": "kilowatt hour", 
+        "symbol": "kW\u00b7h"
+    }, 
+    "KWO": {
+        "name": "kilogram of tungsten trioxide", 
+        "symbol": "kg WO\u2083"
+    }, 
+    "KWT": {
+        "name": "kilowatt", 
+        "symbol": "kW"
+    }, 
+    "KX": {
+        "name": "millilitre per kilogram", 
+        "symbol": "ml/kg"
+    }, 
+    "L10": {
+        "name": "quart (US liquid) per minute", 
+        "symbol": "qt (US liq.)/min"
+    }, 
+    "L11": {
+        "name": "quart (US liquid) per second", 
+        "symbol": "qt (US liq.)/s"
+    }, 
+    "L12": {
+        "name": "metre per second kelvin", 
+        "symbol": "(m/s)/K"
+    }, 
+    "L13": {
+        "name": "metre per second bar", 
+        "symbol": "(m/s)/bar"
+    }, 
+    "L14": {
+        "name": "square metre hour degree Celsius per kilocalorie (international table)", 
+        "symbol": "m\u00b2\u00b7h\u00b7\u00b0C/kcal"
+    }, 
+    "L15": {
+        "name": "millipascal second per kelvin", 
+        "symbol": "mPa\u00b7s/K"
+    }, 
+    "L16": {
+        "name": "millipascal second per bar", 
+        "symbol": "mPa\u00b7s/bar"
+    }, 
+    "L17": {
+        "name": "milligram per cubic metre kelvin", 
+        "symbol": "(mg/m\u00b3)/K"
+    }, 
+    "L18": {
+        "name": "milligram per cubic metre bar", 
+        "symbol": "(mg/m\u00b3)/bar"
+    }, 
+    "L19": {
+        "name": "millilitre per litre", 
+        "symbol": "ml/l"
+    }, 
+    "L2": {
+        "name": "litre per minute", 
+        "symbol": "l/min"
+    }, 
+    "L20": {
+        "name": "reciprocal cubic millimetre", 
+        "symbol": "1/mm\u00b3"
+    }, 
+    "L21": {
+        "name": "cubic millimetre per cubic metre", 
+        "symbol": "mm\u00b3/m\u00b3"
+    }, 
+    "L23": {
+        "name": "mole per hour", 
+        "symbol": "mol/h"
+    }, 
+    "L24": {
+        "name": "mole per kilogram kelvin", 
+        "symbol": "(mol/kg)/K"
+    }, 
+    "L25": {
+        "name": "mole per kilogram bar", 
+        "symbol": "(mol/kg)/bar"
+    }, 
+    "L26": {
+        "name": "mole per litre kelvin", 
+        "symbol": "(mol/l)/K"
+    }, 
+    "L27": {
+        "name": "mole per litre bar", 
+        "symbol": "(mol/l)/bar"
+    }, 
+    "L28": {
+        "name": "mole per cubic metre kelvin", 
+        "symbol": "(mol/m\u00b3)/K"
+    }, 
+    "L29": {
+        "name": "mole per cubic metre bar", 
+        "symbol": "(mol/m\u00b3)/bar"
+    }, 
+    "L30": {
+        "name": "mole per minute", 
+        "symbol": "mol/min"
+    }, 
+    "L31": {
+        "name": "milliroentgen aequivalent men", 
+        "symbol": "mrem"
+    }, 
+    "L32": {
+        "name": "nanogram per kilogram", 
+        "symbol": "ng/kg"
+    }, 
+    "L33": {
+        "name": "ounce (avoirdupois) per day", 
+        "symbol": "oz/d"
+    }, 
+    "L34": {
+        "name": "ounce (avoirdupois) per hour", 
+        "symbol": "oz/h"
+    }, 
+    "L35": {
+        "name": "ounce (avoirdupois) per minute", 
+        "symbol": "oz/min"
+    }, 
+    "L36": {
+        "name": "ounce (avoirdupois) per second", 
+        "symbol": "oz/s"
+    }, 
+    "L37": {
+        "name": "ounce (avoirdupois) per gallon (UK)", 
+        "symbol": "oz/gal (UK)"
+    }, 
+    "L38": {
+        "name": "ounce (avoirdupois) per gallon (US)", 
+        "symbol": "oz/gal (US)"
+    }, 
+    "L39": {
+        "name": "ounce (avoirdupois) per cubic inch", 
+        "symbol": "oz/in\u00b3"
+    }, 
+    "L40": {
+        "name": "ounce (avoirdupois)-force", 
+        "symbol": "ozf"
+    }, 
+    "L41": {
+        "name": "ounce (avoirdupois)-force inch", 
+        "symbol": "ozf\u00b7in"
+    }, 
+    "L42": {
+        "name": "picosiemens per metre", 
+        "symbol": "pS/m"
+    }, 
+    "L43": {
+        "name": "peck (UK)", 
+        "symbol": "pk (UK)"
+    }, 
+    "L44": {
+        "name": "peck (UK) per day", 
+        "symbol": "pk (UK)/d"
+    }, 
+    "L45": {
+        "name": "peck (UK) per hour", 
+        "symbol": "pk (UK)/h"
+    }, 
+    "L46": {
+        "name": "peck (UK) per minute", 
+        "symbol": "pk (UK)/min"
+    }, 
+    "L47": {
+        "name": "peck (UK) per second", 
+        "symbol": "pk (UK)/s"
+    }, 
+    "L48": {
+        "name": "peck (US dry) per day", 
+        "symbol": "pk (US dry)/d"
+    }, 
+    "L49": {
+        "name": "peck (US dry) per hour", 
+        "symbol": "pk (US dry)/h"
+    }, 
+    "L50": {
+        "name": "peck (US dry) per minute", 
+        "symbol": "pk (US dry)/min"
+    }, 
+    "L51": {
+        "name": "peck (US dry) per second", 
+        "symbol": "pk (US dry)/s"
+    }, 
+    "L52": {
+        "name": "psi per psi", 
+        "symbol": "psi/psi"
+    }, 
+    "L53": {
+        "name": "pint (UK) per day", 
+        "symbol": "pt (UK)/d"
+    }, 
+    "L54": {
+        "name": "pint (UK) per hour", 
+        "symbol": "pt (UK)/h"
+    }, 
+    "L55": {
+        "name": "pint (UK) per minute", 
+        "symbol": "pt (UK)/min"
+    }, 
+    "L56": {
+        "name": "pint (UK) per second", 
+        "symbol": "pt (UK)/s"
+    }, 
+    "L57": {
+        "name": "pint (US liquid) per day", 
+        "symbol": "pt (US liq.)/d"
+    }, 
+    "L58": {
+        "name": "pint (US liquid) per hour", 
+        "symbol": "pt (US liq.)/h"
+    }, 
+    "L59": {
+        "name": "pint (US liquid) per minute", 
+        "symbol": "pt (US liq.)/min"
+    }, 
+    "L60": {
+        "name": "pint (US liquid) per second", 
+        "symbol": "pt (US liq.)/s"
+    }, 
+    "L61": {
+        "name": "pint (US dry)", 
+        "symbol": "pt (US dry)"
+    }, 
+    "L62": {
+        "name": "quart (US dry)", 
+        "symbol": "qt (US dry)"
+    }, 
+    "L63": {
+        "name": "slug per day", 
+        "symbol": "slug/d"
+    }, 
+    "L64": {
+        "name": "slug per foot second", 
+        "symbol": "slug/(ft\u00b7s)"
+    }, 
+    "L65": {
+        "name": "slug per cubic foot", 
+        "symbol": "slug/ft\u00b3"
+    }, 
+    "L66": {
+        "name": "slug per hour", 
+        "symbol": "slug/h"
+    }, 
+    "L67": {
+        "name": "slug per minute", 
+        "symbol": "slug/min"
+    }, 
+    "L68": {
+        "name": "slug per second", 
+        "symbol": "slug/s"
+    }, 
+    "L69": {
+        "name": "tonne per kelvin", 
+        "symbol": "t/K"
+    }, 
+    "L70": {
+        "name": "tonne per bar", 
+        "symbol": "t/bar"
+    }, 
+    "L71": {
+        "name": "tonne per day", 
+        "symbol": "t/d"
+    }, 
+    "L72": {
+        "name": "tonne per day kelvin", 
+        "symbol": "(t/d)/K"
+    }, 
+    "L73": {
+        "name": "tonne per day bar", 
+        "symbol": "(t/d)/bar"
+    }, 
+    "L74": {
+        "name": "tonne per hour kelvin", 
+        "symbol": "(t/h)/K"
+    }, 
+    "L75": {
+        "name": "tonne per hour bar", 
+        "symbol": "(t/h)/bar"
+    }, 
+    "L76": {
+        "name": "tonne per cubic metre kelvin", 
+        "symbol": "(t/m\u00b3)/K"
+    }, 
+    "L77": {
+        "name": "tonne per cubic metre bar", 
+        "symbol": "(t/m\u00b3)/bar"
+    }, 
+    "L78": {
+        "name": "tonne per minute", 
+        "symbol": "t/min"
+    }, 
+    "L79": {
+        "name": "tonne per minute kelvin", 
+        "symbol": "(t/min)/K"
+    }, 
+    "L80": {
+        "name": "tonne per minute bar", 
+        "symbol": "(t/min)/bar"
+    }, 
+    "L81": {
+        "name": "tonne per second", 
+        "symbol": "t/s"
+    }, 
+    "L82": {
+        "name": "tonne per second kelvin", 
+        "symbol": "(t/s)/K"
+    }, 
+    "L83": {
+        "name": "tonne per second bar", 
+        "symbol": "(t/s)/bar"
+    }, 
+    "L84": {
+        "name": "ton (UK shipping)", 
+        "symbol": "British shipping ton"
+    }, 
+    "L85": {
+        "name": "ton long per day", 
+        "symbol": "ton (UK)/d"
+    }, 
+    "L86": {
+        "name": "ton (US shipping)", 
+        "symbol": "(US) shipping ton"
+    }, 
+    "L87": {
+        "name": "ton short per degree Fahrenheit", 
+        "symbol": "ton (US)/\u00b0F"
+    }, 
+    "L88": {
+        "name": "ton short per day", 
+        "symbol": "ton (US)/d"
+    }, 
+    "L89": {
+        "name": "ton short per hour degree Fahrenheit", 
+        "symbol": "ton (US)/(h\u00b7\u00b0F)"
+    }, 
+    "L90": {
+        "name": "ton short per hour psi", 
+        "symbol": "(ton (US)/h)/psi"
+    }, 
+    "L91": {
+        "name": "ton short per psi", 
+        "symbol": "ton (US)/psi"
+    }, 
+    "L92": {
+        "name": "ton (UK long) per cubic yard", 
+        "symbol": "ton.l/yd\u00b3 (UK)"
+    }, 
+    "L93": {
+        "name": "ton (US short) per cubic yard", 
+        "symbol": "ton.s/yd\u00b3 (US)"
+    }, 
+    "L94": {
+        "name": "ton-force (US short)", 
+        "symbol": "ton.sh-force"
+    }, 
+    "L95": {
+        "name": "common year", 
+        "symbol": "y (365 days)"
+    }, 
+    "L96": {
+        "name": "sidereal year", 
+        "symbol": "y (sidereal)"
+    }, 
+    "L98": {
+        "name": "yard per degree Fahrenheit", 
+        "symbol": "yd/\u00b0F"
+    }, 
+    "L99": {
+        "name": "yard per psi", 
+        "symbol": "yd/psi"
+    }, 
+    "LA": {
+        "name": "pound per cubic inch", 
+        "symbol": "lb/in\u00b3"
+    }, 
+    "LAC": {
+        "name": "lactose excess percentage", 
+        "symbol": ""
+    }, 
+    "LBR": {
+        "name": "pound", 
+        "symbol": "lb"
+    }, 
+    "LBT": {
+        "name": "troy pound (US)", 
+        "symbol": ""
+    }, 
+    "LC": {
+        "name": "linear centimetre", 
+        "symbol": ""
+    }, 
+    "LD": {
+        "name": "litre per day", 
+        "symbol": "l/d"
+    }, 
+    "LE": {
+        "name": "lite", 
+        "symbol": ""
+    }, 
+    "LEF": {
+        "name": "leaf", 
+        "symbol": ""
+    }, 
+    "LF": {
+        "name": "linear foot", 
+        "symbol": ""
+    }, 
+    "LH": {
+        "name": "labour hour", 
+        "symbol": ""
+    }, 
+    "LI": {
+        "name": "linear inch", 
+        "symbol": ""
+    }, 
+    "LJ": {
+        "name": "large spray", 
+        "symbol": ""
+    }, 
+    "LK": {
+        "name": "link", 
+        "symbol": ""
+    }, 
+    "LM": {
+        "name": "linear metre", 
+        "symbol": ""
+    }, 
+    "LN": {
+        "name": "length", 
+        "symbol": ""
+    }, 
+    "LO": {
+        "name": "lot  [unit of procurement]", 
+        "symbol": ""
+    }, 
+    "LP": {
+        "name": "liquid pound", 
+        "symbol": ""
+    }, 
+    "LPA": {
+        "name": "litre of pure alcohol", 
+        "symbol": ""
+    }, 
+    "LR": {
+        "name": "layer", 
+        "symbol": ""
+    }, 
+    "LS": {
+        "name": "lump sum", 
+        "symbol": ""
+    }, 
+    "LTN": {
+        "name": "ton (UK) or long ton (US)", 
+        "symbol": "ton (UK)"
+    }, 
+    "LTR": {
+        "name": "litre", 
+        "symbol": "l"
+    }, 
+    "LUB": {
+        "name": "metric ton, lubricating oil", 
+        "symbol": ""
+    }, 
+    "LUM": {
+        "name": "lumen", 
+        "symbol": "lm"
+    }, 
+    "LUX": {
+        "name": "lux", 
+        "symbol": "lx"
+    }, 
+    "LX": {
+        "name": "linear yard per pound", 
+        "symbol": ""
+    }, 
+    "LY": {
+        "name": "linear yard", 
+        "symbol": ""
+    }, 
+    "M0": {
+        "name": "magnetic tape", 
+        "symbol": ""
+    }, 
+    "M1": {
+        "name": "milligram per litre", 
+        "symbol": "mg/l"
+    }, 
+    "M10": {
+        "name": "reciprocal cubic yard", 
+        "symbol": "1/yd\u00b3"
+    }, 
+    "M11": {
+        "name": "cubic yard per degree Fahrenheit", 
+        "symbol": "yd\u00b3/\u00b0F"
+    }, 
+    "M12": {
+        "name": "cubic yard per day", 
+        "symbol": "yd\u00b3/d"
+    }, 
+    "M13": {
+        "name": "cubic yard per hour", 
+        "symbol": "yd\u00b3/h"
+    }, 
+    "M14": {
+        "name": "cubic yard per psi", 
+        "symbol": "yd\u00b3/psi"
+    }, 
+    "M15": {
+        "name": "cubic yard per minute", 
+        "symbol": "yd\u00b3/min"
+    }, 
+    "M16": {
+        "name": "cubic yard per second", 
+        "symbol": "yd\u00b3/s"
+    }, 
+    "M17": {
+        "name": "kilohertz metre", 
+        "symbol": "kHz\u00b7m"
+    }, 
+    "M18": {
+        "name": "gigahertz metre", 
+        "symbol": "GHz\u00b7m"
+    }, 
+    "M19": {
+        "name": "Beaufort", 
+        "symbol": "Bft"
+    }, 
+    "M20": {
+        "name": "reciprocal megakelvin or megakelvin to the power minus one", 
+        "symbol": "1/MK"
+    }, 
+    "M21": {
+        "name": "reciprocal kilovolt - ampere reciprocal hour", 
+        "symbol": "1/kVAh"
+    }, 
+    "M22": {
+        "name": "millilitre per square centimetre minute", 
+        "symbol": "(ml/min)/cm\u00b2"
+    }, 
+    "M23": {
+        "name": "newton per centimetre", 
+        "symbol": "N/cm"
+    }, 
+    "M24": {
+        "name": "ohm kilometre", 
+        "symbol": "\u2126\u00b7km"
+    }, 
+    "M25": {
+        "name": "percent per degree Celsius", 
+        "symbol": "%/\u00b0C"
+    }, 
+    "M26": {
+        "name": "gigaohm per metre", 
+        "symbol": "G\u2126/m"
+    }, 
+    "M27": {
+        "name": "megahertz metre", 
+        "symbol": "MHz\u00b7m"
+    }, 
+    "M29": {
+        "name": "kilogram per kilogram", 
+        "symbol": "kg/kg"
+    }, 
+    "M30": {
+        "name": "reciprocal volt - ampere reciprocal second", 
+        "symbol": "1/(V\u00b7A\u00b7s)"
+    }, 
+    "M31": {
+        "name": "kilogram per kilometre", 
+        "symbol": "kg/km"
+    }, 
+    "M32": {
+        "name": "pascal second per litre", 
+        "symbol": "Pa\u00b7s/l"
+    }, 
+    "M33": {
+        "name": "millimole per litre", 
+        "symbol": "mmol/l"
+    }, 
+    "M34": {
+        "name": "newton metre per square metre", 
+        "symbol": "N\u00b7m/m\u00b2"
+    }, 
+    "M35": {
+        "name": "millivolt - ampere", 
+        "symbol": "mV\u00b7A"
+    }, 
+    "M36": {
+        "name": "30-day month", 
+        "symbol": "mo (30 days)"
+    }, 
+    "M37": {
+        "name": "actual/360", 
+        "symbol": "y (360 days)"
+    }, 
+    "M38": {
+        "name": "kilometre per second squared", 
+        "symbol": "km/s\u00b2"
+    }, 
+    "M39": {
+        "name": "centimetre per second squared", 
+        "symbol": "cm/s\u00b2"
+    }, 
+    "M4": {
+        "name": "monetary value", 
+        "symbol": ""
+    }, 
+    "M40": {
+        "name": "yard per second squared", 
+        "symbol": "yd/s\u00b2"
+    }, 
+    "M41": {
+        "name": "millimetre per second squared", 
+        "symbol": "mm/s\u00b2"
+    }, 
+    "M42": {
+        "name": "mile (statute mile) per second squared", 
+        "symbol": "mi/s\u00b2"
+    }, 
+    "M43": {
+        "name": "mil", 
+        "symbol": "mil"
+    }, 
+    "M44": {
+        "name": "revolution", 
+        "symbol": "rev"
+    }, 
+    "M45": {
+        "name": "degree [unit of angle] per second squared", 
+        "symbol": "\u00b0/s\u00b2"
+    }, 
+    "M46": {
+        "name": "revolution per minute ", 
+        "symbol": "r/min"
+    }, 
+    "M47": {
+        "name": "circular mil ", 
+        "symbol": "cmil"
+    }, 
+    "M48": {
+        "name": "square mile (based on U.S. survey foot) ", 
+        "symbol": "mi\u00b2 (US survey)"
+    }, 
+    "M49": {
+        "name": "chain (based on U.S. survey foot)", 
+        "symbol": "ch (US survey) "
+    }, 
+    "M5": {
+        "name": "microcurie", 
+        "symbol": "\u00b5Ci"
+    }, 
+    "M50": {
+        "name": "furlong", 
+        "symbol": "fur"
+    }, 
+    "M51": {
+        "name": "foot (U.S. survey) ", 
+        "symbol": "ft (US survey) "
+    }, 
+    "M52": {
+        "name": "mile (based on U.S. survey foot) ", 
+        "symbol": "mi (US survey) "
+    }, 
+    "M53": {
+        "name": "metre per pascal", 
+        "symbol": "m/Pa"
+    }, 
+    "M55": {
+        "name": "metre per radiant", 
+        "symbol": "m/rad"
+    }, 
+    "M56": {
+        "name": "shake", 
+        "symbol": "shake"
+    }, 
+    "M57": {
+        "name": "mile per minute ", 
+        "symbol": "mi/min"
+    }, 
+    "M58": {
+        "name": "mile per second ", 
+        "symbol": "mi/s"
+    }, 
+    "M59": {
+        "name": "metre per second pascal", 
+        "symbol": "(m/s)/Pa"
+    }, 
+    "M60": {
+        "name": "metre per hour", 
+        "symbol": "m/h"
+    }, 
+    "M61": {
+        "name": "inch per year", 
+        "symbol": "in/y"
+    }, 
+    "M62": {
+        "name": "kilometre per second ", 
+        "symbol": "km/s"
+    }, 
+    "M63": {
+        "name": "inch per minute", 
+        "symbol": "in/min"
+    }, 
+    "M64": {
+        "name": "yard per second", 
+        "symbol": "yd/s"
+    }, 
+    "M65": {
+        "name": "yard per minute", 
+        "symbol": "yd/min"
+    }, 
+    "M66": {
+        "name": "yard per hour", 
+        "symbol": "yd/h"
+    }, 
+    "M67": {
+        "name": "acre-foot (based on U.S. survey foot)", 
+        "symbol": "acre-ft (US survey)"
+    }, 
+    "M68": {
+        "name": "cord (128 ft3)", 
+        "symbol": "cord"
+    }, 
+    "M69": {
+        "name": "cubic mile (UK statute)", 
+        "symbol": "mi\u00b3"
+    }, 
+    "M7": {
+        "name": "micro-inch", 
+        "symbol": "\u00b5in"
+    }, 
+    "M70": {
+        "name": "ton, register ", 
+        "symbol": "RT"
+    }, 
+    "M71": {
+        "name": "cubic metre per pascal", 
+        "symbol": "m\u00b3/Pa"
+    }, 
+    "M72": {
+        "name": "bel", 
+        "symbol": "B"
+    }, 
+    "M73": {
+        "name": "kilogram per cubic metre pascal", 
+        "symbol": "(kg/m\u00b3)/Pa"
+    }, 
+    "M74": {
+        "name": "kilogram per pascal", 
+        "symbol": "kg/Pa"
+    }, 
+    "M75": {
+        "name": "kilopound-force", 
+        "symbol": "kip"
+    }, 
+    "M76": {
+        "name": "poundal", 
+        "symbol": "pdl"
+    }, 
+    "M77": {
+        "name": "kilogram metre per second squared", 
+        "symbol": "kg\u00b7m/s\u00b2"
+    }, 
+    "M78": {
+        "name": "pond", 
+        "symbol": "p"
+    }, 
+    "M79": {
+        "name": "square foot per hour ", 
+        "symbol": "ft\u00b2/h"
+    }, 
+    "M80": {
+        "name": "stokes per pascal", 
+        "symbol": "St/Pa"
+    }, 
+    "M81": {
+        "name": "square centimetre per second", 
+        "symbol": "cm\u00b2/s"
+    }, 
+    "M82": {
+        "name": "square metre per second pascal", 
+        "symbol": "(m\u00b2/s)/Pa"
+    }, 
+    "M83": {
+        "name": "denier ", 
+        "symbol": "den"
+    }, 
+    "M84": {
+        "name": "pound per yard ", 
+        "symbol": "lb/yd"
+    }, 
+    "M85": {
+        "name": "ton, assay", 
+        "symbol": ""
+    }, 
+    "M86": {
+        "name": "pfund", 
+        "symbol": "pfd"
+    }, 
+    "M87": {
+        "name": "kilogram per second pascal", 
+        "symbol": "(kg/s)/Pa"
+    }, 
+    "M88": {
+        "name": "tonne per month", 
+        "symbol": "t/mo"
+    }, 
+    "M89": {
+        "name": "tonne per year", 
+        "symbol": "t/y"
+    }, 
+    "M9": {
+        "name": "million Btu per 1000 cubic foot", 
+        "symbol": "MBTU/kft\u00b3"
+    }, 
+    "M90": {
+        "name": "kilopound per hour", 
+        "symbol": "klb/h"
+    }, 
+    "M91": {
+        "name": "pound per pound", 
+        "symbol": "lb/lb"
+    }, 
+    "M92": {
+        "name": "pound-force foot", 
+        "symbol": "lbf\u00b7ft"
+    }, 
+    "M93": {
+        "name": "newton metre per radian", 
+        "symbol": "N\u00b7m/rad"
+    }, 
+    "M94": {
+        "name": "kilogram metre", 
+        "symbol": "kg\u00b7m"
+    }, 
+    "M95": {
+        "name": "poundal foot", 
+        "symbol": "pdl\u00b7ft"
+    }, 
+    "M96": {
+        "name": "poundal inch", 
+        "symbol": "pdl\u00b7in"
+    }, 
+    "M97": {
+        "name": "dyne metre", 
+        "symbol": "dyn\u00b7m"
+    }, 
+    "M98": {
+        "name": "kilogram centimetre per second", 
+        "symbol": "kg\u00b7(cm/s)"
+    }, 
+    "M99": {
+        "name": "gram centimetre per second", 
+        "symbol": "g\u00b7(cm/s)"
+    }, 
+    "MA": {
+        "name": "machine per unit", 
+        "symbol": ""
+    }, 
+    "MAH": {
+        "name": "megavolt ampere reactive hour", 
+        "symbol": "Mvar\u00b7h"
+    }, 
+    "MAL": {
+        "name": "megalitre", 
+        "symbol": "Ml"
+    }, 
+    "MAM": {
+        "name": "megametre", 
+        "symbol": "Mm"
+    }, 
+    "MAR": {
+        "name": "megavar", 
+        "symbol": "Mvar"
+    }, 
+    "MAW": {
+        "name": "megawatt", 
+        "symbol": "MW"
+    }, 
+    "MBE": {
+        "name": "thousand standard brick equivalent", 
+        "symbol": ""
+    }, 
+    "MBF": {
+        "name": "thousand board foot", 
+        "symbol": ""
+    }, 
+    "MBR": {
+        "name": "millibar", 
+        "symbol": "mbar"
+    }, 
+    "MC": {
+        "name": "microgram", 
+        "symbol": "\u00b5g"
+    }, 
+    "MCU": {
+        "name": "millicurie", 
+        "symbol": "mCi"
+    }, 
+    "MD": {
+        "name": "air dry metric ton", 
+        "symbol": ""
+    }, 
+    "MF": {
+        "name": "milligram per square foot per side", 
+        "symbol": ""
+    }, 
+    "MGM": {
+        "name": "milligram", 
+        "symbol": "mg"
+    }, 
+    "MHZ": {
+        "name": "megahertz", 
+        "symbol": "MHz"
+    }, 
+    "MIK": {
+        "name": "square mile (statute mile)", 
+        "symbol": "mi\u00b2"
+    }, 
+    "MIL": {
+        "name": "thousand", 
+        "symbol": ""
+    }, 
+    "MIN": {
+        "name": "minute [unit of time]", 
+        "symbol": "min"
+    }, 
+    "MIO": {
+        "name": "million", 
+        "symbol": ""
+    }, 
+    "MIU": {
+        "name": "million international unit", 
+        "symbol": ""
+    }, 
+    "MK": {
+        "name": "milligram per square inch", 
+        "symbol": "mg/in\u00b2"
+    }, 
+    "MLD": {
+        "name": "milliard", 
+        "symbol": ""
+    }, 
+    "MLT": {
+        "name": "millilitre", 
+        "symbol": "ml"
+    }, 
+    "MMK": {
+        "name": "square millimetre", 
+        "symbol": "mm\u00b2"
+    }, 
+    "MMQ": {
+        "name": "cubic millimetre", 
+        "symbol": "mm\u00b3"
+    }, 
+    "MMT": {
+        "name": "millimetre", 
+        "symbol": "mm"
+    }, 
+    "MND": {
+        "name": "kilogram, dry weight", 
+        "symbol": ""
+    }, 
+    "MON": {
+        "name": "month", 
+        "symbol": "mo"
+    }, 
+    "MPA": {
+        "name": "megapascal", 
+        "symbol": "MPa"
+    }, 
+    "MQ": {
+        "name": "thousand metre", 
+        "symbol": ""
+    }, 
+    "MQH": {
+        "name": "cubic metre per hour", 
+        "symbol": "m\u00b3/h"
+    }, 
+    "MQS": {
+        "name": "cubic metre per second", 
+        "symbol": "m\u00b3/s"
+    }, 
+    "MSK": {
+        "name": "metre per second squared", 
+        "symbol": "m/s\u00b2"
+    }, 
+    "MT": {
+        "name": "mat", 
+        "symbol": ""
+    }, 
+    "MTK": {
+        "name": "square metre", 
+        "symbol": "m\u00b2"
+    }, 
+    "MTQ": {
+        "name": "cubic metre", 
+        "symbol": "m\u00b3"
+    }, 
+    "MTR": {
+        "name": "metre", 
+        "symbol": "m"
+    }, 
+    "MTS": {
+        "name": "metre per second", 
+        "symbol": "m/s"
+    }, 
+    "MV": {
+        "name": "number of mults", 
+        "symbol": ""
+    }, 
+    "MVA": {
+        "name": "megavolt - ampere", 
+        "symbol": "MV\u00b7A"
+    }, 
+    "MWH": {
+        "name": "megawatt hour (1000\u00a0kW.h)", 
+        "symbol": "MW\u00b7h"
+    }, 
+    "N1": {
+        "name": "pen calorie", 
+        "symbol": ""
+    }, 
+    "N10": {
+        "name": "pound foot per second", 
+        "symbol": "lb\u00b7(ft/s)"
+    }, 
+    "N11": {
+        "name": "pound inch per second", 
+        "symbol": "lb\u00b7(in/s)"
+    }, 
+    "N12": {
+        "name": "Pferdestaerke", 
+        "symbol": "PS"
+    }, 
+    "N13": {
+        "name": "centimetre of mercury (0 \u00baC)", 
+        "symbol": "cmHg (0 \u00baC)"
+    }, 
+    "N14": {
+        "name": "centimetre of water (4 \u00baC)", 
+        "symbol": "cmH\u2082O (4 \u00b0C)"
+    }, 
+    "N15": {
+        "name": "foot of water (39.2 \u00baF)", 
+        "symbol": "ftH\u2082O (39,2 \u00baF)"
+    }, 
+    "N16": {
+        "name": "inch of mercury (32 \u00baF)", 
+        "symbol": "inHG (32 \u00baF)"
+    }, 
+    "N17": {
+        "name": "inch of mercury (60 \u00baF)", 
+        "symbol": "inHg (60 \u00baF)"
+    }, 
+    "N18": {
+        "name": "inch of water (39.2 \u00baF)", 
+        "symbol": "inH\u2082O (39,2 \u00baF)"
+    }, 
+    "N19": {
+        "name": "inch of water (60 \u00baF)", 
+        "symbol": "inH\u2082O (60 \u00baF)"
+    }, 
+    "N2": {
+        "name": "number of lines", 
+        "symbol": ""
+    }, 
+    "N20": {
+        "name": "kip per square inch", 
+        "symbol": "ksi"
+    }, 
+    "N21": {
+        "name": "poundal per square foot ", 
+        "symbol": "pdl/ft\u00b2"
+    }, 
+    "N22": {
+        "name": "ounce (avoirdupois) per square inch ", 
+        "symbol": "oz/in\u00b2"
+    }, 
+    "N23": {
+        "name": "conventional metre of water", 
+        "symbol": "mH\u2082O"
+    }, 
+    "N24": {
+        "name": "gram per square millimetre", 
+        "symbol": "g/mm\u00b2"
+    }, 
+    "N25": {
+        "name": "pound per square yard", 
+        "symbol": "lb/yd\u00b2"
+    }, 
+    "N26": {
+        "name": "poundal per square inch", 
+        "symbol": "pdl/in\u00b2"
+    }, 
+    "N27": {
+        "name": "foot to the fourth power ", 
+        "symbol": "ft\u2074"
+    }, 
+    "N28": {
+        "name": "cubic decimetre per kilogram", 
+        "symbol": "dm\u00b3/kg"
+    }, 
+    "N29": {
+        "name": "cubic foot per pound", 
+        "symbol": "ft\u00b3/lb"
+    }, 
+    "N3": {
+        "name": "print point", 
+        "symbol": ""
+    }, 
+    "N30": {
+        "name": "cubic inch per pound", 
+        "symbol": "in\u00b3/lb"
+    }, 
+    "N31": {
+        "name": "kilonewton per metre", 
+        "symbol": "kN/m"
+    }, 
+    "N32": {
+        "name": "poundal per inch", 
+        "symbol": "pdl/in"
+    }, 
+    "N33": {
+        "name": "pound-force per yard", 
+        "symbol": "lbf/yd"
+    }, 
+    "N34": {
+        "name": "poundal second per square foot ", 
+        "symbol": "(pdl/ft\u00b2)\u00b7s"
+    }, 
+    "N35": {
+        "name": "poise per pascal", 
+        "symbol": "P/Pa"
+    }, 
+    "N36": {
+        "name": "newton second per square metre", 
+        "symbol": "(N/m\u00b2)\u00b7s"
+    }, 
+    "N37": {
+        "name": "kilogram per metre second", 
+        "symbol": "kg/(m\u00b7s)"
+    }, 
+    "N38": {
+        "name": "kilogram per metre minute", 
+        "symbol": "kg/(m\u00b7min)"
+    }, 
+    "N39": {
+        "name": "kilogram per metre day", 
+        "symbol": "kg/(m\u00b7d)"
+    }, 
+    "N40": {
+        "name": "kilogram per metre hour", 
+        "symbol": "kg/(m\u00b7h)"
+    }, 
+    "N41": {
+        "name": "gram per centimetre second", 
+        "symbol": "g/(cm\u00b7s)"
+    }, 
+    "N42": {
+        "name": "poundal second per square inch", 
+        "symbol": "(pdl/in\u00b2)\u00b7s"
+    }, 
+    "N43": {
+        "name": "pound per foot minute", 
+        "symbol": "lb/(ft\u00b7min)"
+    }, 
+    "N44": {
+        "name": "pound per foot day", 
+        "symbol": "lb/(ft\u00b7d)"
+    }, 
+    "N45": {
+        "name": "cubic metre per second pascal", 
+        "symbol": "(m\u00b3/s)/Pa"
+    }, 
+    "N46": {
+        "name": "foot poundal", 
+        "symbol": "ft\u00b7pdl"
+    }, 
+    "N47": {
+        "name": "inch poundal", 
+        "symbol": "in\u00b7pdl"
+    }, 
+    "N48": {
+        "name": "watt per square centimetre ", 
+        "symbol": "W/cm\u00b2"
+    }, 
+    "N49": {
+        "name": "watt per square inch ", 
+        "symbol": "W/in\u00b2"
+    }, 
+    "N50": {
+        "name": "British thermal unit (international table) per square foot hour", 
+        "symbol": "BtuIT/(ft\u00b2\u00b7h)"
+    }, 
+    "N51": {
+        "name": "British thermal unit (thermochemical) per square foot hour", 
+        "symbol": "Btuth/(ft\u00b2\u00b7h)"
+    }, 
+    "N52": {
+        "name": "British thermal unit (thermochemical) per square foot minute", 
+        "symbol": "Btuth/(ft\u00b2\u00b7min) "
+    }, 
+    "N53": {
+        "name": "British thermal unit (international table) per square foot second", 
+        "symbol": "BtuIT/(ft\u00b2\u00b7s)"
+    }, 
+    "N54": {
+        "name": "British thermal unit (thermochemical) per square foot second", 
+        "symbol": "Btuth/(ft\u00b2\u00b7s)"
+    }, 
+    "N55": {
+        "name": "British thermal unit (international table) per square inch second", 
+        "symbol": "BtuIT/(in\u00b2\u00b7s)"
+    }, 
+    "N56": {
+        "name": "calorie (thermochemical) per square centimetre minute", 
+        "symbol": "calth/(cm\u00b2\u00b7min)"
+    }, 
+    "N57": {
+        "name": "calorie (thermochemical) per square centimetre second", 
+        "symbol": "calth/(cm\u00b2\u00b7s)"
+    }, 
+    "N58": {
+        "name": "British thermal unit (international table) per cubic foot ", 
+        "symbol": "BtuIT/ft\u00b3"
+    }, 
+    "N59": {
+        "name": "British thermal unit (thermochemical) per cubic foot", 
+        "symbol": "Btuth/ft\u00b3"
+    }, 
+    "N60": {
+        "name": "British thermal unit (international table) per degree Fahrenheit", 
+        "symbol": "BtuIT/\u00baF"
+    }, 
+    "N61": {
+        "name": "British thermal unit (thermochemical) per degree Fahrenheit", 
+        "symbol": "Btuth/\u00baF"
+    }, 
+    "N62": {
+        "name": "British thermal unit (international table) per degree Rankine", 
+        "symbol": "BtuIT/\u00baR"
+    }, 
+    "N63": {
+        "name": "British thermal unit (thermochemical) per degree Rankine", 
+        "symbol": "Btuth/\u00baR"
+    }, 
+    "N64": {
+        "name": "British thermal unit (thermochemical) per pound degree Rankine", 
+        "symbol": "(Btuth/\u00b0R)/lb"
+    }, 
+    "N65": {
+        "name": "kilocalorie (international table) per gram kelvin", 
+        "symbol": "(kcalIT/K)/g"
+    }, 
+    "N66": {
+        "name": "British thermal unit (39 \u00baF) ", 
+        "symbol": "Btu (39 \u00baF) "
+    }, 
+    "N67": {
+        "name": "British thermal unit (59 \u00baF)", 
+        "symbol": "Btu (59 \u00baF)"
+    }, 
+    "N68": {
+        "name": "British thermal unit (60 \u00baF) ", 
+        "symbol": "Btu (60 \u00baF) "
+    }, 
+    "N69": {
+        "name": "calorie (20 \u00baC) ", 
+        "symbol": "cal\u2082\u2080"
+    }, 
+    "N70": {
+        "name": "quad (1015 BtuIT)", 
+        "symbol": "quad"
+    }, 
+    "N71": {
+        "name": "therm (EC)", 
+        "symbol": "thm (EC)"
+    }, 
+    "N72": {
+        "name": "therm (U.S.)", 
+        "symbol": "thm (US)"
+    }, 
+    "N73": {
+        "name": "British thermal unit (thermochemical) per pound", 
+        "symbol": "Btuth/lb"
+    }, 
+    "N74": {
+        "name": "British thermal unit (international table) per hour square foot degree Fahrenheit", 
+        "symbol": "BtuIT/(h\u00b7ft\u00b2\u00b7\u00baF)"
+    }, 
+    "N75": {
+        "name": "British thermal unit (thermochemical) per hour square foot degree Fahrenheit", 
+        "symbol": "Btuth/(h\u00b7ft\u00b2\u00b7\u00baF)"
+    }, 
+    "N76": {
+        "name": "British thermal unit (international table) per second square foot degree Fahrenheit", 
+        "symbol": "BtuIT/(s\u00b7ft\u00b2\u00b7\u00baF)"
+    }, 
+    "N77": {
+        "name": "British thermal unit (thermochemical) per second square foot degree Fahrenheit", 
+        "symbol": "Btuth/(s\u00b7ft\u00b2\u00b7\u00baF) "
+    }, 
+    "N78": {
+        "name": "kilowatt per square metre kelvin", 
+        "symbol": "kW/(m\u00b2\u00b7K)"
+    }, 
+    "N79": {
+        "name": "kelvin per pascal", 
+        "symbol": "K/Pa"
+    }, 
+    "N80": {
+        "name": "watt per metre degree Celsius", 
+        "symbol": "W/(m\u00b7\u00b0C)"
+    }, 
+    "N81": {
+        "name": "kilowatt per metre kelvin", 
+        "symbol": "kW/(m\u00b7K)"
+    }, 
+    "N82": {
+        "name": "kilowatt per metre degree Celsius", 
+        "symbol": "kW/(m\u00b7\u00b0C)"
+    }, 
+    "N83": {
+        "name": "metre per degree Celcius metre", 
+        "symbol": "m/(\u00b0C\u00b7m)"
+    }, 
+    "N84": {
+        "name": "degree Fahrenheit hour per British thermal unit (international table)", 
+        "symbol": "\u00baF/(BtuIT/h)"
+    }, 
+    "N85": {
+        "name": "degree Fahrenheit hour per British thermal unit (thermochemical)", 
+        "symbol": "\u00baF/(Btuth/h)"
+    }, 
+    "N86": {
+        "name": "degree Fahrenheit second per British thermal unit (international table)", 
+        "symbol": "\u00baF/(BtuIT/s)"
+    }, 
+    "N87": {
+        "name": "degree Fahrenheit second per British thermal unit (thermochemical)", 
+        "symbol": "\u00baF/(Btuth/s)"
+    }, 
+    "N88": {
+        "name": "degree Fahrenheit hour square foot per British thermal unit (international table) inch", 
+        "symbol": "\u00baF\u00b7h\u00b7ft\u00b2/(BtuIT\u00b7in)"
+    }, 
+    "N89": {
+        "name": "degree Fahrenheit hour square foot per British thermal unit (thermochemical) inch", 
+        "symbol": "\u00baF\u00b7h\u00b7ft\u00b2/(Btuth\u00b7in)"
+    }, 
+    "N90": {
+        "name": "kilofarad", 
+        "symbol": "kF"
+    }, 
+    "N91": {
+        "name": "reciprocal joule", 
+        "symbol": "1/J"
+    }, 
+    "N92": {
+        "name": "picosiemens", 
+        "symbol": "pS"
+    }, 
+    "N93": {
+        "name": "ampere per pascal", 
+        "symbol": "A/Pa"
+    }, 
+    "N94": {
+        "name": "franklin", 
+        "symbol": "Fr"
+    }, 
+    "N95": {
+        "name": "ampere minute", 
+        "symbol": "A\u00b7min"
+    }, 
+    "N96": {
+        "name": "biot", 
+        "symbol": "Bi"
+    }, 
+    "N97": {
+        "name": "gilbert", 
+        "symbol": "Gi"
+    }, 
+    "N98": {
+        "name": "volt per pascal", 
+        "symbol": "V/Pa"
+    }, 
+    "N99": {
+        "name": "picovolt", 
+        "symbol": "pV"
+    }, 
+    "NA": {
+        "name": "milligram per kilogram", 
+        "symbol": "mg/kg"
+    }, 
+    "NAR": {
+        "name": "number of articles", 
+        "symbol": ""
+    }, 
+    "NB": {
+        "name": "barge", 
+        "symbol": ""
+    }, 
+    "NBB": {
+        "name": "number of bobbins", 
+        "symbol": ""
+    }, 
+    "NC": {
+        "name": "car", 
+        "symbol": ""
+    }, 
+    "NCL": {
+        "name": "number of cells", 
+        "symbol": ""
+    }, 
+    "ND": {
+        "name": "net barrel", 
+        "symbol": ""
+    }, 
+    "NE": {
+        "name": "net litre", 
+        "symbol": ""
+    }, 
+    "NEW": {
+        "name": "newton", 
+        "symbol": "N"
+    }, 
+    "NF": {
+        "name": "message", 
+        "symbol": ""
+    }, 
+    "NG": {
+        "name": "net gallon (us)", 
+        "symbol": ""
+    }, 
+    "NH": {
+        "name": "message hour", 
+        "symbol": ""
+    }, 
+    "NI": {
+        "name": "net imperial gallon", 
+        "symbol": ""
+    }, 
+    "NIL": {
+        "name": "nil", 
+        "symbol": "()"
+    }, 
+    "NIU": {
+        "name": "number of international units", 
+        "symbol": ""
+    }, 
+    "NJ": {
+        "name": "number of screens", 
+        "symbol": ""
+    }, 
+    "NL": {
+        "name": "load", 
+        "symbol": ""
+    }, 
+    "NMI": {
+        "name": "nautical mile", 
+        "symbol": "n mile"
+    }, 
+    "NMP": {
+        "name": "number of packs", 
+        "symbol": ""
+    }, 
+    "NN": {
+        "name": "train", 
+        "symbol": ""
+    }, 
+    "NPL": {
+        "name": "number of parcels", 
+        "symbol": ""
+    }, 
+    "NPR": {
+        "name": "number of pairs", 
+        "symbol": ""
+    }, 
+    "NPT": {
+        "name": "number of parts", 
+        "symbol": ""
+    }, 
+    "NQ": {
+        "name": "mho", 
+        "symbol": ""
+    }, 
+    "NR": {
+        "name": "micromho", 
+        "symbol": ""
+    }, 
+    "NRL": {
+        "name": "number of rolls", 
+        "symbol": ""
+    }, 
+    "NT": {
+        "name": "net ton", 
+        "symbol": ""
+    }, 
+    "NTT": {
+        "name": "net register ton", 
+        "symbol": ""
+    }, 
+    "NU": {
+        "name": "newton metre", 
+        "symbol": "N\u00b7m"
+    }, 
+    "NV": {
+        "name": "vehicle", 
+        "symbol": ""
+    }, 
+    "NX": {
+        "name": "part per thousand", 
+        "symbol": "\u2030"
+    }, 
+    "NY": {
+        "name": "pound per air dry metric ton", 
+        "symbol": ""
+    }, 
+    "OA": {
+        "name": "panel", 
+        "symbol": ""
+    }, 
+    "ODE": {
+        "name": "ozone depletion equivalent", 
+        "symbol": ""
+    }, 
+    "OHM": {
+        "name": "ohm", 
+        "symbol": "\u2126"
+    }, 
+    "ON": {
+        "name": "ounce per square yard", 
+        "symbol": "oz/yd\u00b2"
+    }, 
+    "ONZ": {
+        "name": "ounce (avoirdupois)", 
+        "symbol": "oz"
+    }, 
+    "OP": {
+        "name": "two pack", 
+        "symbol": ""
+    }, 
+    "OT": {
+        "name": "overtime hour", 
+        "symbol": ""
+    }, 
+    "OZ": {
+        "name": "ounce av", 
+        "symbol": ""
+    }, 
+    "OZA": {
+        "name": "fluid ounce (US)", 
+        "symbol": "fl oz (US)"
+    }, 
+    "OZI": {
+        "name": "fluid ounce (UK)", 
+        "symbol": "fl oz (UK)"
+    }, 
+    "P0": {
+        "name": "page - electronic", 
+        "symbol": ""
+    }, 
+    "P1": {
+        "name": "percent", 
+        "symbol": "% or pct"
+    }, 
+    "P10": {
+        "name": "coulomb per metre", 
+        "symbol": "C/m"
+    }, 
+    "P11": {
+        "name": "kiloweber", 
+        "symbol": "kWb"
+    }, 
+    "P12": {
+        "name": "gamma", 
+        "symbol": "\u03b3"
+    }, 
+    "P13": {
+        "name": "kilotesla", 
+        "symbol": "kT"
+    }, 
+    "P14": {
+        "name": "joule per second", 
+        "symbol": "J/s"
+    }, 
+    "P15": {
+        "name": "joule per minute", 
+        "symbol": "J/min"
+    }, 
+    "P16": {
+        "name": "joule per hour", 
+        "symbol": "J/h"
+    }, 
+    "P17": {
+        "name": "joule per day", 
+        "symbol": "J/d"
+    }, 
+    "P18": {
+        "name": "kilojoule per second", 
+        "symbol": "kJ/s"
+    }, 
+    "P19": {
+        "name": "kilojoule per minute", 
+        "symbol": "kJ/min"
+    }, 
+    "P2": {
+        "name": "pound per foot", 
+        "symbol": "lb/ft"
+    }, 
+    "P20": {
+        "name": "kilojoule per hour", 
+        "symbol": "kJ/h"
+    }, 
+    "P21": {
+        "name": "kilojoule per day", 
+        "symbol": "kJ/d"
+    }, 
+    "P22": {
+        "name": "nanoohm", 
+        "symbol": "n\u2126"
+    }, 
+    "P23": {
+        "name": "ohm circular-mil per foot ", 
+        "symbol": "\u03a9\u00b7cmil/ft "
+    }, 
+    "P24": {
+        "name": "kilohenry", 
+        "symbol": "kH"
+    }, 
+    "P25": {
+        "name": "lumen per square foot ", 
+        "symbol": "lm/ft\u00b2"
+    }, 
+    "P26": {
+        "name": "phot", 
+        "symbol": "ph"
+    }, 
+    "P27": {
+        "name": "footcandle", 
+        "symbol": "ftc"
+    }, 
+    "P28": {
+        "name": "candela per square inch ", 
+        "symbol": "cd/in\u00b2"
+    }, 
+    "P29": {
+        "name": "footlambert", 
+        "symbol": "ftL"
+    }, 
+    "P3": {
+        "name": "three pack", 
+        "symbol": ""
+    }, 
+    "P30": {
+        "name": "lambert", 
+        "symbol": "Lb"
+    }, 
+    "P31": {
+        "name": "stilb", 
+        "symbol": "sb"
+    }, 
+    "P32": {
+        "name": "candela per square foot", 
+        "symbol": "cd/ft\u00b2"
+    }, 
+    "P33": {
+        "name": "kilocandela", 
+        "symbol": "kcd"
+    }, 
+    "P34": {
+        "name": "millicandela", 
+        "symbol": "mcd"
+    }, 
+    "P35": {
+        "name": "Hefner-Kerze", 
+        "symbol": "HK"
+    }, 
+    "P36": {
+        "name": "international candle ", 
+        "symbol": "IK"
+    }, 
+    "P37": {
+        "name": "British thermal unit (international table) per square foot", 
+        "symbol": "BtuIT/ft\u00b2"
+    }, 
+    "P38": {
+        "name": "British thermal unit (thermochemical) per square foot", 
+        "symbol": "Btuth/ft\u00b2"
+    }, 
+    "P39": {
+        "name": "calorie (thermochemical) per square centimetre ", 
+        "symbol": "calth/cm\u00b2"
+    }, 
+    "P4": {
+        "name": "four pack", 
+        "symbol": ""
+    }, 
+    "P40": {
+        "name": "langley", 
+        "symbol": "Ly"
+    }, 
+    "P41": {
+        "name": "decade (logarithmic)", 
+        "symbol": "dec"
+    }, 
+    "P42": {
+        "name": "pascal squared second", 
+        "symbol": "Pa\u00b2\u00b7s"
+    }, 
+    "P43": {
+        "name": "bel per metre", 
+        "symbol": "B/m"
+    }, 
+    "P44": {
+        "name": "pound mole", 
+        "symbol": "lbmol"
+    }, 
+    "P45": {
+        "name": "pound mole per second", 
+        "symbol": "lbmol/s"
+    }, 
+    "P46": {
+        "name": "pound mole per minute", 
+        "symbol": "lbmol/h"
+    }, 
+    "P47": {
+        "name": "kilomole per kilogram", 
+        "symbol": "kmol/kg"
+    }, 
+    "P48": {
+        "name": "pound mole per pound", 
+        "symbol": "lbmol/lb"
+    }, 
+    "P49": {
+        "name": "newton square metre per ampere", 
+        "symbol": "N\u00b7m\u00b2/A"
+    }, 
+    "P5": {
+        "name": "five pack", 
+        "symbol": ""
+    }, 
+    "P50": {
+        "name": "weber metre", 
+        "symbol": "Wb\u00b7m"
+    }, 
+    "P51": {
+        "name": "mol per kilogram pascal", 
+        "symbol": "(mol/kg)/Pa"
+    }, 
+    "P52": {
+        "name": "mol per cubic metre pascal", 
+        "symbol": "(mol/m\u00b3)/Pa"
+    }, 
+    "P53": {
+        "name": "unit pole ", 
+        "symbol": "unit pole "
+    }, 
+    "P54": {
+        "name": "milligray per second", 
+        "symbol": "mGy/s"
+    }, 
+    "P55": {
+        "name": "microgray per second", 
+        "symbol": "\u00b5Gy/s"
+    }, 
+    "P56": {
+        "name": "nanogray per second", 
+        "symbol": "nGy/s"
+    }, 
+    "P57": {
+        "name": "gray per minute", 
+        "symbol": "Gy/min"
+    }, 
+    "P58": {
+        "name": "milligray per minute", 
+        "symbol": "mGy/min"
+    }, 
+    "P59": {
+        "name": "microgray per minute", 
+        "symbol": "\u00b5Gy/min"
+    }, 
+    "P6": {
+        "name": "six pack", 
+        "symbol": ""
+    }, 
+    "P60": {
+        "name": "nanogray per minute", 
+        "symbol": "nGy/min"
+    }, 
+    "P61": {
+        "name": "gray per hour", 
+        "symbol": "Gy/h"
+    }, 
+    "P62": {
+        "name": "milligray per hour", 
+        "symbol": "mGy/h"
+    }, 
+    "P63": {
+        "name": "microgray per hour", 
+        "symbol": "\u00b5Gy/h"
+    }, 
+    "P64": {
+        "name": "nanogray per hour", 
+        "symbol": "nGy/h"
+    }, 
+    "P65": {
+        "name": "sievert per second", 
+        "symbol": "Sv/s"
+    }, 
+    "P66": {
+        "name": "millisievert per second", 
+        "symbol": "mSv/s"
+    }, 
+    "P67": {
+        "name": "microsievert per second", 
+        "symbol": "\u00b5Sv/s"
+    }, 
+    "P68": {
+        "name": "nanosievert per second", 
+        "symbol": "nSv/s"
+    }, 
+    "P69": {
+        "name": "rem per second", 
+        "symbol": "rem/s"
+    }, 
+    "P7": {
+        "name": "seven pack", 
+        "symbol": ""
+    }, 
+    "P70": {
+        "name": "sievert per hour", 
+        "symbol": "Sv/h"
+    }, 
+    "P71": {
+        "name": "millisievert per hour", 
+        "symbol": "mSv/h"
+    }, 
+    "P72": {
+        "name": "microsievert per hour", 
+        "symbol": "\u00b5Sv/h"
+    }, 
+    "P73": {
+        "name": "nanosievert per hour", 
+        "symbol": "nSv/h"
+    }, 
+    "P74": {
+        "name": "sievert per minute", 
+        "symbol": "Sv/min"
+    }, 
+    "P75": {
+        "name": "millisievert per minute", 
+        "symbol": "mSv/min"
+    }, 
+    "P76": {
+        "name": "microsievert per minute", 
+        "symbol": "\u00b5Sv/min"
+    }, 
+    "P77": {
+        "name": "nanosievert per minute", 
+        "symbol": "nSv/min"
+    }, 
+    "P78": {
+        "name": "reciprocal square inch", 
+        "symbol": "1/in\u00b2"
+    }, 
+    "P79": {
+        "name": "pascal square metre per kilogram", 
+        "symbol": "Pa/(kg/m\u00b2)"
+    }, 
+    "P8": {
+        "name": "eight pack", 
+        "symbol": ""
+    }, 
+    "P80": {
+        "name": "millipascal per metre", 
+        "symbol": "mPa/m"
+    }, 
+    "P81": {
+        "name": "kilopascal per metre", 
+        "symbol": "kPa/m"
+    }, 
+    "P82": {
+        "name": "hectopascal per metre", 
+        "symbol": "hPa/m"
+    }, 
+    "P83": {
+        "name": "standard atmosphere per metre", 
+        "symbol": "Atm/m"
+    }, 
+    "P84": {
+        "name": "technical atmosphere per metre", 
+        "symbol": "at/m"
+    }, 
+    "P85": {
+        "name": "torr per metre", 
+        "symbol": "Torr/m"
+    }, 
+    "P86": {
+        "name": "psi per inch", 
+        "symbol": "psi/in"
+    }, 
+    "P87": {
+        "name": "cubic metre per second square metre", 
+        "symbol": "(m\u00b3/s)/m\u00b2"
+    }, 
+    "P88": {
+        "name": "rhe", 
+        "symbol": "rhe"
+    }, 
+    "P89": {
+        "name": "pound-force foot per inch", 
+        "symbol": "lbf\u00b7ft/in"
+    }, 
+    "P9": {
+        "name": "nine pack", 
+        "symbol": ""
+    }, 
+    "P90": {
+        "name": "pound-force inch per inch ", 
+        "symbol": "lbf\u00b7in/in"
+    }, 
+    "P91": {
+        "name": "perm (0 \u00baC) ", 
+        "symbol": "perm (0 \u00baC) "
+    }, 
+    "P92": {
+        "name": "perm (23 \u00baC) ", 
+        "symbol": "perm (23 \u00baC) "
+    }, 
+    "P93": {
+        "name": "byte per second", 
+        "symbol": "byte/s"
+    }, 
+    "P94": {
+        "name": "kilobyte per second", 
+        "symbol": "kbyte/s"
+    }, 
+    "P95": {
+        "name": "megabyte per second", 
+        "symbol": "Mbyte/s"
+    }, 
+    "P96": {
+        "name": "reciprocal volt", 
+        "symbol": "1/V"
+    }, 
+    "P97": {
+        "name": "reciprocal radian", 
+        "symbol": "1/rad"
+    }, 
+    "P98": {
+        "name": "pascal to the power sum of stoichiometric numbers", 
+        "symbol": "Pa\u03a3\u03bdB"
+    }, 
+    "P99": {
+        "name": "mole per cubiv metre to the power sum of stoichiometric numbers", 
+        "symbol": "(mol/m\u00b3)\u2211\u03bdB"
+    }, 
+    "PA": {
+        "name": "packet", 
+        "symbol": ""
+    }, 
+    "PAL": {
+        "name": "pascal", 
+        "symbol": "Pa"
+    }, 
+    "PB": {
+        "name": "pair inch", 
+        "symbol": ""
+    }, 
+    "PD": {
+        "name": "pad", 
+        "symbol": ""
+    }, 
+    "PE": {
+        "name": "pound equivalent", 
+        "symbol": ""
+    }, 
+    "PF": {
+        "name": "pallet (lift)", 
+        "symbol": ""
+    }, 
+    "PFL": {
+        "name": "proof litre", 
+        "symbol": ""
+    }, 
+    "PG": {
+        "name": "plate", 
+        "symbol": ""
+    }, 
+    "PGL": {
+        "name": "proof gallon", 
+        "symbol": ""
+    }, 
+    "PI": {
+        "name": "pitch", 
+        "symbol": ""
+    }, 
+    "PK": {
+        "name": "pack", 
+        "symbol": ""
+    }, 
+    "PL": {
+        "name": "pail", 
+        "symbol": ""
+    }, 
+    "PLA": {
+        "name": "degree Plato", 
+        "symbol": "\u00b0P"
+    }, 
+    "PM": {
+        "name": "pound percentage", 
+        "symbol": ""
+    }, 
+    "PN": {
+        "name": "pound net", 
+        "symbol": ""
+    }, 
+    "PO": {
+        "name": "pound per inch of length", 
+        "symbol": "lb/in"
+    }, 
+    "PQ": {
+        "name": "page per inch", 
+        "symbol": "ppi"
+    }, 
+    "PR": {
+        "name": "pair", 
+        "symbol": ""
+    }, 
+    "PS": {
+        "name": "pound-force per square inch", 
+        "symbol": "lbf/in\u00b2"
+    }, 
+    "PT": {
+        "name": "pint (US)", 
+        "symbol": "pt (US)"
+    }, 
+    "PTD": {
+        "name": "dry pint (US)", 
+        "symbol": "dry pt (US)"
+    }, 
+    "PTI": {
+        "name": "pint (UK)", 
+        "symbol": "pt (UK)"
+    }, 
+    "PTL": {
+        "name": "liquid pint (US)", 
+        "symbol": "liq pt (US)"
+    }, 
+    "PU": {
+        "name": "tray / tray pack", 
+        "symbol": ""
+    }, 
+    "PV": {
+        "name": "half pint (US)", 
+        "symbol": ""
+    }, 
+    "PW": {
+        "name": "pound per inch of width", 
+        "symbol": ""
+    }, 
+    "PY": {
+        "name": "peck dry (US)", 
+        "symbol": ""
+    }, 
+    "PZ": {
+        "name": "peck dry (UK)", 
+        "symbol": ""
+    }, 
+    "Q10": {
+        "name": "joule per tesla", 
+        "symbol": "J/T"
+    }, 
+    "Q11": {
+        "name": "erlang", 
+        "symbol": "E"
+    }, 
+    "Q12": {
+        "name": "octet", 
+        "symbol": "o"
+    }, 
+    "Q13": {
+        "name": "octet per second", 
+        "symbol": "o/s"
+    }, 
+    "Q14": {
+        "name": "shannon", 
+        "symbol": "Sh"
+    }, 
+    "Q15": {
+        "name": "hartley", 
+        "symbol": "Hart"
+    }, 
+    "Q16": {
+        "name": "natural unit of information", 
+        "symbol": "nat"
+    }, 
+    "Q17": {
+        "name": "shannon per second", 
+        "symbol": "Sh/s"
+    }, 
+    "Q18": {
+        "name": "hartley per second", 
+        "symbol": "Hart/s"
+    }, 
+    "Q19": {
+        "name": "natural unit of information per second", 
+        "symbol": "nat/s"
+    }, 
+    "Q20": {
+        "name": "second per kilogramm", 
+        "symbol": "s/kg"
+    }, 
+    "Q21": {
+        "name": "watt square metre", 
+        "symbol": "W\u00b7m\u00b2"
+    }, 
+    "Q22": {
+        "name": "second per radian cubic metre", 
+        "symbol": "1/(Hz\u00b7rad\u00b7m\u00b3)"
+    }, 
+    "Q23": {
+        "name": "weber to the power minus one", 
+        "symbol": "1/Wb"
+    }, 
+    "Q24": {
+        "name": "reciprocal inch", 
+        "symbol": "1/in"
+    }, 
+    "Q25": {
+        "name": "dioptre", 
+        "symbol": "dpt"
+    }, 
+    "Q26": {
+        "name": "one per one", 
+        "symbol": "1/1"
+    }, 
+    "Q27": {
+        "name": "newton metre per metre", 
+        "symbol": "N\u00b7m/m\u00b2"
+    }, 
+    "Q28": {
+        "name": "kilogram per square metre pascal second", 
+        "symbol": "kg/(m\u00b2\u00b7Pa\u00b7s)"
+    }, 
+    "Q29": {
+        "name": "microgram per hectogram", 
+        "symbol": "\u00b5g/hg"
+    }, 
+    "Q3": {
+        "name": "meal", 
+        "symbol": ""
+    }, 
+    "Q30": {
+        "name": "pH (potential of Hydrogen)", 
+        "symbol": "pH"
+    }, 
+    "Q31": {
+        "name": "kilojoule per gram", 
+        "symbol": "kJ/g"
+    }, 
+    "QA": {
+        "name": "page - facsimile", 
+        "symbol": ""
+    }, 
+    "QAN": {
+        "name": "quarter (of a year)", 
+        "symbol": ""
+    }, 
+    "QB": {
+        "name": "page - hardcopy", 
+        "symbol": ""
+    }, 
+    "QD": {
+        "name": "quarter dozen", 
+        "symbol": ""
+    }, 
+    "QH": {
+        "name": "quarter hour", 
+        "symbol": ""
+    }, 
+    "QK": {
+        "name": "quarter kilogram", 
+        "symbol": ""
+    }, 
+    "QR": {
+        "name": "quire", 
+        "symbol": "qr"
+    }, 
+    "QT": {
+        "name": "quart (US)", 
+        "symbol": "qt (US)"
+    }, 
+    "QTD": {
+        "name": "dry quart (US)", 
+        "symbol": "dry qt (US)"
+    }, 
+    "QTI": {
+        "name": "quart (UK)", 
+        "symbol": "qt (UK)"
+    }, 
+    "QTL": {
+        "name": "liquid quart (US)", 
+        "symbol": "liq qt (US)"
+    }, 
+    "QTR": {
+        "name": "quarter (UK)", 
+        "symbol": "Qr (UK)"
+    }, 
+    "R1": {
+        "name": "pica", 
+        "symbol": ""
+    }, 
+    "R4": {
+        "name": "calorie", 
+        "symbol": "cal"
+    }, 
+    "R9": {
+        "name": "thousand cubic metre", 
+        "symbol": ""
+    }, 
+    "RA": {
+        "name": "rack", 
+        "symbol": ""
+    }, 
+    "RD": {
+        "name": "rod", 
+        "symbol": ""
+    }, 
+    "RG": {
+        "name": "ring", 
+        "symbol": ""
+    }, 
+    "RH": {
+        "name": "running or operating hour", 
+        "symbol": ""
+    }, 
+    "RK": {
+        "name": "roll metric measure", 
+        "symbol": ""
+    }, 
+    "RL": {
+        "name": "reel", 
+        "symbol": ""
+    }, 
+    "RM": {
+        "name": "ream", 
+        "symbol": ""
+    }, 
+    "RN": {
+        "name": "ream metric measure", 
+        "symbol": ""
+    }, 
+    "RO": {
+        "name": "roll", 
+        "symbol": ""
+    }, 
+    "ROM": {
+        "name": "room", 
+        "symbol": ""
+    }, 
+    "RP": {
+        "name": "pound per ream", 
+        "symbol": ""
+    }, 
+    "RPM": {
+        "name": "revolutions per minute", 
+        "symbol": "r/min"
+    }, 
+    "RPS": {
+        "name": "revolutions per second", 
+        "symbol": "r/s"
+    }, 
+    "RS": {
+        "name": "reset", 
+        "symbol": ""
+    }, 
+    "RT": {
+        "name": "revenue ton mile", 
+        "symbol": ""
+    }, 
+    "RU": {
+        "name": "run", 
+        "symbol": ""
+    }, 
+    "S3": {
+        "name": "square foot per second", 
+        "symbol": "ft\u00b2/s"
+    }, 
+    "S4": {
+        "name": "square metre per second", 
+        "symbol": "m\u00b2/s"
+    }, 
+    "S5": {
+        "name": "sixty fourths of an inch", 
+        "symbol": ""
+    }, 
+    "S6": {
+        "name": "session", 
+        "symbol": ""
+    }, 
+    "S7": {
+        "name": "storage unit", 
+        "symbol": ""
+    }, 
+    "S8": {
+        "name": "standard advertising unit", 
+        "symbol": ""
+    }, 
+    "SA": {
+        "name": "sack", 
+        "symbol": ""
+    }, 
+    "SAN": {
+        "name": "half year (6 months)", 
+        "symbol": ""
+    }, 
+    "SCO": {
+        "name": "score", 
+        "symbol": ""
+    }, 
+    "SCR": {
+        "name": "scruple", 
+        "symbol": ""
+    }, 
+    "SD": {
+        "name": "solid pound", 
+        "symbol": ""
+    }, 
+    "SE": {
+        "name": "section", 
+        "symbol": ""
+    }, 
+    "SEC": {
+        "name": "second [unit of time]", 
+        "symbol": "s"
+    }, 
+    "SET": {
+        "name": "set", 
+        "symbol": ""
+    }, 
+    "SG": {
+        "name": "segment", 
+        "symbol": ""
+    }, 
+    "SHT": {
+        "name": "shipping ton", 
+        "symbol": ""
+    }, 
+    "SIE": {
+        "name": "siemens", 
+        "symbol": "S"
+    }, 
+    "SK": {
+        "name": "split tank truck", 
+        "symbol": ""
+    }, 
+    "SL": {
+        "name": "slipsheet", 
+        "symbol": ""
+    }, 
+    "SMI": {
+        "name": "mile (statute mile)", 
+        "symbol": "mile"
+    }, 
+    "SN": {
+        "name": "square rod", 
+        "symbol": "rd\u00b2"
+    }, 
+    "SO": {
+        "name": "spool", 
+        "symbol": ""
+    }, 
+    "SP": {
+        "name": "shelf package", 
+        "symbol": ""
+    }, 
+    "SQ": {
+        "name": "square", 
+        "symbol": ""
+    }, 
+    "SQR": {
+        "name": "square, roofing", 
+        "symbol": ""
+    }, 
+    "SR": {
+        "name": "strip", 
+        "symbol": ""
+    }, 
+    "SS": {
+        "name": "sheet metric measure", 
+        "symbol": ""
+    }, 
+    "SST": {
+        "name": "short standard (7200 matches)", 
+        "symbol": ""
+    }, 
+    "ST": {
+        "name": "sheet", 
+        "symbol": ""
+    }, 
+    "STC": {
+        "name": "stick", 
+        "symbol": ""
+    }, 
+    "STI": {
+        "name": "stone (UK)", 
+        "symbol": "st"
+    }, 
+    "STK": {
+        "name": "stick, cigarette", 
+        "symbol": ""
+    }, 
+    "STL": {
+        "name": "standard litre", 
+        "symbol": ""
+    }, 
+    "STN": {
+        "name": "ton (US) or short ton (UK/US)", 
+        "symbol": "ton (US)"
+    }, 
+    "STW": {
+        "name": "straw", 
+        "symbol": ""
+    }, 
+    "SV": {
+        "name": "skid", 
+        "symbol": ""
+    }, 
+    "SW": {
+        "name": "skein", 
+        "symbol": ""
+    }, 
+    "SX": {
+        "name": "shipment", 
+        "symbol": ""
+    }, 
+    "SYR": {
+        "name": "syringe", 
+        "symbol": ""
+    }, 
+    "T0": {
+        "name": "telecommunication line in service", 
+        "symbol": ""
+    }, 
+    "T1": {
+        "name": "thousand pound gross", 
+        "symbol": ""
+    }, 
+    "T3": {
+        "name": "thousand piece", 
+        "symbol": ""
+    }, 
+    "T4": {
+        "name": "thousand bag", 
+        "symbol": ""
+    }, 
+    "T5": {
+        "name": "thousand casing", 
+        "symbol": ""
+    }, 
+    "T6": {
+        "name": "thousand gallon (US)", 
+        "symbol": ""
+    }, 
+    "T7": {
+        "name": "thousand impression", 
+        "symbol": ""
+    }, 
+    "T8": {
+        "name": "thousand linear inch", 
+        "symbol": ""
+    }, 
+    "TA": {
+        "name": "tenth cubic foot", 
+        "symbol": ""
+    }, 
+    "TAH": {
+        "name": "kiloampere hour (thousand ampere hour)", 
+        "symbol": "kA\u00b7h"
+    }, 
+    "TAN": {
+        "name": "total acid number", 
+        "symbol": "TAN"
+    }, 
+    "TC": {
+        "name": "truckload", 
+        "symbol": ""
+    }, 
+    "TD": {
+        "name": "therm", 
+        "symbol": ""
+    }, 
+    "TE": {
+        "name": "tote", 
+        "symbol": ""
+    }, 
+    "TF": {
+        "name": "ten square yard", 
+        "symbol": ""
+    }, 
+    "TI": {
+        "name": "thousand square inch", 
+        "symbol": ""
+    }, 
+    "TIC": {
+        "name": "metric ton, including container", 
+        "symbol": ""
+    }, 
+    "TIP": {
+        "name": "metric ton, including inner packaging", 
+        "symbol": ""
+    }, 
+    "TJ": {
+        "name": "thousand square centimetre", 
+        "symbol": ""
+    }, 
+    "TK": {
+        "name": "tank, rectangular", 
+        "symbol": ""
+    }, 
+    "TKM": {
+        "name": "tonne kilometre", 
+        "symbol": "t\u00b7km"
+    }, 
+    "TL": {
+        "name": "thousand foot (linear)", 
+        "symbol": ""
+    }, 
+    "TMS": {
+        "name": "kilogram of imported meat, less offal", 
+        "symbol": ""
+    }, 
+    "TN": {
+        "name": "tin", 
+        "symbol": ""
+    }, 
+    "TNE": {
+        "name": "tonne (metric ton)", 
+        "symbol": "t"
+    }, 
+    "TP": {
+        "name": "ten pack", 
+        "symbol": ""
+    }, 
+    "TPR": {
+        "name": "ten pair", 
+        "symbol": ""
+    }, 
+    "TQ": {
+        "name": "thousand foot", 
+        "symbol": ""
+    }, 
+    "TQD": {
+        "name": "thousand cubic metre per day", 
+        "symbol": "km\u00b3/d"
+    }, 
+    "TR": {
+        "name": "ten square foot", 
+        "symbol": ""
+    }, 
+    "TRL": {
+        "name": "trillion (EUR)", 
+        "symbol": ""
+    }, 
+    "TS": {
+        "name": "thousand square foot", 
+        "symbol": ""
+    }, 
+    "TSD": {
+        "name": "tonne of substance 90 % dry", 
+        "symbol": ""
+    }, 
+    "TSH": {
+        "name": "ton of steam per hour", 
+        "symbol": ""
+    }, 
+    "TST": {
+        "name": "ten set", 
+        "symbol": ""
+    }, 
+    "TT": {
+        "name": "thousand linear metre", 
+        "symbol": ""
+    }, 
+    "TTS": {
+        "name": "ten thousand sticks", 
+        "symbol": ""
+    }, 
+    "TU": {
+        "name": "tube", 
+        "symbol": ""
+    }, 
+    "TV": {
+        "name": "thousand kilogram", 
+        "symbol": ""
+    }, 
+    "TW": {
+        "name": "thousand sheet", 
+        "symbol": ""
+    }, 
+    "TY": {
+        "name": "tank, cylindrical", 
+        "symbol": ""
+    }, 
+    "U1": {
+        "name": "treatment", 
+        "symbol": ""
+    }, 
+    "U2": {
+        "name": "tablet", 
+        "symbol": ""
+    }, 
+    "UA": {
+        "name": "torr", 
+        "symbol": "Torr"
+    }, 
+    "UB": {
+        "name": "telecommunication line in service average", 
+        "symbol": ""
+    }, 
+    "UC": {
+        "name": "telecommunication port", 
+        "symbol": ""
+    }, 
+    "UD": {
+        "name": "tenth minute", 
+        "symbol": ""
+    }, 
+    "UE": {
+        "name": "tenth hour", 
+        "symbol": ""
+    }, 
+    "UF": {
+        "name": "usage per telecommunication line average", 
+        "symbol": ""
+    }, 
+    "UH": {
+        "name": "ten thousand yard", 
+        "symbol": ""
+    }, 
+    "UM": {
+        "name": "million unit", 
+        "symbol": ""
+    }, 
+    "VA": {
+        "name": "volt - ampere per kilogram", 
+        "symbol": "V\u00b7A / kg"
+    }, 
+    "VI": {
+        "name": "vial", 
+        "symbol": ""
+    }, 
+    "VLT": {
+        "name": "volt", 
+        "symbol": "V"
+    }, 
+    "VP": {
+        "name": "percent volume", 
+        "symbol": ""
+    }, 
+    "VQ": {
+        "name": "bulk", 
+        "symbol": ""
+    }, 
+    "VS": {
+        "name": "visit", 
+        "symbol": ""
+    }, 
+    "W2": {
+        "name": "wet kilo", 
+        "symbol": ""
+    }, 
+    "W4": {
+        "name": "two week", 
+        "symbol": ""
+    }, 
+    "WA": {
+        "name": "watt per kilogram", 
+        "symbol": "W/kg"
+    }, 
+    "WB": {
+        "name": "wet pound", 
+        "symbol": ""
+    }, 
+    "WCD": {
+        "name": "cord", 
+        "symbol": ""
+    }, 
+    "WE": {
+        "name": "wet ton", 
+        "symbol": ""
+    }, 
+    "WEB": {
+        "name": "weber", 
+        "symbol": "Wb"
+    }, 
+    "WEE": {
+        "name": "week", 
+        "symbol": "wk"
+    }, 
+    "WG": {
+        "name": "wine gallon", 
+        "symbol": ""
+    }, 
+    "WH": {
+        "name": "wheel", 
+        "symbol": ""
+    }, 
+    "WHR": {
+        "name": "watt hour", 
+        "symbol": "W\u00b7h"
+    }, 
+    "WI": {
+        "name": "weight per square inch", 
+        "symbol": ""
+    }, 
+    "WM": {
+        "name": "working month", 
+        "symbol": ""
+    }, 
+    "WR": {
+        "name": "wrap", 
+        "symbol": ""
+    }, 
+    "WSD": {
+        "name": "standard", 
+        "symbol": "std"
+    }, 
+    "WTT": {
+        "name": "watt", 
+        "symbol": "W"
+    }, 
+    "WW": {
+        "name": "millilitre of water", 
+        "symbol": ""
+    }, 
+    "X1": {
+        "name": "Gunter's chain", 
+        "symbol": "ch (UK)"
+    }, 
+    "YDK": {
+        "name": "square yard", 
+        "symbol": "yd\u00b2"
+    }, 
+    "YDQ": {
+        "name": "cubic yard", 
+        "symbol": "yd\u00b3"
+    }, 
+    "YL": {
+        "name": "hundred linear yard", 
+        "symbol": ""
+    }, 
+    "YRD": {
+        "name": "yard", 
+        "symbol": "yd"
+    }, 
+    "YT": {
+        "name": "ten yard", 
+        "symbol": ""
+    }, 
+    "Z1": {
+        "name": "lift van", 
+        "symbol": ""
+    }, 
+    "Z11": {
+        "name": "hanging container", 
+        "symbol": ""
+    }, 
+    "Z2": {
+        "name": "chest", 
+        "symbol": ""
+    }, 
+    "Z3": {
+        "name": "cask", 
+        "symbol": ""
+    }, 
+    "Z4": {
+        "name": "hogshead", 
+        "symbol": ""
+    }, 
+    "Z5": {
+        "name": "lug", 
+        "symbol": ""
+    }, 
+    "Z6": {
+        "name": "conference point", 
+        "symbol": ""
+    }, 
+    "Z8": {
+        "name": "newspage agate line", 
+        "symbol": ""
+    }, 
+    "ZP": {
+        "name": "page", 
+        "symbol": ""
+    }, 
+    "ZZ": {
+        "name": "mutually defined", 
+        "symbol": ""
+    }
+}
