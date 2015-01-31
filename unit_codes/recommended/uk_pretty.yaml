@@ -1,0 +1,39 @@
+E48:
+  name_uk: послуга
+  symbol_uk: посл.
+E54:
+  name_uk: рейс
+  symbol_uk: рейс
+H87:
+  name_uk: штуки
+  symbol_uk: шт.
+KGM:
+  name_uk: кілограми
+  symbol_uk: кг.
+KMT:
+  name_uk: кілометри
+  symbol_uk: км
+LO:
+  name_uk: лот
+  symbol_uk: лот
+LTR:
+  name_uk: літр
+  symbol_uk: л.
+MTK:
+  name_uk: метри квадратні
+  symbol_uk: м.кв.
+MTQ:
+  name_uk: метри кубічні
+  symbol_uk: м.куб.
+MTR:
+  name_uk: метри
+  symbol_uk: м
+PR:
+  name_uk: пара
+  symbol_uk: пар.
+SET:
+  name_uk: набір
+  symbol_uk: наб.
+TNE:
+  name_uk: тони
+  symbol_uk: т.

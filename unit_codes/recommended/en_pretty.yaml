@@ -1,0 +1,39 @@
+E48:
+  name_en: service unit
+  symbol_en: ''
+E54:
+  name_en: trip
+  symbol_en: ''
+H87:
+  name_en: piece
+  symbol_en: ''
+KGM:
+  name_en: kilogram
+  symbol_en: kg
+KMT:
+  name_en: kilometre
+  symbol_en: km
+LO:
+  name_en: lot  [unit of procurement]
+  symbol_en: ''
+LTR:
+  name_en: litre
+  symbol_en: l
+MTK:
+  name_en: square metre
+  symbol_en: m²
+MTQ:
+  name_en: cubic metre
+  symbol_en: m³
+MTR:
+  name_en: metre
+  symbol_en: m
+PR:
+  name_en: pair
+  symbol_en: ''
+SET:
+  name_en: set
+  symbol_en: ''
+TNE:
+  name_en: tonne (metric ton)
+  symbol_en: t

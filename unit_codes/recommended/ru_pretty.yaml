@@ -1,0 +1,39 @@
+E48:
+  name_ru: услуга
+  symbol_ru: усл.
+E54:
+  name_ru: рейс
+  symbol_ru: рейс
+H87:
+  name_ru: штуки
+  symbol_ru: шт.
+KGM:
+  name_ru: килограммы
+  symbol_ru: кг.
+KMT:
+  name_ru: километры
+  symbol_ru: км
+LO:
+  name_ru: лот
+  symbol_ru: лот
+LTR:
+  name_ru: литр
+  symbol_ru: л.
+MTK:
+  name_ru: метры квадратные
+  symbol_ru: м.кв.
+MTQ:
+  name_ru: метры кубические
+  symbol_ru: м.куб.
+MTR:
+  name_ru: метры
+  symbol_ru: м
+PR:
+  name_ru: пара
+  symbol_ru: пар.
+SET:
+  name_ru: набор
+  symbol_ru: наб.
+TNE:
+  name_ru: тонны
+  symbol_ru: т.
