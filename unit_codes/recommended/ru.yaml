@@ -1,3 +1,9 @@
+BX:
+  name_ru: "\u044F\u0449\u0438\u043A"
+  symbol_ru: "\u044F\u0449."
+D64:
+  name_ru: "\u0431\u043B\u043E\u043A"
+  symbol_ru: "\u0431\u043B\u043E\u043A"
 E48:
   name_ru: "\u0443\u0441\u043B\u0443\u0433\u0430"
   symbol_ru: "\u0443\u0441\u043B."
@@ -7,6 +13,9 @@ E54:
 H87:
   name_ru: "\u0448\u0442\u0443\u043A\u0438"
   symbol_ru: "\u0448\u0442."
+HAR:
+  name_ru: "\u0433\u0435\u043A\u0442\u0430\u0440"
+  symbol_ru: "\u0433\u0430."
 KGM:
   name_ru: "\u043A\u0438\u043B\u043E\u0433\u0440\u0430\u043C\u043C\u044B"
   symbol_ru: "\u043A\u0433."
@@ -19,6 +28,9 @@ LO:
 LTR:
   name_ru: "\u043B\u0438\u0442\u0440"
   symbol_ru: "\u043B."
+MON:
+  name_ru: "\u043C\u0435\u0441\u044F\u0446"
+  symbol_ru: "\u043C\u0435\u0441\u044F\u0446"
 MTK:
   name_ru: "\u043C\u0435\u0442\u0440\u044B \u043A\u0432\u0430\u0434\u0440\u0430\u0442\
     \u043D\u044B\u0435"
@@ -30,9 +42,18 @@ MTQ:
 MTR:
   name_ru: "\u043C\u0435\u0442\u0440\u044B"
   symbol_ru: "\u043C"
+NMP:
+  name_ru: "\u043F\u0430\u0447\u043E\u043A"
+  symbol_ru: "\u043F\u0430\u0447."
+PK:
+  name_ru: "\u0443\u043F\u0430\u043A\u043E\u0432\u043A\u0430"
+  symbol_ru: "\u0443\u043F\u0430\u043A."
 PR:
   name_ru: "\u043F\u0430\u0440\u0430"
   symbol_ru: "\u043F\u0430\u0440."
+RM:
+  name_ru: "\u043F\u0430\u0447\u043A\u0430"
+  symbol_ru: "\u043F\u0430\u0447."
 SET:
   name_ru: "\u043D\u0430\u0431\u043E\u0440"
   symbol_ru: "\u043D\u0430\u0431."

@@ -1,3 +1,9 @@
+BX:
+  name_en: box
+  symbol_en: ''
+D64:
+  name_en: block
+  symbol_en: ''
 E48:
   name_en: service unit
   symbol_en: ''
@@ -7,6 +13,9 @@ E54:
 H87:
   name_en: piece
   symbol_en: ''
+HAR:
+  name_en: hectare
+  symbol_en: ha
 KGM:
   name_en: kilogram
   symbol_en: kg
@@ -19,6 +28,9 @@ LO:
 LTR:
   name_en: litre
   symbol_en: l
+MON:
+  name_en: month
+  symbol_en: mo
 MTK:
   name_en: square metre
   symbol_en: m²
@@ -28,8 +40,17 @@ MTQ:
 MTR:
   name_en: metre
   symbol_en: m
+NMP:
+  name_en: number of packs
+  symbol_en: ''
+PK:
+  name_en: pack
+  symbol_en: ''
 PR:
   name_en: pair
+  symbol_en: ''
+RM:
+  name_en: ream
   symbol_en: ''
 SET:
   name_en: set

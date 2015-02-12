@@ -1,3 +1,9 @@
+BX:
+  name_ru: ящик
+  symbol_ru: ящ.
+D64:
+  name_ru: блок
+  symbol_ru: блок
 E48:
   name_ru: услуга
   symbol_ru: усл.
@@ -7,6 +13,9 @@ E54:
 H87:
   name_ru: штуки
   symbol_ru: шт.
+HAR:
+  name_ru: гектар
+  symbol_ru: га.
 KGM:
   name_ru: килограммы
   symbol_ru: кг.
@@ -19,6 +28,9 @@ LO:
 LTR:
   name_ru: литр
   symbol_ru: л.
+MON:
+  name_ru: месяц
+  symbol_ru: месяц
 MTK:
   name_ru: метры квадратные
   symbol_ru: м.кв.
@@ -28,9 +40,18 @@ MTQ:
 MTR:
   name_ru: метры
   symbol_ru: м
+NMP:
+  name_ru: пачок
+  symbol_ru: пач.
+PK:
+  name_ru: упаковка
+  symbol_ru: упак.
 PR:
   name_ru: пара
   symbol_ru: пар.
+RM:
+  name_ru: пачка
+  symbol_ru: пач.
 SET:
   name_ru: набор
   symbol_ru: наб.
