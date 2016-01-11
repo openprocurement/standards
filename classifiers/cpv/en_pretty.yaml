@@ -4412,7 +4412,7 @@
 38413000-3: !!python/unicode 'Pyrometers'
 38414000-0: !!python/unicode 'Hygrometers'
 38415000-7: !!python/unicode 'Psychrometers'
-38416000-4: !!python/unicode 'PH meters'
+38416000-4: !!python/unicode 'pH meters'
 38417000-1: !!python/unicode 'Thermocouples'
 38418000-8: !!python/unicode 'Calorimeters'
 38420000-5: !!python/unicode 'Instruments for measuring flow, level and pressure of liquids and gases'
