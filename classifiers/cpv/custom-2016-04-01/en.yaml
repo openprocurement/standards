@@ -43,7 +43,7 @@
 03131000-8: Beverage crops
 03131100-9: Coffee beans
 03131200-0: Tea bushes
-03131300-1: Maté
+03131300-1: "Mat\xE9"
 03131400-2: Cocoa beans
 03132000-5: Unprocessed spices
 03140000-4: Animal products and related products
@@ -513,7 +513,7 @@
 15131220-3: Bacon
 15131230-6: Salami
 15131300-8: Liver preparations
-15131310-1: Pâté
+15131310-1: "P\xE2t\xE9"
 15131320-4: Preparations of goose or duck liver
 15131400-9: Pork products
 15131410-2: Ham
@@ -607,8 +607,8 @@
 15331411-1: Baked beans
 15331420-7: Preserved tomatoes
 15331423-8: Canned tomatoes
-15331425-2: Tomato purée
-15331427-6: Concentrated tomato purée
+15331425-2: "Tomato pur\xE9e"
+15331427-6: "Concentrated tomato pur\xE9e"
 15331428-3: Tomato sauce
 15331430-0: Canned mushrooms
 15331450-6: Processed olives
@@ -629,7 +629,7 @@
 15332160-3: Processed bananas
 15332170-6: Rhubarb
 15332180-9: Melons
-15332200-6: Jams and marmalades; fruit jellies; fruit or nut purée and pastes
+15332200-6: "Jams and marmalades; fruit jellies; fruit or nut pur\xE9e and pastes"
 15332230-5: Marmalades
 15332231-2: Orange marmalade
 15332232-9: Lemon marmalade
@@ -637,7 +637,7 @@
 15332250-1: Fruit pastes
 15332260-4: Nut pastes
 15332261-1: Peanut butter
-15332270-7: Fruit purées
+15332270-7: "Fruit pur\xE9es"
 15332290-3: Jams
 15332291-0: Apricot jam
 15332292-7: Blackberry jam
@@ -838,7 +838,7 @@
 15863000-5: Tea
 15863100-6: Green tea
 15863200-7: Black tea
-15864000-2: Preparations of tea or maté
+15864000-2: "Preparations of tea or mat\xE9"
 15864100-3: Teabags
 15865000-9: Herbal infusions
 15870000-7: Condiments and seasonings
@@ -9366,7 +9366,7 @@
 92620000-3: Sport-related services
 92621000-0: Sports-event promotion services
 92622000-7: Sports-event organisation services
-92700000-8: Cybercafé services
+92700000-8: "Cybercaf\xE9 services"
 98000000-3: Other community, social and personal services
 98100000-4: Membership organisation services
 98110000-7: Services furnished by business, professional and specialist organisations
@@ -9452,3 +9452,4 @@
 98514000-9: Domestic services
 98900000-2: Services provided by extra-territorial organisations and bodies
 98910000-5: Services specific to international organisations and bodies
+99999999-9: Not categorized
