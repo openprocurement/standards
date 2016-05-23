@@ -1,0 +1,34 @@
+{
+    "durationExtension": {
+        "description": "extension of the period of the contract duration and obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the contract;", 
+        "title": "Extension of the period of the contract duration (due to documented objective circumstances)"
+    }, 
+    "fiscalYearExtension": {
+        "description": "changes in contract terms according to the provisions of part 5 of this article: 5. Effect of the procurement contract may be continued for a period sufficient for conduction of the procurement procedure at the beginning of the next year in volume that does not exceed 20% of the sum specified in the contract concluded in the previous year, if expenditures for this purpose are approved in the prescribed manner.", 
+        "title": "Extension of the period of the contract duration to the next year"
+    }, 
+    "itemPriceVariation": {
+        "description": "change in the unit's price (no more than 10%) due to product's price fluctuations on the market, provided that the said change will not increase the sum of money specified in the contract;", 
+        "title": "Change in the unit's price"
+    }, 
+    "priceReduction": {
+        "description": "coordinated downward price change (without changing the quantity (volume) and quality of goods, works, and services);", 
+        "title": "Coordinated price reduction"
+    }, 
+    "qualityImprovement": {
+        "description": "improvement of the item's quality, provided that such improvement will not increase the sum of money specified in the contract;", 
+        "title": "Improvement of the procurement item's quality"
+    }, 
+    "taxRate": {
+        "description": "price changes due to changes in tax rates and fees in proportion to changes of those rates;", 
+        "title": "Price changes due to changes in tax rates and fees"
+    }, 
+    "thirdParty": {
+        "description": "changes of the established under the law by the State Statistics Service consumer price index, changes in foreign currency rate, changes in stock prices or Platts indices, regulated prices (rates) and standards that are used in the procurement contract if the price change order is specified in the procurement contract;", 
+        "title": "Change of the third-party indicators (rate, indices...)"
+    }, 
+    "volumeCuts": {
+        "description": "reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity;", 
+        "title": "Reduction of the procurement's volume"
+    }
+}
