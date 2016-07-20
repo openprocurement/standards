@@ -7,6 +7,9 @@ D64:
 E48:
   name_en: service unit
   symbol_en: ''
+E51:
+  name_en: job
+  symbol_en: ''
 E54:
   name_en: trip
   symbol_en: ''
