@@ -4,6 +4,9 @@ BX:
 D64:
   name_ru: блок
   symbol_ru: блок
+E11:
+  name_ru: Гигакалория
+  symbol_ru: Гкал
 E48:
   name_ru: услуга
   symbol_ru: усл.
@@ -25,6 +28,15 @@ KGM:
 KMT:
   name_ru: километры
   symbol_ru: км
+KT:
+  name_ru: комплект
+  symbol_ru: ''
+KWH:
+  name_ru: Киловатт-час
+  symbol_ru: кВт⋅ч
+LM:
+  name_ru: Погонный метр
+  symbol_ru: пог.м.
 LO:
   name_ru: лот
   symbol_ru: лот
@@ -52,6 +64,9 @@ PK:
 PR:
   name_ru: пара
   symbol_ru: пар.
+R9:
+  name_ru: тысяча кубических метров
+  symbol_ru: т.м.куб
 RM:
   name_ru: пачка
   symbol_ru: пач.

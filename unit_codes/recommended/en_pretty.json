@@ -7,6 +7,10 @@
         "name_en": "block", 
         "symbol_en": ""
     }, 
+    "E11": {
+        "name_en": "gigacalorie", 
+        "symbol_en": ""
+    }, 
     "E48": {
         "name_en": "service unit", 
         "symbol_en": ""
@@ -34,6 +38,18 @@
     "KMT": {
         "name_en": "kilometre", 
         "symbol_en": "km"
+    }, 
+    "KT": {
+        "name_en": "kit", 
+        "symbol_en": ""
+    }, 
+    "KWH": {
+        "name_en": "kilowatt hour", 
+        "symbol_en": "kW\u00b7h"
+    }, 
+    "LM": {
+        "name_en": "linear metre", 
+        "symbol_en": ""
     }, 
     "LO": {
         "name_en": "lot  [unit of procurement]", 
@@ -69,6 +85,10 @@
     }, 
     "PR": {
         "name_en": "pair", 
+        "symbol_en": ""
+    }, 
+    "R9": {
+        "name_en": "thousand cubic metre", 
         "symbol_en": ""
     }, 
     "RM": {

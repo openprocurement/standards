@@ -4,6 +4,9 @@ BX:
 D64:
   name_uk: блок
   symbol_uk: блок
+E11:
+  name_uk: Гігакалорія
+  symbol_uk: Гкал
 E48:
   name_uk: послуга
   symbol_uk: посл.
@@ -25,6 +28,15 @@ KGM:
 KMT:
   name_uk: кілометри
   symbol_uk: км
+KT:
+  name_uk: комплект
+  symbol_uk: комп.
+KWH:
+  name_uk: Кіловат-година
+  symbol_uk: кВт⋅год
+LM:
+  name_uk: Погонний метр
+  symbol_uk: пог.м.
 LO:
   name_uk: лот
   symbol_uk: лот
@@ -52,6 +64,9 @@ PK:
 PR:
   name_uk: пара
   symbol_uk: пар.
+R9:
+  name_uk: тисяча кубічних метрів
+  symbol_uk: т.м.куб
 RM:
   name_uk: пачка
   symbol_uk: пач.
