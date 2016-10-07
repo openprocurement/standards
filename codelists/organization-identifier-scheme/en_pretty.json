@@ -166,12 +166,28 @@
             "url": "http://www.juridat.be/tribunal_commerce/bruxelles/index.htm"
         }, 
         {
+            "category": "BY", 
+            "code": "BY-UNP", 
+            "description": "Information is available only in Belarusian language, contains Registration number, Registration authority, Date of registration, etc.", 
+            "name": "Unified State Register of Legal Entities and Individual Entrepreneurs (Ministry of Justice of the Republic of Belarus)", 
+            "public-database": true, 
+            "url": "http://egr.gov.by/egrn/index.jsp?language=en"
+        }, 
+        {
             "category": "CA", 
             "code": "CA-CRA_ACR", 
             "description": "CRA_ACR is legal requirement for bilingual use", 
             "name": "Canadian Revenue Agency / Agence du revenu du Canada", 
             "public-database": true, 
             "url": "http://www.cra-arc.gc.ca/"
+        }, 
+        {
+            "category": "CH", 
+            "code": "CH-ZEFIX", 
+            "description": "The Federal Office of Justice maintains Zefix for the purpose of accessing the companies decentrally recorded in the cantonal databases. Access to general company information is free of charge. The entries and changes in the Commercial Registry are published in the Swiss Official Gazette of Commerce and on the Internet (http://zefix.admin.ch/shab).", 
+            "name": "Swiss Commercial Register (via Zefix)", 
+            "public-database": true, 
+            "url": "http://www.zefix.ch/"
         }, 
         {
             "category": "CN", 
@@ -638,12 +654,36 @@
             "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu"
         }, 
         {
+            "category": "RO", 
+            "code": "RO-CUI", 
+            "description": null, 
+            "name": "National Trade Register Office, Ministry of Finance", 
+            "public-database": true, 
+            "url": "http://www.mfinante.ro/pjuridice.html?pagina=domenii"
+        }, 
+        {
             "category": "RS", 
             "code": "RS-APR", 
             "description": "The SBRA runs business registers as single, centralized, public electronic databases.", 
             "name": "Serbian Business Registrations Agency (APR)", 
             "public-database": true, 
             "url": "http://www.apr.gov.rs/eng/Home.aspx"
+        }, 
+        {
+            "category": "RU", 
+            "code": "RU-INN", 
+            "description": null, 
+            "name": "Uniform State Register of Legal Entities of Russian Federation", 
+            "public-database": true, 
+            "url": "https://russianpartner.biz/"
+        }, 
+        {
+            "category": "RU", 
+            "code": "RU-OGRN", 
+            "description": null, 
+            "name": "Uniform State Register of Legal Entities of Russian Federation", 
+            "public-database": true, 
+            "url": "https://russianpartner.biz/"
         }, 
         {
             "category": "SE", 
