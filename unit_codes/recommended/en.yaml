@@ -76,3 +76,6 @@ SET:
 TNE:
   name_en: tonne (metric ton)
   symbol_en: t
+VI:
+  name_en: vial
+  symbol_en: ''
