@@ -102,5 +102,9 @@
     "TNE": {
         "name_ru": "\u0442\u043e\u043d\u043d\u044b", 
         "symbol_ru": "\u0442."
+    }, 
+    "VI": {
+        "name_ru": "\u0424\u043b\u0430\u043a\u043e\u043d", 
+        "symbol_ru": "\u0444\u043b\u0430\u043a."
     }
 }

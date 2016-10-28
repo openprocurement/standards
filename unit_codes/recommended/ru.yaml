@@ -76,3 +76,6 @@ SET:
 TNE:
   name_ru: "\u0442\u043E\u043D\u043D\u044B"
   symbol_ru: "\u0442."
+VI:
+  name_ru: "\u0424\u043B\u0430\u043A\u043E\u043D"
+  symbol_ru: "\u0444\u043B\u0430\u043A."
