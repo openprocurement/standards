@@ -76,3 +76,6 @@ SET:
 TNE:
   name_ru: тонны
   symbol_ru: т.
+VI:
+  name_ru: Флакон
+  symbol_ru: флак.
