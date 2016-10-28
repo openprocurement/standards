@@ -10,6 +10,9 @@ E11:
 E48:
   name_ru: услуга
   symbol_ru: усл.
+E50:
+  name_ru: Единица
+  symbol_ru: ед.
 E51:
   name_ru: работы
   symbol_ru: раб.
