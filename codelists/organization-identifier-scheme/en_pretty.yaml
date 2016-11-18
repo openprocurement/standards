@@ -291,6 +291,12 @@ data:
     name: Department of Social Welfare
     public-database: false
     url: null
+-   category: HU
+    code: HU-VAT
+    description: Közösségi adószám serves as both tax number and VAT ID. No abbreviation is used.
+    name: Közösségi adószám/ VAT ID (Ministry of Justice of Hungary)
+    public-database: true
+    url: http://www.e-cegjegyzek.hu/?cegkereses
 -   category: ID
     code: ID-KDN
     description: NGO registration can also be done through Ministry Home affairs/ Kementerian Dalam Negeri
@@ -393,6 +399,18 @@ data:
     name: Lesotho Council of Non Governmental Organisations
     public-database: false
     url: http://www.lcn.org.ls/
+-   category: LT
+    code: LT-PVM
+    description: null
+    name: Pridėtinės vertės mokestis/VAT
+    public-database: true
+    url: http://www.registrucentras.lt/jar/index_en.php
+-   category: LT
+    code: LT-RC
+    description: The Register of Legal Entities registers businesses, institutions and NGOs and collects detailed data about Lithuanian legal entities as well as branches and representative offices of foreign companies and organizations. The Register contains complete information (and historical data) about legal form and status of legal entities, fields of its activity, size and structure of the authorized capital, members of sole and collective management bodies, licenses acquired, etc. It is obligatory for the most of business companies to submit annual financial statements to the Register of Legal Entities since 2004. Starting from March 2010 private limited liability companies are obliged to declare current list of shareholders to the Register.
+    name: Juridinių asmenų dalyvių informacinė sistema/Information Platform of Legal Entities
+    public-database: true
+    url: http://www.registrucentras.lt/jar/index_en.php
 -   category: LV
     code: LV-RE
     description: Free of charge information includes type of legal entity; registered office; new or current name or trade name and previously registered or historical name or trade name; registration number; Single Euro Payment Area beneficiary identification code (if allocated); registration date; date of deletion of the legal entity from the register (or the date of reorganisation if the reason for the deletion is a reorganisation); deadline for registration of religious organisations that are subject to re-registration.
