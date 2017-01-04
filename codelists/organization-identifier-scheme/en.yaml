@@ -129,6 +129,12 @@ data:
   name: Au Greffe du Tribunal de Commerce Francophone de Bruxelles
   public-database: false
   url: http://www.juridat.be/tribunal_commerce/bruxelles/index.htm
+- category: BG
+  code: BG-EIK
+  description: A unified code which certifies the legality of one's business and under which one's company is signed in the National Statistics Agency
+  name: "\u0415\u0434\u0438\u043D\u043D\u0438\u044F\u0442 \u0438\u0434\u0435\u043D\u0442\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u043E\u043D\u0435\u043D \u043A\u043E\u0434 (\u0415\u0418\u041A)/Unified identification code (UIC)"
+  public-database: true
+  url: https://public.brra.bg/CheckUps/Verifications/VerificationPersonOrg.ra
 - category: BY
   code: BY-UNP
   description: Information is available only in Belarusian language, contains Registration number, Registration authority, Date of registration, etc.
