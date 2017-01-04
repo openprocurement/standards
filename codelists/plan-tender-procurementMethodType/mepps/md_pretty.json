@@ -1,0 +1,12 @@
+{
+    "aboveThreshold": "Licita\u021bie deschis\u0103", 
+    "belowThreshold": "Achizi\u021bie de valoare mica", 
+    "competitiveDialogue": "Dialog competitiv", 
+    "negotiation": "Procedura negociata cu publicarea anun\u021bului in BAP", 
+    "negotiationNoPublication": "Procedura negociata f\u0103r\u0103 publicarea obligatorie a anun\u021bului in BAP", 
+    "priceProposals": "Cerere a ofertelor de pre\u021buri cu publicarea anun\u021bului in BAP", 
+    "priceProposalsNoPublication": "Cerere a ofertelor de preturi f\u0103r\u0103 publicarea anun\u021bului in BAP", 
+    "restricted": "Licita\u021bie restr\u00e2ns\u0103", 
+    "socialConstruction": "Achizi\u021bie \u00een cazul planurilor de construc\u021bie a locuin\u021belor sociale", 
+    "solutionCompetition": "Concurs de solu\u021bii"
+}
