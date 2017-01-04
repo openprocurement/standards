@@ -1,0 +1,10 @@
+aboveThreshold: Открытые торги
+belowThreshold: Закупка малой стоимости
+competitiveDialogue: Конкурентный диалог
+negotiation: Переговорная процедура с публикацией объявления в БГЗ
+negotiationNoPublication: Переговорная процедура без публикации объявления в БГЗ
+priceProposals: Запрос ценовых оферт с публикацией объявления в БГЗ
+priceProposalsNoPublication: Запрос ценовых оферт без публикации объявления в БГЗ
+restricted: Ограниченные торги
+socialConstruction: Закупка при планировании строительства социального жилья
+solutionCompetition: Конкурс решений
