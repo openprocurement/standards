@@ -555,6 +555,18 @@ data:
   name: Accounting and Corporate Regulatory Authority (ACRA)
   public-database: true
   url: http://www.acra.gov.sg/
+- category: SI
+  code: SI-PRS
+  description: The Slovenian Business Register (PRS) is a central database containing information about all business entities involved in a profit or non-profit activity having their principal place of business located on the territory of the Republic of Slovenia, as well as information on their subsidiaries and other divisions of business entities performing business activities in the territory of the Republic of Slovenia.
+  name: "Company Identification Number/Mati\u010Dna \u0161tevilka"
+  public-database: true
+  url: http://www.ajpes.eu/prs/
+- category: SI
+  code: SI-TIN
+  description: A unique code every legal entity or an individual enterpreneur must obtain.
+  name: "Tax Identification Number/Dav\u010Dna \u0161tevilka, Ministry of Finance of the Republic of Slovenia"
+  public-database: true
+  url: http://www.ajpes.eu/prs/
 - category: SK
   code: SK-ZRSR
   description: "Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (\u017Divnostensky Register Slovenskej Republiky) and are allocated a unique registration number"
