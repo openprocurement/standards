@@ -399,6 +399,12 @@ data:
   name: Registrar of Societies
   public-database: false
   url: http://www.attorney-general.go.ke/
+- category: KZ
+  code: KZ-BIN
+  description: A unique code every legal entity or an individual enterpreneur must obtain.
+  name: "\u0411\u0438\u0437\u043D\u0435\u0441 \u0441\u04D9\u0439\u043A\u0435\u0441\u0442\u0435\u043D\u0434\u0456\u0440\u0443 \u043D\u043E\u043C\u0435\u0440\u0456 (\u0411\u0418\u041D) / Business Identification Number (BIN)"
+  public-database: true
+  url: http://kgd.gov.kz/en/services/taxpayer_search/legal_entity
 - category: LS
   code: LS-LCN
   description: null
