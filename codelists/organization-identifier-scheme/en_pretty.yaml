@@ -429,6 +429,12 @@ data:
     name: Register of Enterprises of the Republic of Latvia
     public-database: true
     url: http://www.ur.gov.lv/
+-   category: MD
+    code: MD-IDNO
+    description: General information about the legal entities incorporated on the Republic of Moldova’s territory, except political parties, non-governmental organizations and press agencies. Data from the State Chamber of Registration is published once per month on the Government Portal of Open Data http://date.gov.md/ckan/ro/dataset/11736-date-din-registrul-de-stat-al-unitatilor-de-drept-privind-intreprinderile-inregistrate-in-repu and can be searched in a convenient way via dedicated platform http://www.idno.md/.
+    name: State Chamber of Registration of the Republic of Moldova, Ministry of Justice
+    public-database: true
+    url: http://cis.gov.md/
 -   category: MM
     code: MM-MHA
     description: The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.
