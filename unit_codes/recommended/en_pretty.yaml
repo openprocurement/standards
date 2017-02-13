@@ -1,14 +1,29 @@
+4A:
+  name_en: bobbin
+  symbol_en: ''
 BX:
   name_en: box
   symbol_en: ''
+D44:
+  name_en: var
+  symbol_en: var
 D64:
   name_en: block
   symbol_en: ''
+E07:
+  name_en: megawatt hour per hour
+  symbol_en: MW·h/h
 E11:
   name_en: gigacalorie
   symbol_en: ''
+E14:
+  name_en: kilocalorie (international table)
+  symbol_en: kcalIT
 E48:
   name_en: service unit
+  symbol_en: ''
+E49:
+  name_en: working day
   symbol_en: ''
 E50:
   name_en: accounting unit
@@ -19,12 +34,21 @@ E51:
 E54:
   name_en: trip
   symbol_en: ''
+GRM:
+  name_en: gram
+  symbol_en: g
 H87:
   name_en: piece
   symbol_en: ''
 HAR:
   name_en: hectare
   symbol_en: ha
+HUR:
+  name_en: hour
+  symbol_en: h
+IE:
+  name_en: person
+  symbol_en: ''
 KGM:
   name_en: kilogram
   symbol_en: kg
@@ -34,9 +58,15 @@ KMT:
 KT:
   name_en: kit
   symbol_en: ''
+KVR:
+  name_en: kilovar
+  symbol_en: kvar
 KWH:
   name_en: kilowatt hour
   symbol_en: kW·h
+KWT:
+  name_en: kilowatt
+  symbol_en: kW
 LM:
   name_en: linear metre
   symbol_en: ''
@@ -70,11 +100,20 @@ PR:
 R9:
   name_en: thousand cubic metre
   symbol_en: ''
+RH:
+  name_en: running or operating hour
+  symbol_en: ''
 RM:
   name_en: ream
   symbol_en: ''
+RO:
+  name_en: roll
+  symbol_en: ''
 SET:
   name_en: set
+  symbol_en: ''
+T3:
+  name_en: thousand piece
   symbol_en: ''
 TNE:
   name_en: tonne (metric ton)
