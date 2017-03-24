@@ -381,6 +381,12 @@ data:
   name: Jersey Overseas Aid Commission
   public-database: false
   url: http://www.jerseyoverseasaid.org.je/
+- category: JP
+  code: JP-JCN
+  description: 'A code allocated to a company by the Japanese National Tax Agency. The registry itself is open and searchable by JCN (in Japanese only), but only limited information is available. More information on the corporate number (JCN) can be found here - http://www.nta.go.jp/foreign_language/corporate_number/ (National Tax Agency website). '
+  name: "JCN (Japanese Corporate Number). Japanese Corporate Registry - Houjintouki (\u6CD5\u4EBA\u767B\u8A18)"
+  public-database: true
+  url: http://www.houjin-bangou.nta.go.jp/
 - category: KE
   code: KE-NCB
   description: null
