@@ -236,8 +236,8 @@
   name: bulk car load
   symbol: ''
 4A:
-  name_ru: Бабина
-  symbol_ru: ''
+  name: Бабина
+  symbol: ''
 4B:
   name: cap
   symbol: ''
@@ -545,8 +545,8 @@ A43:
   name: deadweight tonnage
   symbol: dwt
 A44:
-  name_ru: Декалитр
-  symbol_ru: ДАл
+  name: Декалитр
+  symbol: ДАл
 A45:
   name: decametre
   symbol: dam
@@ -1175,8 +1175,8 @@ BW:
   name: base weight
   symbol: ''
 BX:
-  name_ru: ящик
-  symbol_ru: ящ.
+  name: ящик
+  symbol: ящ.
 BZ:
   name: million BTUs
   symbol: ''
@@ -1700,8 +1700,8 @@ D43:
   name: unified atomic mass unit
   symbol: u
 D44:
-  name_ru: Вар
-  symbol_ru: ВАр
+  name: Вар
+  symbol: ВАр
 D45:
   name: volt squared per kelvin squared
   symbol: V²/K²
@@ -1766,8 +1766,8 @@ D63:
   name: book
   symbol: ''
 D64:
-  name_ru: блок
-  symbol_ru: блок
+  name: блок
+  symbol: блок
 D65:
   name: round
   symbol: ''
@@ -1991,8 +1991,8 @@ E01:
   name: newton per square centimetre
   symbol: N/cm²
 E07:
-  name_ru: мегавват-час в час
-  symbol_ru: МВт-час/час
+  name: мегавват-час в час
+  symbol: МВт-час/час
 E08:
   name: megawatt per hertz
   symbol: MW/Hz
@@ -2003,14 +2003,14 @@ E10:
   name: degree day
   symbol: deg da
 E11:
-  name_ru: Гигакалория
-  symbol_ru: Гкал
+  name: Гигакалория
+  symbol: Гкал
 E12:
   name: mille
   symbol: ''
 E14:
-  name_ru: Килокалория
-  symbol_ru: Ккал
+  name: Килокалория
+  symbol: Ккал
 E15:
   name: kilocalorie (thermochemical) per hour
   symbol: kcalth/h
@@ -2111,20 +2111,20 @@ E47:
   name: kilowatt hour per kelvin
   symbol: kW·h/K
 E48:
-  name_ru: услуга
-  symbol_ru: усл.
+  name: услуга
+  symbol: усл.
 E49:
-  name_ru: Рабочие дни
-  symbol_ru: Раб.дни
+  name: Рабочие дни
+  symbol: Раб.дни
 E5:
   name: metric long ton
   symbol: ''
 E50:
-  name_ru: Единица
-  symbol_ru: ед.
+  name: Единица
+  symbol: ед.
 E51:
-  name_ru: работы
-  symbol_ru: раб.
+  name: работы
+  symbol: раб.
 E52:
   name: run foot
   symbol: ''
@@ -2132,8 +2132,8 @@ E53:
   name: test
   symbol: ''
 E54:
-  name_ru: рейс
-  symbol_ru: рейс
+  name: рейс
+  symbol: рейс
 E55:
   name: use
   symbol: ''
@@ -3014,8 +3014,8 @@ GQ:
   name: microgram per cubic metre
   symbol: µg/m³
 GRM:
-  name_ru: Грамм
-  symbol_ru: г
+  name: Грамм
+  symbol: г
 GRN:
   name: grain
   symbol: gr
@@ -3296,8 +3296,8 @@ H85:
   name: reciprocal week
   symbol: 1/wk
 H87:
-  name_ru: штуки
-  symbol_ru: шт.
+  name: штуки
+  symbol: шт.
 H88:
   name: megaohm kilometre
   symbol: MΩ·km
@@ -3335,8 +3335,8 @@ HA:
   name: hank
   symbol: ''
 HAR:
-  name_ru: гектар
-  symbol_ru: га.
+  name: гектар
+  symbol: га.
 HBA:
   name: hectobar
   symbol: hbar
@@ -3419,8 +3419,8 @@ HTZ:
   name: hertz
   symbol: Hz
 HUR:
-  name_ru: Час
-  symbol_ru: Ч.
+  name: Час
+  symbol: Ч.
 HY:
   name: hundred yard
   symbol: ''
@@ -3431,8 +3431,8 @@ IC:
   name: count per inch
   symbol: ''
 IE:
-  name_ru: Людей
-  symbol_ru: ''
+  name: Людей
+  symbol: ''
 IF:
   name: inches of water
   symbol: ''
@@ -4058,8 +4058,8 @@ KG:
   name: keg
   symbol: ''
 KGM:
-  name_ru: килограммы
-  symbol_ru: кг.
+  name: килограммы
+  symbol: кг.
 KGS:
   name: kilogram per second
   symbol: kg/s
@@ -4106,8 +4106,8 @@ KMQ:
   name: kilogram per cubic metre
   symbol: kg/m³
 KMT:
-  name_ru: километры
-  symbol_ru: км
+  name: километры
+  symbol: км
 KNI:
   name: kilogram of nitrogen
   symbol: kg N
@@ -4145,8 +4145,8 @@ KSH:
   name: kilogram of sodium hydroxide (caustic soda)
   symbol: kg NaOH
 KT:
-  name_ru: комплект
-  symbol_ru: ''
+  name: комплект
+  symbol: ''
 KTM:
   name: kilometre
   symbol: km
@@ -4160,8 +4160,8 @@ KVA:
   name: kilovolt - ampere
   symbol: kV·A
 KVR:
-  name_ru: Киловар
-  symbol_ru: кВар
+  name: Киловар
+  symbol: кВар
 KVT:
   name: kilovolt
   symbol: kV
@@ -4169,14 +4169,14 @@ KW:
   name: kilogram per millimetre
   symbol: kg/mm
 KWH:
-  name_ru: Киловатт-час
-  symbol_ru: кВт⋅ч
+  name: Киловатт-час
+  symbol: кВт⋅ч
 KWO:
   name: kilogram of tungsten trioxide
   symbol: kg WO₃
 KWT:
-  name_ru: Киловатт
-  symbol_ru: Квт
+  name: Киловатт
+  symbol: Квт
 KX:
   name: millilitre per kilogram
   symbol: ml/kg
@@ -4487,14 +4487,14 @@ LK:
   name: link
   symbol: ''
 LM:
-  name_ru: Погонный метр
-  symbol_ru: пог.м.
+  name: Погонный метр
+  symbol: пог.м.
 LN:
   name: length
   symbol: ''
 LO:
-  name_ru: лот
-  symbol_ru: лот
+  name: лот
+  symbol: лот
 LP:
   name: liquid pound
   symbol: ''
@@ -4511,8 +4511,8 @@ LTN:
   name: ton (UK) or long ton (US)
   symbol: ton (UK)
 LTR:
-  name_ru: литр
-  symbol_ru: л.
+  name: литр
+  symbol: л.
 LUB:
   name: metric ton, lubricating oil
   symbol: ''
@@ -4892,8 +4892,8 @@ MND:
   name: kilogram, dry weight
   symbol: ''
 MON:
-  name_ru: месяц
-  symbol_ru: месяц
+  name: месяц
+  symbol: месяц
 MPA:
   name: megapascal
   symbol: MPa
@@ -4913,14 +4913,14 @@ MT:
   name: mat
   symbol: ''
 MTK:
-  name_ru: метры квадратные
-  symbol_ru: м.кв.
+  name: метры квадратные
+  symbol: м.кв.
 MTQ:
-  name_ru: метры кубические
-  symbol_ru: м.куб.
+  name: метры кубические
+  symbol: м.куб.
 MTR:
-  name_ru: метры
-  symbol_ru: м
+  name: метры
+  symbol: м
 MTS:
   name: metre per second
   symbol: m/s
@@ -5267,8 +5267,8 @@ NMI:
   name: nautical mile
   symbol: n mile
 NMP:
-  name_ru: пачок
-  symbol_ru: пач.
+  name: пачок
+  symbol: пач.
 NN:
   name: train
   symbol: ''
@@ -5669,8 +5669,8 @@ PI:
   name: pitch
   symbol: ''
 PK:
-  name_ru: упаковка
-  symbol_ru: упак.
+  name: упаковка
+  symbol: упак.
 PL:
   name: pail
   symbol: ''
@@ -5690,8 +5690,8 @@ PQ:
   name: page per inch
   symbol: ppi
 PR:
-  name_ru: пара
-  symbol_ru: пар.
+  name: пара
+  symbol: пар.
 PS:
   name: pound-force per square inch
   symbol: lbf/in²
@@ -5834,8 +5834,8 @@ R4:
   name: calorie
   symbol: cal
 R9:
-  name_ru: тысяча кубических метров
-  symbol_ru: т.м.куб
+  name: тысяча кубических метров
+  symbol: т.м.куб
 RA:
   name: rack
   symbol: ''
@@ -5846,8 +5846,8 @@ RG:
   name: ring
   symbol: ''
 RH:
-  name_ru: Человек-час
-  symbol_ru: ''
+  name: Человек-час
+  symbol: ''
 RK:
   name: roll metric measure
   symbol: ''
@@ -5855,14 +5855,14 @@ RL:
   name: reel
   symbol: ''
 RM:
-  name_ru: пачка
-  symbol_ru: пач.
+  name: пачка
+  symbol: пач.
 RN:
   name: ream metric measure
   symbol: ''
 RO:
-  name_ru: Рулон
-  symbol_ru: ''
+  name: Рулон
+  symbol: ''
 ROM:
   name: room
   symbol: ''
@@ -5924,8 +5924,8 @@ SEC:
   name: second [unit of time]
   symbol: s
 SET:
-  name_ru: набор
-  symbol_ru: наб.
+  name: набор
+  symbol: наб.
 SG:
   name: segment
   symbol: ''
@@ -6008,8 +6008,8 @@ T1:
   name: thousand pound gross
   symbol: ''
 T3:
-  name_ru: Тысяч штук
-  symbol_ru: Тыс. шт.
+  name: Тысяч штук
+  symbol: Тыс. шт.
 T4:
   name: thousand bag
   symbol: ''
@@ -6074,8 +6074,8 @@ TN:
   name: tin
   symbol: ''
 TNE:
-  name_ru: тонны
-  symbol_ru: т.
+  name: тонны
+  symbol: т.
 TP:
   name: ten pack
   symbol: ''
@@ -6158,8 +6158,8 @@ VA:
   name: volt - ampere per kilogram
   symbol: V·A / kg
 VI:
-  name_ru: Флакон
-  symbol_ru: флак.
+  name: Флакон
+  symbol: флак.
 VLT:
   name: volt
   symbol: V
