@@ -236,8 +236,8 @@
   name: bulk car load
   symbol: ''
 4A:
-  name_uk: "\u0411\u043E\u0431\u0456\u043D\u0430"
-  symbol_uk: ''
+  name: "\u0411\u043E\u0431\u0456\u043D\u0430"
+  symbol: ''
 4B:
   name: cap
   symbol: ''
@@ -545,8 +545,8 @@ A43:
   name: deadweight tonnage
   symbol: dwt
 A44:
-  name_uk: "\u0414\u0435\u043A\u0430\u043B\u0456\u0442\u0440"
-  symbol_uk: "\u0414\u0410\u043B"
+  name: "\u0414\u0435\u043A\u0430\u043B\u0456\u0442\u0440"
+  symbol: "\u0414\u0410\u043B"
 A45:
   name: decametre
   symbol: dam
@@ -1175,8 +1175,8 @@ BW:
   name: base weight
   symbol: ''
 BX:
-  name_uk: "\u044F\u0449\u0438\u043A"
-  symbol_uk: "\u044F\u0449."
+  name: "\u044F\u0449\u0438\u043A"
+  symbol: "\u044F\u0449."
 BZ:
   name: million BTUs
   symbol: ''
@@ -1700,8 +1700,8 @@ D43:
   name: unified atomic mass unit
   symbol: u
 D44:
-  name_uk: "\u0412\u0430\u0440"
-  symbol_uk: "\u0412\u0410\u0440"
+  name: "\u0412\u0430\u0440"
+  symbol: "\u0412\u0410\u0440"
 D45:
   name: volt squared per kelvin squared
   symbol: "V\xB2/K\xB2"
@@ -1766,8 +1766,8 @@ D63:
   name: book
   symbol: ''
 D64:
-  name_uk: "\u0431\u043B\u043E\u043A"
-  symbol_uk: "\u0431\u043B\u043E\u043A"
+  name: "\u0431\u043B\u043E\u043A"
+  symbol: "\u0431\u043B\u043E\u043A"
 D65:
   name: round
   symbol: ''
@@ -1991,8 +1991,8 @@ E01:
   name: newton per square centimetre
   symbol: "N/cm\xB2"
 E07:
-  name_uk: "\u043C\u0435\u0433\u0430\u0432\u0430\u0442-\u0433\u043E\u0434\u0438\u043D\u0430 \u0432 \u0433\u043E\u0434\u0438\u043D\u0443"
-  symbol_uk: "\u041C\u0412\u0442-\u0433\u043E\u0434/\u0433\u043E\u0434"
+  name: "\u043C\u0435\u0433\u0430\u0432\u0430\u0442-\u0433\u043E\u0434\u0438\u043D\u0430 \u0432 \u0433\u043E\u0434\u0438\u043D\u0443"
+  symbol: "\u041C\u0412\u0442-\u0433\u043E\u0434/\u0433\u043E\u0434"
 E08:
   name: megawatt per hertz
   symbol: MW/Hz
@@ -2003,14 +2003,14 @@ E10:
   name: degree day
   symbol: deg da
 E11:
-  name_uk: "\u0413\u0456\u0433\u0430\u043A\u0430\u043B\u043E\u0440\u0456\u044F"
-  symbol_uk: "\u0413\u043A\u0430\u043B"
+  name: "\u0413\u0456\u0433\u0430\u043A\u0430\u043B\u043E\u0440\u0456\u044F"
+  symbol: "\u0413\u043A\u0430\u043B"
 E12:
   name: mille
   symbol: ''
 E14:
-  name_uk: "\u041A\u0456\u043B\u043E\u043A\u0430\u043B\u043E\u0440\u0456\u044F"
-  symbol_uk: "\u041A\u043A\u0430\u043B"
+  name: "\u041A\u0456\u043B\u043E\u043A\u0430\u043B\u043E\u0440\u0456\u044F"
+  symbol: "\u041A\u043A\u0430\u043B"
 E15:
   name: kilocalorie (thermochemical) per hour
   symbol: kcalth/h
@@ -2111,20 +2111,20 @@ E47:
   name: kilowatt hour per kelvin
   symbol: "kW\xB7h/K"
 E48:
-  name_uk: "\u043F\u043E\u0441\u043B\u0443\u0433\u0430"
-  symbol_uk: "\u043F\u043E\u0441\u043B."
+  name: "\u043F\u043E\u0441\u043B\u0443\u0433\u0430"
+  symbol: "\u043F\u043E\u0441\u043B."
 E49:
-  name_uk: "\u0420\u043E\u0431\u043E\u0447\u0456 \u0434\u043D\u0456"
-  symbol_uk: "\u0420\u043E\u0431.\u0434\u043D\u0456"
+  name: "\u0420\u043E\u0431\u043E\u0447\u0456 \u0434\u043D\u0456"
+  symbol: "\u0420\u043E\u0431.\u0434\u043D\u0456"
 E5:
   name: metric long ton
   symbol: ''
 E50:
-  name_uk: "\u041E\u0434\u0438\u043D\u0438\u0446\u044F"
-  symbol_uk: "\u043E\u0434."
+  name: "\u041E\u0434\u0438\u043D\u0438\u0446\u044F"
+  symbol: "\u043E\u0434."
 E51:
-  name_uk: "\u0440\u043E\u0431\u043E\u0442\u0438"
-  symbol_uk: "\u0440\u043E\u0431."
+  name: "\u0440\u043E\u0431\u043E\u0442\u0438"
+  symbol: "\u0440\u043E\u0431."
 E52:
   name: run foot
   symbol: ''
@@ -2132,8 +2132,8 @@ E53:
   name: test
   symbol: ''
 E54:
-  name_uk: "\u0440\u0435\u0439\u0441"
-  symbol_uk: "\u0440\u0435\u0439\u0441"
+  name: "\u0440\u0435\u0439\u0441"
+  symbol: "\u0440\u0435\u0439\u0441"
 E55:
   name: use
   symbol: ''
@@ -3014,8 +3014,8 @@ GQ:
   name: microgram per cubic metre
   symbol: "\xB5g/m\xB3"
 GRM:
-  name_uk: "\u0413\u0440\u0430\u043C"
-  symbol_uk: "\u0433"
+  name: "\u0413\u0440\u0430\u043C"
+  symbol: "\u0433"
 GRN:
   name: grain
   symbol: gr
@@ -3296,8 +3296,8 @@ H85:
   name: reciprocal week
   symbol: 1/wk
 H87:
-  name_uk: "\u0448\u0442\u0443\u043A\u0438"
-  symbol_uk: "\u0448\u0442."
+  name: "\u0448\u0442\u0443\u043A\u0438"
+  symbol: "\u0448\u0442."
 H88:
   name: megaohm kilometre
   symbol: "M\u2126\xB7km"
@@ -3335,8 +3335,8 @@ HA:
   name: hank
   symbol: ''
 HAR:
-  name_uk: "\u0433\u0435\u043A\u0442\u0430\u0440"
-  symbol_uk: "\u0433\u0430."
+  name: "\u0433\u0435\u043A\u0442\u0430\u0440"
+  symbol: "\u0433\u0430."
 HBA:
   name: hectobar
   symbol: hbar
@@ -3419,8 +3419,8 @@ HTZ:
   name: hertz
   symbol: Hz
 HUR:
-  name_uk: "\u0413\u043E\u0434\u0438\u043D\u0430"
-  symbol_uk: "\u0413\u043E\u0434."
+  name: "\u0413\u043E\u0434\u0438\u043D\u0430"
+  symbol: "\u0413\u043E\u0434."
 HY:
   name: hundred yard
   symbol: ''
@@ -3431,8 +3431,8 @@ IC:
   name: count per inch
   symbol: ''
 IE:
-  name_uk: "\u041B\u044E\u0434\u0435\u0439"
-  symbol_uk: ''
+  name: "\u041B\u044E\u0434\u0435\u0439"
+  symbol: ''
 IF:
   name: inches of water
   symbol: ''
@@ -4058,8 +4058,8 @@ KG:
   name: keg
   symbol: ''
 KGM:
-  name_uk: "\u043A\u0456\u043B\u043E\u0433\u0440\u0430\u043C\u0438"
-  symbol_uk: "\u043A\u0433."
+  name: "\u043A\u0456\u043B\u043E\u0433\u0440\u0430\u043C\u0438"
+  symbol: "\u043A\u0433."
 KGS:
   name: kilogram per second
   symbol: kg/s
@@ -4106,8 +4106,8 @@ KMQ:
   name: kilogram per cubic metre
   symbol: "kg/m\xB3"
 KMT:
-  name_uk: "\u043A\u0456\u043B\u043E\u043C\u0435\u0442\u0440\u0438"
-  symbol_uk: "\u043A\u043C"
+  name: "\u043A\u0456\u043B\u043E\u043C\u0435\u0442\u0440\u0438"
+  symbol: "\u043A\u043C"
 KNI:
   name: kilogram of nitrogen
   symbol: kg N
@@ -4145,8 +4145,8 @@ KSH:
   name: kilogram of sodium hydroxide (caustic soda)
   symbol: kg NaOH
 KT:
-  name_uk: "\u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0442"
-  symbol_uk: "\u043A\u043E\u043C\u043F."
+  name: "\u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0442"
+  symbol: "\u043A\u043E\u043C\u043F."
 KTM:
   name: kilometre
   symbol: km
@@ -4160,8 +4160,8 @@ KVA:
   name: kilovolt - ampere
   symbol: "kV\xB7A"
 KVR:
-  name_uk: "\u041A\u0456\u043B\u043E\u0432\u0430\u0440"
-  symbol_uk: "\u043A\u0412\u0430\u0440"
+  name: "\u041A\u0456\u043B\u043E\u0432\u0430\u0440"
+  symbol: "\u043A\u0412\u0430\u0440"
 KVT:
   name: kilovolt
   symbol: kV
@@ -4169,14 +4169,14 @@ KW:
   name: kilogram per millimetre
   symbol: kg/mm
 KWH:
-  name_uk: "\u041A\u0456\u043B\u043E\u0432\u0430\u0442-\u0433\u043E\u0434\u0438\u043D\u0430"
-  symbol_uk: "\u043A\u0412\u0442\u22C5\u0433\u043E\u0434"
+  name: "\u041A\u0456\u043B\u043E\u0432\u0430\u0442-\u0433\u043E\u0434\u0438\u043D\u0430"
+  symbol: "\u043A\u0412\u0442\u22C5\u0433\u043E\u0434"
 KWO:
   name: kilogram of tungsten trioxide
   symbol: "kg WO\u2083"
 KWT:
-  name_uk: "\u041A\u0456\u043B\u043E\u0432\u0430\u0442"
-  symbol_uk: "\u041A\u0432\u0442"
+  name: "\u041A\u0456\u043B\u043E\u0432\u0430\u0442"
+  symbol: "\u041A\u0432\u0442"
 KX:
   name: millilitre per kilogram
   symbol: ml/kg
@@ -4487,14 +4487,14 @@ LK:
   name: link
   symbol: ''
 LM:
-  name_uk: "\u041F\u043E\u0433\u043E\u043D\u043D\u0438\u0439 \u043C\u0435\u0442\u0440"
-  symbol_uk: "\u043F\u043E\u0433.\u043C."
+  name: "\u041F\u043E\u0433\u043E\u043D\u043D\u0438\u0439 \u043C\u0435\u0442\u0440"
+  symbol: "\u043F\u043E\u0433.\u043C."
 LN:
   name: length
   symbol: ''
 LO:
-  name_uk: "\u043B\u043E\u0442"
-  symbol_uk: "\u043B\u043E\u0442"
+  name: "\u043B\u043E\u0442"
+  symbol: "\u043B\u043E\u0442"
 LP:
   name: liquid pound
   symbol: ''
@@ -4511,8 +4511,8 @@ LTN:
   name: ton (UK) or long ton (US)
   symbol: ton (UK)
 LTR:
-  name_uk: "\u043B\u0456\u0442\u0440"
-  symbol_uk: "\u043B."
+  name: "\u043B\u0456\u0442\u0440"
+  symbol: "\u043B."
 LUB:
   name: metric ton, lubricating oil
   symbol: ''
@@ -4892,8 +4892,8 @@ MND:
   name: kilogram, dry weight
   symbol: ''
 MON:
-  name_uk: "\u043C\u0456\u0441\u044F\u0446\u044C"
-  symbol_uk: "\u043C\u0456\u0441\u044F\u0446\u044C"
+  name: "\u043C\u0456\u0441\u044F\u0446\u044C"
+  symbol: "\u043C\u0456\u0441\u044F\u0446\u044C"
 MPA:
   name: megapascal
   symbol: MPa
@@ -4913,14 +4913,14 @@ MT:
   name: mat
   symbol: ''
 MTK:
-  name_uk: "\u043C\u0435\u0442\u0440\u0438 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u043D\u0456"
-  symbol_uk: "\u043C.\u043A\u0432."
+  name: "\u043C\u0435\u0442\u0440\u0438 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u043D\u0456"
+  symbol: "\u043C.\u043A\u0432."
 MTQ:
-  name_uk: "\u043C\u0435\u0442\u0440\u0438 \u043A\u0443\u0431\u0456\u0447\u043D\u0456"
-  symbol_uk: "\u043C.\u043A\u0443\u0431."
+  name: "\u043C\u0435\u0442\u0440\u0438 \u043A\u0443\u0431\u0456\u0447\u043D\u0456"
+  symbol: "\u043C.\u043A\u0443\u0431."
 MTR:
-  name_uk: "\u043C\u0435\u0442\u0440\u0438"
-  symbol_uk: "\u043C"
+  name: "\u043C\u0435\u0442\u0440\u0438"
+  symbol: "\u043C"
 MTS:
   name: metre per second
   symbol: m/s
@@ -5267,8 +5267,8 @@ NMI:
   name: nautical mile
   symbol: n mile
 NMP:
-  name_uk: "\u043F\u0430\u0447\u043E\u043A"
-  symbol_uk: "\u043F\u0430\u0447."
+  name: "\u043F\u0430\u0447\u043E\u043A"
+  symbol: "\u043F\u0430\u0447."
 NN:
   name: train
   symbol: ''
@@ -5669,8 +5669,8 @@ PI:
   name: pitch
   symbol: ''
 PK:
-  name_uk: "\u0443\u043F\u0430\u043A\u043E\u0432\u043A\u0430"
-  symbol_uk: "\u0443\u043F\u0430\u043A."
+  name: "\u0443\u043F\u0430\u043A\u043E\u0432\u043A\u0430"
+  symbol: "\u0443\u043F\u0430\u043A."
 PL:
   name: pail
   symbol: ''
@@ -5690,8 +5690,8 @@ PQ:
   name: page per inch
   symbol: ppi
 PR:
-  name_uk: "\u043F\u0430\u0440\u0430"
-  symbol_uk: "\u043F\u0430\u0440."
+  name: "\u043F\u0430\u0440\u0430"
+  symbol: "\u043F\u0430\u0440."
 PS:
   name: pound-force per square inch
   symbol: "lbf/in\xB2"
@@ -5834,8 +5834,8 @@ R4:
   name: calorie
   symbol: cal
 R9:
-  name_uk: "\u0442\u0438\u0441\u044F\u0447\u0430 \u043A\u0443\u0431\u0456\u0447\u043D\u0438\u0445 \u043C\u0435\u0442\u0440\u0456\u0432"
-  symbol_uk: "\u0442.\u043C.\u043A\u0443\u0431"
+  name: "\u0442\u0438\u0441\u044F\u0447\u0430 \u043A\u0443\u0431\u0456\u0447\u043D\u0438\u0445 \u043C\u0435\u0442\u0440\u0456\u0432"
+  symbol: "\u0442.\u043C.\u043A\u0443\u0431"
 RA:
   name: rack
   symbol: ''
@@ -5846,8 +5846,8 @@ RG:
   name: ring
   symbol: ''
 RH:
-  name_uk: "\u041B\u044E\u0434\u0438\u043D\u043E-\u0433\u043E\u0434\u0438\u043D\u0430"
-  symbol_uk: ''
+  name: "\u041B\u044E\u0434\u0438\u043D\u043E-\u0433\u043E\u0434\u0438\u043D\u0430"
+  symbol: ''
 RK:
   name: roll metric measure
   symbol: ''
@@ -5855,14 +5855,14 @@ RL:
   name: reel
   symbol: ''
 RM:
-  name_uk: "\u043F\u0430\u0447\u043A\u0430"
-  symbol_uk: "\u043F\u0430\u0447."
+  name: "\u043F\u0430\u0447\u043A\u0430"
+  symbol: "\u043F\u0430\u0447."
 RN:
   name: ream metric measure
   symbol: ''
 RO:
-  name_uk: "\u0420\u0443\u043B\u043E\u043D"
-  symbol_uk: ''
+  name: "\u0420\u0443\u043B\u043E\u043D"
+  symbol: ''
 ROM:
   name: room
   symbol: ''
@@ -5924,8 +5924,8 @@ SEC:
   name: second [unit of time]
   symbol: s
 SET:
-  name_uk: "\u043D\u0430\u0431\u0456\u0440"
-  symbol_uk: "\u043D\u0430\u0431."
+  name: "\u043D\u0430\u0431\u0456\u0440"
+  symbol: "\u043D\u0430\u0431."
 SG:
   name: segment
   symbol: ''
@@ -6008,8 +6008,8 @@ T1:
   name: thousand pound gross
   symbol: ''
 T3:
-  name_uk: "\u0422\u0438\u0441\u044F\u0447 \u0448\u0442\u0443\u043A"
-  symbol_uk: "\u0422\u0438\u0441. \u0448\u0442."
+  name: "\u0422\u0438\u0441\u044F\u0447 \u0448\u0442\u0443\u043A"
+  symbol: "\u0422\u0438\u0441. \u0448\u0442."
 T4:
   name: thousand bag
   symbol: ''
@@ -6074,8 +6074,8 @@ TN:
   name: tin
   symbol: ''
 TNE:
-  name_uk: "\u0442\u043E\u043D\u0438"
-  symbol_uk: "\u0442."
+  name: "\u0442\u043E\u043D\u0438"
+  symbol: "\u0442."
 TP:
   name: ten pack
   symbol: ''
@@ -6158,8 +6158,8 @@ VA:
   name: volt - ampere per kilogram
   symbol: "V\xB7A / kg"
 VI:
-  name_uk: "\u0424\u043B\u0430\u043A\u043E\u043D"
-  symbol_uk: "\u0444\u043B\u0430\u043A."
+  name: "\u0424\u043B\u0430\u043A\u043E\u043D"
+  symbol: "\u0444\u043B\u0430\u043A."
 VLT:
   name: volt
   symbol: V
