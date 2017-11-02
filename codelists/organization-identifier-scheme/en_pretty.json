@@ -726,6 +726,14 @@
             "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu"
         },
         {
+            "category": "PT",
+            "code": "PT-NIPPC",
+            "description": "The business register is governed by the Business Registry Code, adopted by Decree-Law No 403/86 of 3 December 1986, and is the responsibility of the business registry offices throughout the country; these offices are external services of the Institute of Registrars and Notaries (IRN), a public body under aegis of the Ministry of Justice.",
+            "name": "Tax identification number of the entity",
+            "public-database": true,
+            "url": "https://www.portaldocidadao.pt/"
+        },
+        {
             "category": "RO",
             "code": "RO-CUI",
             "description": null,
