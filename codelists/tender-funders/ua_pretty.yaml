@@ -1,0 +1,19 @@
+- additionalIdentifiers: []
+  address:
+    countryName: USA
+    locality: Washington
+    postalCode: '20433'
+    region: DC
+    streetAddress: 1818 H Street, NW
+  contactPoint:
+    email: ukraine@worldbank.org
+    faxNumber: +38044 4906670
+    name: Дар’я Гулей
+    telephone: +38044 4906671
+    url: http://www.worldbank.org/uk/country/ukraine
+  identifier:
+    id: '44000'
+    legalName: Міжнародний банк реконструкції та розвитку (МБРР)
+    scheme: XM-DAC
+    uri: ''
+  name: Світовий Банк
