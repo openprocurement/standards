@@ -669,6 +669,12 @@ data:
   name: Index of U.S. Government Departments and Agencies
   public-database: true
   url: http://www.usa.gov/directory/federal/index.shtml
+- category: UZ
+  code: UZ-KTUT
+  description: "The State Statistics Committee of the Republic of Uzbekistan maintans the United State Register of corporate entites and organizations (\u041A\u043E\u0440\u0445\u043E\u043D\u0430\u043B\u0430\u0440 \u0432\u0430 \u0442\u0430\u0448\u043A\u0438\u043B\u043E\u0442\u043B\u0430\u0440\u043D\u0438\u043D\u0433 \u044F\u0433\u043E\u043D\u0430 \u0434\u0430\u0432\u043B\u0430\u0442)"
+  name: Legal entity indentification code
+  public-database: false
+  url: https://my.gov.uz/uz/regService/413
 - category: XI
   code: XI-IATI
   description: XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.
