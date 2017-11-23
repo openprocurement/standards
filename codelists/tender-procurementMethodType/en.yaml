@@ -20,7 +20,7 @@
   procurementMethodType: negotiation
 - autoInitiated: false
   description: 'A Procuring entity uses this procedure as an exception, resulting in a procurement contract signature with the Participant after conducting negotiations with one or more Participants. It is not required to develop and publish tender documentation in this type of procedure. It is used only if the reason listed in clause 3 of Article 35 of the Law "On Public Procurement" for this procedure is documentary confirmed. The Procuring entity publishes a decision to sign a contract and immediately enters information about the participants and defines the Awarded participant (awards: status: active). This decision is published on the web portal of the Authorized Agency as the intention to conclude an agreement. The complaint period is 5 days.'
-  name: Negotiated procedure in urgent cases
+  name: Negotiated procedure (in urgent cases)
   procurementMethod: limited
   procurementMethodType: negotiation.quick
 - autoInitiated: false
