@@ -526,11 +526,11 @@ data:
     public-database: false
     url: No Website available
 -   category: PL
-    code: PL-REGON
-    description: Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the business register.
-    name: National Official Business Register
+    code: PL-KRS
+    description: Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the court register.
+    name: The National Court Register
     public-database: true
-    url: http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/
+    url: https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu
 -   category: PL
     code: PL-NIP
     description: Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the tax register.
@@ -538,11 +538,11 @@ data:
     public-database: true
     url: https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu, https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx
 -   category: PL
-    code: PL-KRS
-    description: Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the court register.
-    name: The National Court Register
+    code: PL-REGON
+    description: Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the business register.
+    name: National Official Business Register
     public-database: true
-    url: https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu
+    url: http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/
 -   category: PT
     code: PT-NIPPC
     description: The business register is governed by the Business Registry Code, adopted by Decree-Law No 403/86 of 3 December 1986, and is the responsibility of the business registry offices throughout the country; these offices are external services of the Institute of Registrars and Notaries (IRN), a public body under aegis of the Ministry of Justice.
@@ -611,7 +611,7 @@ data:
     url: http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx
 -   category: TR
     code: TR-VAT
-    description: 'All resident legal entities obtain a TIN (Vergi Kimlik Numarasi) automatically since they are subject to tax. Although legal arrangements like ordinary partnerships are not subject to corporate income tax, TIN is issued to them while registering to local tax offices. Consists of 10 digits. Information can be found at http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx. Only in Turkish, not available to the broad audience.'
+    description: "All resident legal entities obtain a TIN (Vergi Kimlik Numarasi) automatically since they are subject to tax. Although legal\narrangements like ordinary partnerships are not subject to corporate income tax, TIN is issued to\nthem while registering to local tax offices. Consists of 10 digits. Information can be found at http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx. Only in Turkish, not available to the broad audience."
     name: Vergi Kimlik Numarası - VAT
     public-database: false
     url: http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx
@@ -628,17 +628,17 @@ data:
     public-database: true
     url: http://irc.gov.ua/ua/Poshuk-v-YeDR.html
 -   category: UA
-    code: UA-IPN
-    description: ''
-    name: State Fiscal Service of Ukraine / Державна фіскальна служба України
-    public-database: false
-    url: http://sfs.gov.ua/
--   category: UA
     code: UA-FIN
     description: ''
     name: State Register of Financial Institutions / Державний реєстр фінансових установ
     public-database: true
     url: http://nfp.gov.ua/content/derzhavniy-reestr.html
+-   category: UA
+    code: UA-IPN
+    description: ''
+    name: State Fiscal Service of Ukraine / Державна фіскальна служба України
+    public-database: false
+    url: http://sfs.gov.ua/
 -   category: UG
     code: UG-NGB
     description: null
