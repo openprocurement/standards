@@ -206,6 +206,13 @@
             "url": "http://www.zefix.ch/"
         },
         {
+            "category": "CL",
+            "code": "CL-RUT",
+            "description": "Internal Revenue Service of Chile (Servicio de Impuestos Internos de Chile) maintains the register of economic activity of legal entities and self-employed. Tax Identication Number is the same as National Identification Number.",
+            "public-database": true,
+            "url": "https://zeus.sii.cl/cvc/stc/stc.html"
+        },
+        {
             "category": "CN",
             "code": "CN-SAIC",
             "description": "The database is only available in Chinese language",
@@ -703,11 +710,11 @@
         },
         {
             "category": "PL",
-            "code": "PL-REGON",
-            "description": "Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the business register.",
-            "name": "National Official Business Register",
+            "code": "PL-KRS",
+            "description": "Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the court register.",
+            "name": "The National Court Register",
             "public-database": true,
-            "url": "http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/"
+            "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu"
         },
         {
             "category": "PL",
@@ -719,11 +726,11 @@
         },
         {
             "category": "PL",
-            "code": "PL-KRS",
-            "description": "Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the court register.",
-            "name": "The National Court Register",
+            "code": "PL-REGON",
+            "description": "Every business entry in Poland is assigned an ID in 3 different registries:business, court, and tax. This is the business register.",
+            "name": "National Official Business Register",
             "public-database": true,
-            "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu"
+            "url": "http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/"
         },
         {
             "category": "PT",
@@ -839,19 +846,19 @@
         },
         {
             "category": "UA",
-            "code": "UA-IPN",
-            "description": "",
-            "name": "State Fiscal Service of Ukraine / \u0414\u0435\u0440\u0436\u0430\u0432\u043d\u0430 \u0444\u0456\u0441\u043a\u0430\u043b\u044c\u043d\u0430 \u0441\u043b\u0443\u0436\u0431\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
-            "public-database": false,
-            "url": "http://sfs.gov.ua/"
-        },
-        {
-            "category": "UA",
             "code": "UA-FIN",
             "description": "",
             "name": "State Register of Financial Institutions / \u0414\u0435\u0440\u0436\u0430\u0432\u043d\u0438\u0439 \u0440\u0435\u0454\u0441\u0442\u0440 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0438\u0445 \u0443\u0441\u0442\u0430\u043d\u043e\u0432",
             "public-database": true,
             "url": "http://nfp.gov.ua/content/derzhavniy-reestr.html"
+        },
+        {
+            "category": "UA",
+            "code": "UA-IPN",
+            "description": "",
+            "name": "State Fiscal Service of Ukraine / \u0414\u0435\u0440\u0436\u0430\u0432\u043d\u0430 \u0444\u0456\u0441\u043a\u0430\u043b\u044c\u043d\u0430 \u0441\u043b\u0443\u0436\u0431\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+            "public-database": false,
+            "url": "http://sfs.gov.ua/"
         },
         {
             "category": "UG",
