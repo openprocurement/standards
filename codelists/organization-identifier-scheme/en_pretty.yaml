@@ -303,6 +303,12 @@ data:
     name: Department of Social Welfare
     public-database: false
     url: null
+-   category: HR
+    code: HR-OIB
+    description: The registry is maintained by the Ministry of Justice of the Republic of Croatia. Company can be searched by MBS, OIB number or legal name. Search results provide MBS and OIB numbers, registration court, company name, status, company name current status, and address. There is no English interface, search is free-of-charge.
+    name: Personal Identification Number
+    public-database: true
+    url: https://sudreg.pravosudje.hr/registar/f?p=150:3
 -   category: HU
     code: HU-VAT
     description: Közösségi adószám serves as both tax number and VAT ID. No abbreviation is used.
