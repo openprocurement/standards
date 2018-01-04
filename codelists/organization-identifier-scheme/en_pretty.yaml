@@ -417,6 +417,12 @@ data:
     name: Registrar of Societies
     public-database: false
     url: http://www.attorney-general.go.ke/
+-   category: KR
+    code: KR-BIZID
+    description: Only in Korean. All new companies register at http://www.startbiz.go.kr/EP/web/portal/jsp/EP_Default1.jsp and get their Biz ID Num. at the local tax office, which can be found at National Tax Service(http://www.nts.go.kr/eng/). Business code number is equivalent to TIN.
+    name: National Tax Office of the Republic of Korea
+    public-database: true
+    url: https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index.xml&tmIdx=0&tm2lIdx=&tm3lIdx=
 -   category: KZ
     code: KZ-BIN
     description: A unique code every legal entity or an individual enterpreneur must obtain.
