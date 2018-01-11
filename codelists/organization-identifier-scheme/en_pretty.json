@@ -150,6 +150,14 @@
             "url": "http://www.acnc.gov.au/ACNC/"
         },
         {
+            "category": "AZ",
+            "code": "AZ-IVI",
+            "description": "State Register of Commercial Entities is maintained by the the Ministry of Taxes of Azerbaijan Republic. Available only in Azerbaijani.",
+            "name": "State Register of Commercial Entities",
+            "public-database": true,
+            "url": "https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp"
+        },
+        {
             "category": "BD",
             "code": "BD-NAB",
             "description": null,
