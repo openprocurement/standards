@@ -162,5 +162,53 @@
     "VI": {
         "name_en": "vial", 
         "symbol_en": ""
+    },
+    "SEC": {
+        "name_en": "second [unit of time]",
+        "symbol_en": "s"
+    },
+    "DMK": {
+        "name_en": "square decimetre",
+        "symbol_en": "dm\u00b2"
+    },
+    "JR": {
+        "name_en": "jar",
+        "symbol_en": ""
+    },
+    "E27": {
+        "name_en": "dose",
+        "symbol_en": ""
+    },
+    "MLT": {
+        "name_en": "millilitre",
+        "symbol_en": "ml"
+    },
+    "ST": {
+        "name_en": "sheet",
+        "symbol_en": ""
+    },
+    "BO": {
+        "name_en": "bottle",
+        "symbol_en": ""
+    },
+    "PA": {
+        "name_en": "packet",
+        "symbol_en": ""
+    },
+    "MIN": {
+        "name_en": "minute [unit of time]",
+        "symbol_en": "min"
+    },
+    "CMT": {
+        "name_en": "centimetre",
+        "symbol_en": "cm"
+    },
+    "CMK": {
+        "name_en": "square centimetre",
+        "symbol_en": "cm\u00b2"
+    },
+    "CMQ": {
+        "name_en": "cubic centimetre",
+        "symbol_en": "cm\u00b3"
     }
 }
