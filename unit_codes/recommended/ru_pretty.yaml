@@ -121,3 +121,39 @@ TNE:
 VI:
   name_ru: Флакон
   symbol_ru: флак.
+SEC:
+  name_ru: секунда
+  symbol_ru: с
+DMK:
+  name_ru: дециметр квадратний
+  symbol_ru: дц.кв.
+JR:
+  name_ru: банка
+  symbol_ru: банк.
+E27:
+  name_ru: доза
+  symbol_ru: доз.
+MLT:
+  name_ru: милилитр
+  symbol_ru: мл.
+ST:
+  name_ru: лист
+  symbol_ru: лист
+BO:
+  name_ru: бутылка
+  symbol_ru: бут.
+PA:
+  name_ru: пакет
+  symbol_ru: пак.
+MIN:
+  name_ru: минута
+  symbol_ru: мин.
+CMT:
+ name_ru: сантиметр
+ symbol_ru: см.
+CMK:
+  name_ru: сантиметр в квадрате
+  symbol_ru: см.кв.
+CMQ:
+  name_ru: сантиметр в кубе
+  symbol_ru: см.куб.
