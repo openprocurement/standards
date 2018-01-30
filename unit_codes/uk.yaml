@@ -1148,8 +1148,8 @@ BLL:
   name: barrel (US)
   symbol: barrel (US)
 BO:
-  name: bottle
-  symbol: ''
+  name: "\u041f\u043b\u044f\u0448\u043a\u0438"
+  symbol: "\u043f\u043b\u044f\u0448"
 BP:
   name: hundred board foot
   symbol: ''
@@ -1523,14 +1523,14 @@ CLT:
   name: centilitre
   symbol: cl
 CMK:
-  name: square centimetre
-  symbol: "cm\xB2"
+  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0456"
+  symbol: "\u0441\u043c\u00b2"
 CMQ:
-  name: cubic centimetre
-  symbol: "cm\xB3"
+  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u043d\u0442\u0440 \u0432 \u043a\u0443\u0431\u0456"
+  symbol: "\u0441\u043c\u00b3"
 CMT:
-  name: centimetre
-  symbol: cm
+  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440"
+  symbol: "\u0441\u043c"
 CNP:
   name: hundred pack
   symbol: ''
@@ -1919,8 +1919,8 @@ DMA:
   name: cubic decametre
   symbol: "dam\xB3"
 DMK:
-  name: square decimetre
-  symbol: "dm\xB2"
+  name: "\u0434\u0435\u0446\u0438\u043c\u0435\u0442\u0440 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0456"
+  symbol: "\u0434\u0446\u00b2"
 DMO:
   name: standard kilolitre
   symbol: ''
@@ -2045,8 +2045,8 @@ E25:
   name: active unit
   symbol: ''
 E27:
-  name: dose
-  symbol: ''
+  name: "\u0434\u043e\u0437\u0430"
+  symbol: "\u0434\u043e\u0437"
 E28:
   name: air dry ton
   symbol: ''
@@ -3752,8 +3752,8 @@ JPS:
   name: hundred metre
   symbol: ''
 JR:
-  name: jar
-  symbol: ''
+  name: "\u0431\u0430\u043d\u043a\u0430"
+  symbol: "\u0431\u0430\u043d\u043a"
 JWL:
   name: number of jewels
   symbol: ''
@@ -4862,8 +4862,8 @@ MIL:
   name: thousand
   symbol: ''
 MIN:
-  name: minute [unit of time]
-  symbol: min
+  name: "\u0445\u0432\u0438\u043b\u0438\u043d\u0430"
+  symbol: "\u0445\u0432"
 MIO:
   name: million
   symbol: ''
@@ -4877,8 +4877,8 @@ MLD:
   name: milliard
   symbol: ''
 MLT:
-  name: millilitre
-  symbol: ml
+  name: "\u043c\u0456\u043b\u0456\u043b\u0456\u0442\u0440"
+  symbol: "\u043c\u043b"
 MMK:
   name: square millimetre
   symbol: "mm\xB2"
@@ -5639,8 +5639,8 @@ P99:
   name: mole per cubiv metre to the power sum of stoichiometric numbers
   symbol: "(mol/m\xB3)\u2211\u03BDB"
 PA:
-  name: packet
-  symbol: ''
+  name: "\u043f\u0430\u043a\u0443\u043d\u043e\u043a"
+  symbol: "\u043f\u0430\u043a"
 PAL:
   name: pascal
   symbol: Pa
@@ -5921,8 +5921,8 @@ SE:
   name: section
   symbol: ''
 SEC:
-  name: second [unit of time]
-  symbol: s
+  name: "\u0441\u0435\u043a\u0443\u043d\u0434\u0430"
+  symbol: "\u0441"
 SET:
   name: "\u043D\u0430\u0431\u0456\u0440"
   symbol: "\u043D\u0430\u0431."
@@ -5969,8 +5969,8 @@ SST:
   name: short standard (7200 matches)
   symbol: ''
 ST:
-  name: sheet
-  symbol: ''
+  name: "\u0430\u0440\u043a\u0443\u0448"
+  symbol: "\u0430\u0440\u043a"
 STC:
   name: stick
   symbol: ''

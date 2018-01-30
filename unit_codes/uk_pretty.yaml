@@ -1148,8 +1148,8 @@ BLL:
   name: barrel (US)
   symbol: barrel (US)
 BO:
-  name: bottle
-  symbol: ''
+  name: Пляшки
+  symbol: пляш.
 BP:
   name: hundred board foot
   symbol: ''
@@ -1523,14 +1523,14 @@ CLT:
   name: centilitre
   symbol: cl
 CMK:
-  name: square centimetre
-  symbol: cm²
+  name: сантиметр в квадраті
+  symbol: см.кв.
 CMQ:
-  name: cubic centimetre
-  symbol: cm³
+  name: сантиментр в кубі
+  symbol: см.куб.
 CMT:
-  name: centimetre
-  symbol: cm
+  name: сантиметр
+  symbol: см.
 CNP:
   name: hundred pack
   symbol: ''
@@ -1919,8 +1919,8 @@ DMA:
   name: cubic decametre
   symbol: dam³
 DMK:
-  name: square decimetre
-  symbol: dm²
+  name: дециметр в квадраті
+  symbol: дц.кв.
 DMO:
   name: standard kilolitre
   symbol: ''
@@ -2045,8 +2045,8 @@ E25:
   name: active unit
   symbol: ''
 E27:
-  name: dose
-  symbol: ''
+  name: доза
+  symbol: доз.
 E28:
   name: air dry ton
   symbol: ''
@@ -3752,8 +3752,8 @@ JPS:
   name: hundred metre
   symbol: ''
 JR:
-  name: jar
-  symbol: ''
+  name: банка
+  symbol: банк.
 JWL:
   name: number of jewels
   symbol: ''
@@ -4862,8 +4862,8 @@ MIL:
   name: thousand
   symbol: ''
 MIN:
-  name: minute [unit of time]
-  symbol: min
+  name: хвилина
+  symbol: хв.
 MIO:
   name: million
   symbol: ''
@@ -4877,8 +4877,8 @@ MLD:
   name: milliard
   symbol: ''
 MLT:
-  name: millilitre
-  symbol: ml
+  name: мілілітр
+  symbol: мл.
 MMK:
   name: square millimetre
   symbol: mm²
@@ -5639,8 +5639,8 @@ P99:
   name: mole per cubiv metre to the power sum of stoichiometric numbers
   symbol: (mol/m³)∑νB
 PA:
-  name: packet
-  symbol: ''
+  name: пакунок
+  symbol: пак.
 PAL:
   name: pascal
   symbol: Pa
@@ -5921,8 +5921,8 @@ SE:
   name: section
   symbol: ''
 SEC:
-  name: second [unit of time]
-  symbol: s
+  name: секунда
+  symbol: с.
 SET:
   name: набір
   symbol: наб.
@@ -5969,8 +5969,8 @@ SST:
   name: short standard (7200 matches)
   symbol: ''
 ST:
-  name: sheet
-  symbol: ''
+  name: аркуш
+  symbol: арк.
 STC:
   name: stick
   symbol: ''
