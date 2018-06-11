@@ -1,0 +1,126 @@
+4A:
+  name_uk: Бобіна
+  symbol_uk: ''
+BX:
+  name_uk: ящик
+  symbol_uk: ящ.
+D44:
+  name_uk: Вар
+  symbol_uk: ВАр
+D64:
+  name_uk: блок
+  symbol_uk: блок
+E07:
+  name_uk: мегават-година в годину
+  symbol_uk: МВт-год/год
+E11:
+  name_uk: Гігакалорія
+  symbol_uk: Гкал
+E14:
+  name_uk: Кілокалорія
+  symbol_uk: Ккал
+E48:
+  name_uk: послуга
+  symbol_uk: посл.
+E49:
+  name_uk: Робочі дні
+  symbol_uk: Роб.дні
+E50:
+  name_uk: Одиниця
+  symbol_uk: од.
+E51:
+  name_uk: роботи
+  symbol_uk: роб.
+E54:
+  name_uk: рейс
+  symbol_uk: рейс
+GRM:
+  name_uk: Грам
+  symbol_uk: г
+H87:
+  name_uk: штуки
+  symbol_uk: шт.
+HAR:
+  name_uk: гектар
+  symbol_uk: га.
+HUR:
+  name_uk: Година
+  symbol_uk: Год.
+IE:
+  name_uk: Людей
+  symbol_uk: ''
+KGM:
+  name_uk: кілограми
+  symbol_uk: кг.
+KMT:
+  name_uk: кілометри
+  symbol_uk: км
+KT:
+  name_uk: комплект
+  symbol_uk: комп.
+KVR:
+  name_uk: Кіловар
+  symbol_uk: кВар
+KWH:
+  name_uk: Кіловат-година
+  symbol_uk: кВт⋅год
+KWT:
+  name_uk: Кіловат
+  symbol_uk: Квт
+LM:
+  name_uk: Погонний метр
+  symbol_uk: пог.м.
+LO:
+  name_uk: лот
+  symbol_uk: лот
+LTR:
+  name_uk: літр
+  symbol_uk: л.
+MON:
+  name_uk: місяць
+  symbol_uk: місяць
+MTK:
+  name_uk: метри квадратні
+  symbol_uk: м.кв.
+MTQ:
+  name_uk: метри кубічні
+  symbol_uk: м.куб.
+MTR:
+  name_uk: метри
+  symbol_uk: м
+NMP:
+  name_uk: пачок
+  symbol_uk: пач.
+P1:
+  name_uk: відсоток
+  symbol_uk: %
+PK:
+  name_uk: упаковка
+  symbol_uk: упак.
+PR:
+  name_uk: пара
+  symbol_uk: пар.
+R9:
+  name_uk: тисяча кубічних метрів
+  symbol_uk: т.м.куб
+RH:
+  name_uk: Людино-година
+  symbol_uk: ''
+RM:
+  name_uk: пачка
+  symbol_uk: пач.
+RO:
+  name_uk: Рулон
+  symbol_uk: ''
+SET:
+  name_uk: набір
+  symbol_uk: наб.
+T3:
+  name_uk: Тисяч штук
+  symbol_uk: Тис. шт.
+TNE:
+  name_uk: тони
+  symbol_uk: т.
+VI:
+  name_uk: Флакон
+  symbol_uk: флак.
