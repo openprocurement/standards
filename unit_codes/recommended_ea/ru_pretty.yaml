@@ -1,0 +1,126 @@
+4A:
+  name_ru: Бабина
+  symbol_ru: ''
+BX:
+  name_ru: ящик
+  symbol_ru: ящ.
+D44:
+  name_ru: Вар
+  symbol_ru: ВАр
+D64:
+  name_ru: блок
+  symbol_ru: блок
+E07:
+  name_ru: мегавват-час в час
+  symbol_ru: МВт-час/час
+E11:
+  name_ru: Гигакалория
+  symbol_ru: Гкал
+E14:
+  name_ru: Килокалория
+  symbol_ru: Ккал
+E48:
+  name_ru: услуга
+  symbol_ru: усл.
+E49:
+  name_ru: Рабочие дни
+  symbol_ru: Раб.дни
+E50:
+  name_ru: Единица
+  symbol_ru: ед.
+E51:
+  name_ru: работы
+  symbol_ru: раб.
+E54:
+  name_ru: рейс
+  symbol_ru: рейс
+GRM:
+  name_ru: Грамм
+  symbol_ru: г
+H87:
+  name_ru: штуки
+  symbol_ru: шт.
+HAR:
+  name_ru: гектар
+  symbol_ru: га.
+HUR:
+  name_ru: Час
+  symbol_ru: Ч.
+IE:
+  name_ru: Людей
+  symbol_ru: ''
+KGM:
+  name_ru: килограммы
+  symbol_ru: кг.
+KMT:
+  name_ru: километры
+  symbol_ru: км
+KT:
+  name_ru: комплект
+  symbol_ru: ''
+KVR:
+  name_ru: Киловар
+  symbol_ru: кВар
+KWH:
+  name_ru: Киловатт-час
+  symbol_ru: кВт⋅ч
+KWT:
+  name_ru: Киловатт
+  symbol_ru: Квт
+LM:
+  name_ru: Погонный метр
+  symbol_ru: пог.м.
+LO:
+  name_ru: лот
+  symbol_ru: лот
+LTR:
+  name_ru: литр
+  symbol_ru: л.
+MON:
+  name_ru: месяц
+  symbol_ru: месяц
+MTK:
+  name_ru: метры квадратные
+  symbol_ru: м.кв.
+MTQ:
+  name_ru: метры кубические
+  symbol_ru: м.куб.
+MTR:
+  name_ru: метры
+  symbol_ru: м
+NMP:
+  name_ru: пачок
+  symbol_ru: пач.
+P1:
+  name_ru: процент
+  symbol_ru: %
+PK:
+  name_ru: упаковка
+  symbol_ru: упак.
+PR:
+  name_ru: пара
+  symbol_ru: пар.
+R9:
+  name_ru: тысяча кубических метров
+  symbol_ru: т.м.куб
+RH:
+  name_ru: Человек-час
+  symbol_ru: ''
+RM:
+  name_ru: пачка
+  symbol_ru: пач.
+RO:
+  name_ru: Рулон
+  symbol_ru: ''
+SET:
+  name_ru: набор
+  symbol_ru: наб.
+T3:
+  name_ru: Тысяч штук
+  symbol_ru: Тыс. шт.
+TNE:
+  name_ru: тонны
+  symbol_ru: т.
+VI:
+  name_ru: Флакон
+  symbol_ru: флак.
